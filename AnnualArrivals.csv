@@ -1,0 +1,5183 @@
+ID,Country,Region,Year,Value
+1,Canada (air only),North America,2000,5372430
+2,Canada (air only),North America,2001,4654873
+3,Canada (air only),North America,2002,4180876
+4,Canada (air only),North America,2003,4173306
+5,Canada (air only),North America,2004,4583391
+6,Canada (air only),North America,2005,5119972
+7,Canada (air only),North America,2006,5521020
+8,Canada (air only),North America,2007,5882840
+9,Canada (air only),North America,2008,6347820
+10,Canada (air only),North America,2009,6098292
+11,Canada (air only),North America,2010,6910033
+12,Canada (air only),North America,2011,7471903
+13,Canada (air only),North America,2012,7691420
+14,Canada (air only),North America,2013,8057093
+15,Canada (air only),North America,2014,8243286
+16,Canada (air only),North America,2015,7968265
+17,Canada (air only),North America,2016,7810277
+18,Canada (air only),North America,2017,8807606
+19,Canada (air only),North America,2018,9587328
+20,Canada (air only),North America,2019,9013234
+21,Canada (air only),North America,2020,2574253
+22,Canada (air only),North America,2021,1471093
+23,Canada (air only),North America,2022,7173912
+24,Mexico (air only),North America,2000,1736609
+25,Mexico (air only),North America,2001,1512980
+26,Mexico (air only),North America,2002,1436727
+27,Mexico (air only),North America,2003,1359418
+28,Mexico (air only),North America,2004,1493971
+29,Mexico (air only),North America,2005,1668432
+30,Mexico (air only),North America,2006,1713158
+31,Mexico (air only),North America,2007,1878399
+32,Mexico (air only),North America,2008,1708320
+33,Mexico (air only),North America,2009,1511110
+34,Mexico (air only),North America,2010,1674913
+35,Mexico (air only),North America,2011,1985450
+36,Mexico (air only),North America,2012,2128785
+37,Mexico (air only),North America,2013,2444903
+38,Mexico (air only),North America,2014,2514226
+39,Mexico (air only),North America,2015,2674721
+40,Mexico (air only),North America,2016,2584674
+41,Mexico (air only),North America,2017,2516015
+42,Mexico (air only),North America,2018,2757208
+43,Mexico (air only),North America,2019,2796528
+44,Mexico (air only),North America,2020,1088569
+45,Mexico (air only),North America,2021,3306646
+46,Mexico (air only),North America,2022,2542768
+47,Afghanistan,Asia,2000,129
+48,Afghanistan,Asia,2001,125
+49,Afghanistan,Asia,2002,135
+50,Afghanistan,Asia,2003,227
+51,Afghanistan,Asia,2004,304
+52,Afghanistan,Asia,2005,671
+53,Afghanistan,Asia,2006,678
+54,Afghanistan,Asia,2007,717
+55,Afghanistan,Asia,2008,548
+56,Afghanistan,Asia,2009,1138
+57,Afghanistan,Asia,2010,1261
+58,Afghanistan,Asia,2011,1800
+59,Afghanistan,Asia,2012,1409
+60,Afghanistan,Asia,2013,1827
+61,Afghanistan,Asia,2014,2732
+62,Afghanistan,Asia,2015,2956
+63,Afghanistan,Asia,2016,3113
+64,Afghanistan,Asia,2017,2024
+65,Afghanistan,Asia,2018,2246
+66,Afghanistan,Asia,2019,3170
+67,Afghanistan,Asia,2020,928
+68,Afghanistan,Asia,2021,898
+69,Afghanistan,Asia,2022,3159
+70,Albania,Eastern Europe,2000,5737
+71,Albania,Eastern Europe,2001,4453
+72,Albania,Eastern Europe,2002,4405
+73,Albania,Eastern Europe,2003,4101
+74,Albania,Eastern Europe,2004,4160
+75,Albania,Eastern Europe,2005,5986
+76,Albania,Eastern Europe,2006,4850
+77,Albania,Eastern Europe,2007,5178
+78,Albania,Eastern Europe,2008,6317
+79,Albania,Eastern Europe,2009,5230
+80,Albania,Eastern Europe,2010,5480
+81,Albania,Eastern Europe,2011,5217
+82,Albania,Eastern Europe,2012,5216
+83,Albania,Eastern Europe,2013,6054
+84,Albania,Eastern Europe,2014,6583
+85,Albania,Eastern Europe,2015,9678
+86,Albania,Eastern Europe,2016,12317
+87,Albania,Eastern Europe,2017,15757
+88,Albania,Eastern Europe,2018,17782
+89,Albania,Eastern Europe,2019,18715
+90,Albania,Eastern Europe,2020,6014
+91,Albania,Eastern Europe,2021,9090
+92,Albania,Eastern Europe,2022,16060
+93,Algeria,Africa,2000,3294
+94,Algeria,Africa,2001,3268
+95,Algeria,Africa,2002,1988
+96,Algeria,Africa,2003,1631
+97,Algeria,Africa,2004,1802
+98,Algeria,Africa,2005,2409
+99,Algeria,Africa,2006,2894
+100,Algeria,Africa,2007,3283
+101,Algeria,Africa,2008,4274
+102,Algeria,Africa,2009,4592
+103,Algeria,Africa,2010,4116
+104,Algeria,Africa,2011,5266
+105,Algeria,Africa,2012,5446
+106,Algeria,Africa,2013,7361
+107,Algeria,Africa,2014,10467
+108,Algeria,Africa,2015,10740
+109,Algeria,Africa,2016,11848
+110,Algeria,Africa,2017,12438
+111,Algeria,Africa,2018,12690
+112,Algeria,Africa,2019,13523
+113,Algeria,Africa,2020,1858
+114,Algeria,Africa,2021,1045
+115,Algeria,Africa,2022,7583
+116,Andorra,Western Europe,2000,1235
+117,Andorra,Western Europe,2001,954
+118,Andorra,Western Europe,2002,777
+119,Andorra,Western Europe,2003,800
+120,Andorra,Western Europe,2004,866
+121,Andorra,Western Europe,2005,1180
+122,Andorra,Western Europe,2006,1133
+123,Andorra,Western Europe,2007,1361
+124,Andorra,Western Europe,2008,1791
+125,Andorra,Western Europe,2009,1449
+126,Andorra,Western Europe,2010,1453
+127,Andorra,Western Europe,2011,1283
+128,Andorra,Western Europe,2012,1201
+129,Andorra,Western Europe,2013,1202
+130,Andorra,Western Europe,2014,1454
+131,Andorra,Western Europe,2015,1391
+132,Andorra,Western Europe,2016,1589
+133,Andorra,Western Europe,2017,1508
+134,Andorra,Western Europe,2018,1968
+135,Andorra,Western Europe,2019,2218
+136,Andorra,Western Europe,2020,341
+137,Andorra,Western Europe,2021,313
+138,Andorra,Western Europe,2022,2096
+139,Angola,Africa,2000,3146
+140,Angola,Africa,2001,3207
+141,Angola,Africa,2002,2912
+142,Angola,Africa,2003,2781
+143,Angola,Africa,2004,3060
+144,Angola,Africa,2005,3651
+145,Angola,Africa,2006,4418
+146,Angola,Africa,2007,5113
+147,Angola,Africa,2008,5633
+148,Angola,Africa,2009,6446
+149,Angola,Africa,2010,6610
+150,Angola,Africa,2011,8218
+151,Angola,Africa,2012,10351
+152,Angola,Africa,2013,12364
+153,Angola,Africa,2014,13645
+154,Angola,Africa,2015,11895
+155,Angola,Africa,2016,8845
+156,Angola,Africa,2017,8655
+157,Angola,Africa,2018,7807
+158,Angola,Africa,2019,6620
+159,Angola,Africa,2020,1191
+160,Angola,Africa,2021,1486
+161,Angola,Africa,2022,3653
+162,Anguilla,Caribbean,2000,5177
+163,Anguilla,Caribbean,2001,4121
+164,Anguilla,Caribbean,2002,3050
+165,Anguilla,Caribbean,2003,3451
+166,Anguilla,Caribbean,2004,4104
+167,Anguilla,Caribbean,2005,5090
+168,Anguilla,Caribbean,2006,5655
+169,Anguilla,Caribbean,2007,6712
+170,Anguilla,Caribbean,2008,6280
+171,Anguilla,Caribbean,2009,5020
+172,Anguilla,Caribbean,2010,3362
+173,Anguilla,Caribbean,2011,2535
+174,Anguilla,Caribbean,2012,2071
+175,Anguilla,Caribbean,2013,1487
+176,Anguilla,Caribbean,2014,1049
+177,Anguilla,Caribbean,2015,890
+178,Anguilla,Caribbean,2016,997
+179,Anguilla,Caribbean,2017,818
+180,Anguilla,Caribbean,2018,1245
+181,Anguilla,Caribbean,2019,1988
+182,Anguilla,Caribbean,2020,366
+183,Anguilla,Caribbean,2021,659
+184,Anguilla,Caribbean,2022,1730
+185,Antigua and Barbuda,Caribbean,2000,24918
+186,Antigua and Barbuda,Caribbean,2001,20207
+187,Antigua and Barbuda,Caribbean,2002,16317
+188,Antigua and Barbuda,Caribbean,2003,16479
+189,Antigua and Barbuda,Caribbean,2004,18585
+190,Antigua and Barbuda,Caribbean,2005,19966
+191,Antigua and Barbuda,Caribbean,2006,20949
+192,Antigua and Barbuda,Caribbean,2007,20611
+193,Antigua and Barbuda,Caribbean,2008,19713
+194,Antigua and Barbuda,Caribbean,2009,17213
+195,Antigua and Barbuda,Caribbean,2010,16719
+196,Antigua and Barbuda,Caribbean,2011,15807
+197,Antigua and Barbuda,Caribbean,2012,14703
+198,Antigua and Barbuda,Caribbean,2013,15088
+199,Antigua and Barbuda,Caribbean,2014,14341
+200,Antigua and Barbuda,Caribbean,2015,15605
+201,Antigua and Barbuda,Caribbean,2016,16428
+202,Antigua and Barbuda,Caribbean,2017,14885
+203,Antigua and Barbuda,Caribbean,2018,16437
+204,Antigua and Barbuda,Caribbean,2019,18229
+205,Antigua and Barbuda,Caribbean,2020,3702
+206,Antigua and Barbuda,Caribbean,2021,8360
+207,Antigua and Barbuda,Caribbean,2022,14386
+208,Argentina,South America,2000,533936
+209,Argentina,South America,2001,434011
+210,Argentina,South America,2002,164658
+211,Argentina,South America,2003,150719
+212,Argentina,South America,2004,167726
+213,Argentina,South America,2005,188865
+214,Argentina,South America,2006,212096
+215,Argentina,South America,2007,266971
+216,Argentina,South America,2008,318144
+217,Argentina,South America,2009,356428
+218,Argentina,South America,2010,436192
+219,Argentina,South America,2011,518050
+220,Argentina,South America,2012,608715
+221,Argentina,South America,2013,711119
+222,Argentina,South America,2014,692446
+223,Argentina,South America,2015,798567
+224,Argentina,South America,2016,926321
+225,Argentina,South America,2017,1018177
+226,Argentina,South America,2018,994035
+227,Argentina,South America,2019,854442
+228,Argentina,South America,2020,197748
+229,Argentina,South America,2021,301794
+230,Argentina,South America,2022,524841
+231,Armenia,Eastern Europe,2000,8663
+232,Armenia,Eastern Europe,2001,6634
+233,Armenia,Eastern Europe,2002,4453
+234,Armenia,Eastern Europe,2003,3244
+235,Armenia,Eastern Europe,2004,3664
+236,Armenia,Eastern Europe,2005,3633
+237,Armenia,Eastern Europe,2006,3668
+238,Armenia,Eastern Europe,2007,3271
+239,Armenia,Eastern Europe,2008,3713
+240,Armenia,Eastern Europe,2009,3546
+241,Armenia,Eastern Europe,2010,3183
+242,Armenia,Eastern Europe,2011,3152
+243,Armenia,Eastern Europe,2012,4469
+244,Armenia,Eastern Europe,2013,5499
+245,Armenia,Eastern Europe,2014,6055
+246,Armenia,Eastern Europe,2015,6745
+247,Armenia,Eastern Europe,2016,9873
+248,Armenia,Eastern Europe,2017,11656
+249,Armenia,Eastern Europe,2018,12450
+250,Armenia,Eastern Europe,2019,14896
+251,Armenia,Eastern Europe,2020,5869
+252,Armenia,Eastern Europe,2021,9697
+253,Armenia,Eastern Europe,2022,11920
+254,Aruba,Caribbean,2009,22368
+255,Aruba,Caribbean,2010,16074
+256,Aruba,Caribbean,2011,14785
+257,Aruba,Caribbean,2012,17348
+258,Aruba,Caribbean,2013,17895
+259,Aruba,Caribbean,2014,17813
+260,Aruba,Caribbean,2015,16634
+261,Aruba,Caribbean,2016,9718
+262,Aruba,Caribbean,2017,10096
+263,Aruba,Caribbean,2018,22127
+264,Aruba,Caribbean,2019,25927
+265,Aruba,Caribbean,2020,7456
+266,Aruba,Caribbean,2021,18444
+267,Aruba,Caribbean,2022,21635
+268,Australia,Oceania,2000,539559
+269,Australia,Oceania,2001,425934
+270,Australia,Oceania,2002,407130
+271,Australia,Oceania,2003,405698
+272,Australia,Oceania,2004,519955
+273,Australia,Oceania,2005,581773
+274,Australia,Oceania,2006,603275
+275,Australia,Oceania,2007,669536
+276,Australia,Oceania,2008,689927
+277,Australia,Oceania,2009,723576
+278,Australia,Oceania,2010,904247
+279,Australia,Oceania,2011,1052480
+280,Australia,Oceania,2012,1131611
+281,Australia,Oceania,2013,1307582
+282,Australia,Oceania,2014,1308707
+283,Australia,Oceania,2015,1453103
+284,Australia,Oceania,2016,1350508
+285,Australia,Oceania,2017,1323703
+286,Australia,Oceania,2018,1362431
+287,Australia,Oceania,2019,1319238
+288,Australia,Oceania,2020,208707
+289,Australia,Oceania,2021,52439
+290,Australia,Oceania,2022,641772
+291,Austria,Western Europe,2000,175533
+292,Austria,Western Europe,2001,123295
+293,Austria,Western Europe,2002,97930
+294,Austria,Western Europe,2003,99924
+295,Austria,Western Europe,2004,112950
+296,Austria,Western Europe,2005,117688
+297,Austria,Western Europe,2006,117191
+298,Austria,Western Europe,2007,131339
+299,Austria,Western Europe,2008,158764
+300,Austria,Western Europe,2009,162569
+301,Austria,Western Europe,2010,168403
+302,Austria,Western Europe,2011,183135
+303,Austria,Western Europe,2012,185807
+304,Austria,Western Europe,2013,195610
+305,Austria,Western Europe,2014,202997
+306,Austria,Western Europe,2015,221305
+307,Austria,Western Europe,2016,199332
+308,Austria,Western Europe,2017,198713
+309,Austria,Western Europe,2018,201733
+310,Austria,Western Europe,2019,202239
+311,Austria,Western Europe,2020,31010
+312,Austria,Western Europe,2021,28880
+313,Austria,Western Europe,2022,148129
+314,Azerbaijan,Eastern Europe,2000,1951
+315,Azerbaijan,Eastern Europe,2001,1562
+316,Azerbaijan,Eastern Europe,2002,1322
+317,Azerbaijan,Eastern Europe,2003,1508
+318,Azerbaijan,Eastern Europe,2004,1563
+319,Azerbaijan,Eastern Europe,2005,1587
+320,Azerbaijan,Eastern Europe,2006,2207
+321,Azerbaijan,Eastern Europe,2007,2636
+322,Azerbaijan,Eastern Europe,2008,3236
+323,Azerbaijan,Eastern Europe,2009,3121
+324,Azerbaijan,Eastern Europe,2010,3518
+325,Azerbaijan,Eastern Europe,2011,3973
+326,Azerbaijan,Eastern Europe,2012,4819
+327,Azerbaijan,Eastern Europe,2013,5444
+328,Azerbaijan,Eastern Europe,2014,6667
+329,Azerbaijan,Eastern Europe,2015,6390
+330,Azerbaijan,Eastern Europe,2016,7093
+331,Azerbaijan,Eastern Europe,2017,7272
+332,Azerbaijan,Eastern Europe,2018,7183
+333,Azerbaijan,Eastern Europe,2019,7777
+334,Azerbaijan,Eastern Europe,2020,1642
+335,Azerbaijan,Eastern Europe,2021,2159
+336,Azerbaijan,Eastern Europe,2022,4948
+337,Bahamas the,Caribbean,2000,293911
+338,Bahamas the,Caribbean,2001,293022
+339,Bahamas the,Caribbean,2002,262469
+340,Bahamas the,Caribbean,2003,253229
+341,Bahamas the,Caribbean,2004,265681
+342,Bahamas the,Caribbean,2005,237140
+343,Bahamas the,Caribbean,2006,243300
+344,Bahamas the,Caribbean,2007,256433
+345,Bahamas the,Caribbean,2008,180914
+346,Bahamas the,Caribbean,2009,224812
+347,Bahamas the,Caribbean,2010,243204
+348,Bahamas the,Caribbean,2011,227803
+349,Bahamas the,Caribbean,2012,215675
+350,Bahamas the,Caribbean,2013,229316
+351,Bahamas the,Caribbean,2014,221465
+352,Bahamas the,Caribbean,2015,235801
+353,Bahamas the,Caribbean,2016,262047
+354,Bahamas the,Caribbean,2017,274437
+355,Bahamas the,Caribbean,2018,274674
+356,Bahamas the,Caribbean,2019,301586
+357,Bahamas the,Caribbean,2020,67209
+358,Bahamas the,Caribbean,2021,161651
+359,Bahamas the,Caribbean,2022,224138
+360,Bahrain,Middle East,2000,6735
+361,Bahrain,Middle East,2001,6256
+362,Bahrain,Middle East,2002,3802
+363,Bahrain,Middle East,2003,3745
+364,Bahrain,Middle East,2004,4148
+365,Bahrain,Middle East,2005,5176
+366,Bahrain,Middle East,2006,5630
+367,Bahrain,Middle East,2007,6623
+368,Bahrain,Middle East,2008,7517
+369,Bahrain,Middle East,2009,6566
+370,Bahrain,Middle East,2010,7733
+371,Bahrain,Middle East,2011,7433
+372,Bahrain,Middle East,2012,8525
+373,Bahrain,Middle East,2013,8583
+374,Bahrain,Middle East,2014,9308
+375,Bahrain,Middle East,2015,10354
+376,Bahrain,Middle East,2016,10526
+377,Bahrain,Middle East,2017,9391
+378,Bahrain,Middle East,2018,9914
+379,Bahrain,Middle East,2019,9315
+380,Bahrain,Middle East,2020,1695
+381,Bahrain,Middle East,2021,4191
+382,Bahrain,Middle East,2022,6150
+383,Bangladesh,Asia,2000,12724
+384,Bangladesh,Asia,2001,12218
+385,Bangladesh,Asia,2002,9585
+386,Bangladesh,Asia,2003,8434
+387,Bangladesh,Asia,2004,8384
+388,Bangladesh,Asia,2005,9637
+389,Bangladesh,Asia,2006,8288
+390,Bangladesh,Asia,2007,8196
+391,Bangladesh,Asia,2008,8741
+392,Bangladesh,Asia,2009,10175
+393,Bangladesh,Asia,2010,11561
+394,Bangladesh,Asia,2011,13413
+395,Bangladesh,Asia,2012,16442
+396,Bangladesh,Asia,2013,25886
+397,Bangladesh,Asia,2014,34134
+398,Bangladesh,Asia,2015,33847
+399,Bangladesh,Asia,2016,33794
+400,Bangladesh,Asia,2017,31305
+401,Bangladesh,Asia,2018,35655
+402,Bangladesh,Asia,2019,36611
+403,Bangladesh,Asia,2020,8907
+404,Bangladesh,Asia,2021,22814
+405,Bangladesh,Asia,2022,42911
+406,Barbados,Caribbean,2000,57071
+407,Barbados,Caribbean,2001,46494
+408,Barbados,Caribbean,2002,41934
+409,Barbados,Caribbean,2003,41558
+410,Barbados,Caribbean,2004,49198
+411,Barbados,Caribbean,2005,51233
+412,Barbados,Caribbean,2006,54096
+413,Barbados,Caribbean,2007,55916
+414,Barbados,Caribbean,2008,54891
+415,Barbados,Caribbean,2009,52010
+416,Barbados,Caribbean,2010,54486
+417,Barbados,Caribbean,2011,51698
+418,Barbados,Caribbean,2012,49910
+419,Barbados,Caribbean,2013,54356
+420,Barbados,Caribbean,2014,51916
+421,Barbados,Caribbean,2015,54407
+422,Barbados,Caribbean,2016,60329
+423,Barbados,Caribbean,2017,58506
+424,Barbados,Caribbean,2018,60556
+425,Barbados,Caribbean,2019,63742
+426,Barbados,Caribbean,2020,9092
+427,Barbados,Caribbean,2021,16371
+428,Barbados,Caribbean,2022,36671
+429,Belarus,Eastern Europe,2000,4444
+430,Belarus,Eastern Europe,2001,4338
+431,Belarus,Eastern Europe,2002,4451
+432,Belarus,Eastern Europe,2003,5033
+433,Belarus,Eastern Europe,2004,4751
+434,Belarus,Eastern Europe,2005,5225
+435,Belarus,Eastern Europe,2006,5982
+436,Belarus,Eastern Europe,2007,6192
+437,Belarus,Eastern Europe,2008,5762
+438,Belarus,Eastern Europe,2009,5764
+439,Belarus,Eastern Europe,2010,6693
+440,Belarus,Eastern Europe,2011,7897
+441,Belarus,Eastern Europe,2012,9235
+442,Belarus,Eastern Europe,2013,10448
+443,Belarus,Eastern Europe,2014,11644
+444,Belarus,Eastern Europe,2015,14168
+445,Belarus,Eastern Europe,2016,17357
+446,Belarus,Eastern Europe,2017,18154
+447,Belarus,Eastern Europe,2018,20183
+448,Belarus,Eastern Europe,2019,20729
+449,Belarus,Eastern Europe,2020,4827
+450,Belarus,Eastern Europe,2021,1573
+451,Belarus,Eastern Europe,2022,4613
+452,Belgium,Western Europe,2000,249957
+453,Belgium,Western Europe,2001,181693
+454,Belgium,Western Europe,2002,159052
+455,Belgium,Western Europe,2003,151069
+456,Belgium,Western Europe,2004,175997
+457,Belgium,Western Europe,2005,191596
+458,Belgium,Western Europe,2006,188311
+459,Belgium,Western Europe,2007,216579
+460,Belgium,Western Europe,2008,265383
+461,Belgium,Western Europe,2009,245710
+462,Belgium,Western Europe,2010,254892
+463,Belgium,Western Europe,2011,263682
+464,Belgium,Western Europe,2012,262721
+465,Belgium,Western Europe,2013,277324
+466,Belgium,Western Europe,2014,290436
+467,Belgium,Western Europe,2015,318329
+468,Belgium,Western Europe,2016,276722
+469,Belgium,Western Europe,2017,278127
+470,Belgium,Western Europe,2018,294221
+471,Belgium,Western Europe,2019,292390
+472,Belgium,Western Europe,2020,44961
+473,Belgium,Western Europe,2021,33073
+474,Belgium,Western Europe,2022,215075
+475,Belize,Central America,2000,30352
+476,Belize,Central America,2001,28682
+477,Belize,Central America,2002,22327
+478,Belize,Central America,2003,22074
+479,Belize,Central America,2004,21430
+480,Belize,Central America,2005,20533
+481,Belize,Central America,2006,21968
+482,Belize,Central America,2007,22184
+483,Belize,Central America,2008,20757
+484,Belize,Central America,2009,20227
+485,Belize,Central America,2010,18641
+486,Belize,Central America,2011,17531
+487,Belize,Central America,2012,18049
+488,Belize,Central America,2013,20945
+489,Belize,Central America,2014,21440
+490,Belize,Central America,2015,25121
+491,Belize,Central America,2016,26057
+492,Belize,Central America,2017,25949
+493,Belize,Central America,2018,26646
+494,Belize,Central America,2019,28692
+495,Belize,Central America,2020,6201
+496,Belize,Central America,2021,17110
+497,Belize,Central America,2022,27719
+498,Benin,Africa,2000,741
+499,Benin,Africa,2001,670
+500,Benin,Africa,2002,669
+501,Benin,Africa,2003,698
+502,Benin,Africa,2004,795
+503,Benin,Africa,2005,1045
+504,Benin,Africa,2006,1260
+505,Benin,Africa,2007,1389
+506,Benin,Africa,2008,1715
+507,Benin,Africa,2009,1582
+508,Benin,Africa,2010,1876
+509,Benin,Africa,2011,1972
+510,Benin,Africa,2012,1974
+511,Benin,Africa,2013,1942
+512,Benin,Africa,2014,2274
+513,Benin,Africa,2015,2408
+514,Benin,Africa,2016,2363
+515,Benin,Africa,2017,2204
+516,Benin,Africa,2018,2151
+517,Benin,Africa,2019,2150
+518,Benin,Africa,2020,507
+519,Benin,Africa,2021,576
+520,Benin,Africa,2022,1516
+521,Bermuda,Caribbean,2000,7474
+522,Bermuda,Caribbean,2001,7107
+523,Bermuda,Caribbean,2002,6227
+524,Bermuda,Caribbean,2003,13382
+525,Bermuda,Caribbean,2004,15996
+526,Bermuda,Caribbean,2005,16120
+527,Bermuda,Caribbean,2006,13230
+528,Bermuda,Caribbean,2007,23311
+529,Bermuda,Caribbean,2008,23445
+530,Bermuda,Caribbean,2009,20743
+531,Bermuda,Caribbean,2010,17378
+532,Bermuda,Caribbean,2011,10898
+533,Bermuda,Caribbean,2012,14423
+534,Bermuda,Caribbean,2013,56525
+535,Bermuda,Caribbean,2014,73597
+536,Bermuda,Caribbean,2015,73082
+537,Bermuda,Caribbean,2016,72469
+538,Bermuda,Caribbean,2017,70749
+539,Bermuda,Caribbean,2018,80675
+540,Bermuda,Caribbean,2019,84108
+541,Bermuda,Caribbean,2020,19123
+542,Bermuda,Caribbean,2021,31651
+543,Bermuda,Caribbean,2022,53722
+544,Bhutan,Asia,2000,150
+545,Bhutan,Asia,2001,230
+546,Bhutan,Asia,2002,154
+547,Bhutan,Asia,2003,188
+548,Bhutan,Asia,2004,187
+549,Bhutan,Asia,2005,188
+550,Bhutan,Asia,2006,183
+551,Bhutan,Asia,2007,309
+552,Bhutan,Asia,2008,368
+553,Bhutan,Asia,2009,230
+554,Bhutan,Asia,2010,210
+555,Bhutan,Asia,2011,233
+556,Bhutan,Asia,2012,234
+557,Bhutan,Asia,2013,426
+558,Bhutan,Asia,2014,698
+559,Bhutan,Asia,2015,773
+560,Bhutan,Asia,2016,713
+561,Bhutan,Asia,2017,732
+562,Bhutan,Asia,2018,803
+563,Bhutan,Asia,2019,874
+564,Bhutan,Asia,2020,158
+565,Bhutan,Asia,2021,141
+566,Bhutan,Asia,2022,514
+567,Bolivia,South America,2000,49135
+568,Bolivia,South America,2001,34943
+569,Bolivia,South America,2002,25011
+570,Bolivia,South America,2003,22307
+571,Bolivia,South America,2004,22843
+572,Bolivia,South America,2005,21786
+573,Bolivia,South America,2006,22785
+574,Bolivia,South America,2007,27611
+575,Bolivia,South America,2008,29942
+576,Bolivia,South America,2009,31966
+577,Bolivia,South America,2010,32504
+578,Bolivia,South America,2011,35484
+579,Bolivia,South America,2012,36165
+580,Bolivia,South America,2013,45373
+581,Bolivia,South America,2014,50517
+582,Bolivia,South America,2015,62131
+583,Bolivia,South America,2016,69350
+584,Bolivia,South America,2017,67318
+585,Bolivia,South America,2018,70688
+586,Bolivia,South America,2019,72781
+587,Bolivia,South America,2020,23874
+588,Bolivia,South America,2021,57686
+589,Bolivia,South America,2022,63131
+590,Bonaire St. Eustatius Saba,Caribbean,2013,9
+591,Bonaire St. Eustatius Saba,Caribbean,2014,293
+592,Bonaire St. Eustatius Saba,Caribbean,2015,333
+593,Bonaire St. Eustatius Saba,Caribbean,2016,292
+594,Bonaire St. Eustatius Saba,Caribbean,2017,332
+595,Bonaire St. Eustatius Saba,Caribbean,2018,859
+596,Bosnia and Herzegovina,Western Europe,2000,5430
+597,Bosnia and Herzegovina,Western Europe,2001,4755
+598,Bosnia and Herzegovina,Western Europe,2002,4068
+599,Bosnia and Herzegovina,Western Europe,2003,4154
+600,Bosnia and Herzegovina,Western Europe,2004,4656
+601,Bosnia and Herzegovina,Western Europe,2005,4700
+602,Bosnia and Herzegovina,Western Europe,2006,4753
+603,Bosnia and Herzegovina,Western Europe,2007,4939
+604,Bosnia and Herzegovina,Western Europe,2008,4370
+605,Bosnia and Herzegovina,Western Europe,2009,3897
+606,Bosnia and Herzegovina,Western Europe,2010,4233
+607,Bosnia and Herzegovina,Western Europe,2011,4777
+608,Bosnia and Herzegovina,Western Europe,2012,4811
+609,Bosnia and Herzegovina,Western Europe,2013,5179
+610,Bosnia and Herzegovina,Western Europe,2014,6182
+611,Bosnia and Herzegovina,Western Europe,2015,6729
+612,Bosnia and Herzegovina,Western Europe,2016,7262
+613,Bosnia and Herzegovina,Western Europe,2017,7833
+614,Bosnia and Herzegovina,Western Europe,2018,8457
+615,Bosnia and Herzegovina,Western Europe,2019,8453
+616,Bosnia and Herzegovina,Western Europe,2020,2197
+617,Bosnia and Herzegovina,Western Europe,2021,2444
+618,Bosnia and Herzegovina,Western Europe,2022,5867
+619,Botswana,Africa,2000,2391
+620,Botswana,Africa,2001,2490
+621,Botswana,Africa,2002,2116
+622,Botswana,Africa,2003,1873
+623,Botswana,Africa,2004,2273
+624,Botswana,Africa,2005,2269
+625,Botswana,Africa,2006,2038
+626,Botswana,Africa,2007,2356
+627,Botswana,Africa,2008,2572
+628,Botswana,Africa,2009,2300
+629,Botswana,Africa,2010,2279
+630,Botswana,Africa,2011,2216
+631,Botswana,Africa,2012,2182
+632,Botswana,Africa,2013,1835
+633,Botswana,Africa,2014,1956
+634,Botswana,Africa,2015,2333
+635,Botswana,Africa,2016,2222
+636,Botswana,Africa,2017,2230
+637,Botswana,Africa,2018,2347
+638,Botswana,Africa,2019,2566
+639,Botswana,Africa,2020,435
+640,Botswana,Africa,2021,481
+641,Botswana,Africa,2022,1852
+642,Brazil,South America,2000,737245
+643,Brazil,South America,2001,551406
+644,Brazil,South America,2002,405094
+645,Brazil,South America,2003,348945
+646,Brazil,South America,2004,384734
+647,Brazil,South America,2005,485373
+648,Brazil,South America,2006,525271
+649,Brazil,South America,2007,639431
+650,Brazil,South America,2008,769232
+651,Brazil,South America,2009,892611
+652,Brazil,South America,2010,1197866
+653,Brazil,South America,2011,1519009
+654,Brazil,South America,2012,1772940
+655,Brazil,South America,2013,2108357
+656,Brazil,South America,2014,2274305
+657,Brazil,South America,2015,2228291
+658,Brazil,South America,2016,1725479
+659,Brazil,South America,2017,1912447
+660,Brazil,South America,2018,2209372
+661,Brazil,South America,2019,2104617
+662,Brazil,South America,2020,423689
+663,Brazil,South America,2021,239336
+664,Brazil,South America,2022,1224974
+665,British Virgin Islands,Caribbean,2000,29708
+666,British Virgin Islands,Caribbean,2001,23745
+667,British Virgin Islands,Caribbean,2002,14497
+668,British Virgin Islands,Caribbean,2003,14748
+669,British Virgin Islands,Caribbean,2004,16902
+670,British Virgin Islands,Caribbean,2005,19487
+671,British Virgin Islands,Caribbean,2006,20266
+672,British Virgin Islands,Caribbean,2007,22338
+673,British Virgin Islands,Caribbean,2008,22195
+674,British Virgin Islands,Caribbean,2009,23961
+675,British Virgin Islands,Caribbean,2010,20262
+676,British Virgin Islands,Caribbean,2011,15200
+677,British Virgin Islands,Caribbean,2012,14770
+678,British Virgin Islands,Caribbean,2013,23712
+679,British Virgin Islands,Caribbean,2014,28969
+680,British Virgin Islands,Caribbean,2015,30025
+681,British Virgin Islands,Caribbean,2016,26830
+682,British Virgin Islands,Caribbean,2017,21461
+683,British Virgin Islands,Caribbean,2018,24753
+684,British Virgin Islands,Caribbean,2019,30811
+685,British Virgin Islands,Caribbean,2020,8662
+686,British Virgin Islands,Caribbean,2021,7001
+687,British Virgin Islands,Caribbean,2022,17319
+688,Brunei,Asia,2000,1230
+689,Brunei,Asia,2001,943
+690,Brunei,Asia,2002,762
+691,Brunei,Asia,2003,702
+692,Brunei,Asia,2004,696
+693,Brunei,Asia,2005,763
+694,Brunei,Asia,2006,958
+695,Brunei,Asia,2007,1168
+696,Brunei,Asia,2008,1210
+697,Brunei,Asia,2009,1080
+698,Brunei,Asia,2010,1095
+699,Brunei,Asia,2011,1369
+700,Brunei,Asia,2012,1432
+701,Brunei,Asia,2013,1543
+702,Brunei,Asia,2014,1466
+703,Brunei,Asia,2015,1414
+704,Brunei,Asia,2016,1254
+705,Brunei,Asia,2017,1125
+706,Brunei,Asia,2018,1382
+707,Brunei,Asia,2019,1416
+708,Brunei,Asia,2020,204
+709,Brunei,Asia,2021,116
+710,Brunei,Asia,2022,697
+711,Bulgaria,Eastern Europe,2000,11418
+712,Bulgaria,Eastern Europe,2001,11996
+713,Bulgaria,Eastern Europe,2002,13858
+714,Bulgaria,Eastern Europe,2003,13868
+715,Bulgaria,Eastern Europe,2004,14639
+716,Bulgaria,Eastern Europe,2005,16565
+717,Bulgaria,Eastern Europe,2006,18123
+718,Bulgaria,Eastern Europe,2007,20299
+719,Bulgaria,Eastern Europe,2008,23771
+720,Bulgaria,Eastern Europe,2009,20000
+721,Bulgaria,Eastern Europe,2010,20200
+722,Bulgaria,Eastern Europe,2011,21105
+723,Bulgaria,Eastern Europe,2012,20790
+724,Bulgaria,Eastern Europe,2013,23521
+725,Bulgaria,Eastern Europe,2014,25145
+726,Bulgaria,Eastern Europe,2015,26463
+727,Bulgaria,Eastern Europe,2016,28080
+728,Bulgaria,Eastern Europe,2017,29471
+729,Bulgaria,Eastern Europe,2018,29886
+730,Bulgaria,Eastern Europe,2019,31774
+731,Bulgaria,Eastern Europe,2020,7633
+732,Bulgaria,Eastern Europe,2021,8302
+733,Bulgaria,Eastern Europe,2022,20553
+734,Burkina Faso,Africa,2000,946
+735,Burkina Faso,Africa,2001,1199
+736,Burkina Faso,Africa,2002,1134
+737,Burkina Faso,Africa,2003,1075
+738,Burkina Faso,Africa,2004,1129
+739,Burkina Faso,Africa,2005,1493
+740,Burkina Faso,Africa,2006,1692
+741,Burkina Faso,Africa,2007,1701
+742,Burkina Faso,Africa,2008,1651
+743,Burkina Faso,Africa,2009,1882
+744,Burkina Faso,Africa,2010,1771
+745,Burkina Faso,Africa,2011,2156
+746,Burkina Faso,Africa,2012,2395
+747,Burkina Faso,Africa,2013,3089
+748,Burkina Faso,Africa,2014,4399
+749,Burkina Faso,Africa,2015,5622
+750,Burkina Faso,Africa,2016,5752
+751,Burkina Faso,Africa,2017,4434
+752,Burkina Faso,Africa,2018,4015
+753,Burkina Faso,Africa,2019,4156
+754,Burkina Faso,Africa,2020,767
+755,Burkina Faso,Africa,2021,1445
+756,Burkina Faso,Africa,2022,2702
+757,Burma (Myanmar),Asia,2000,1357
+758,Burma (Myanmar),Asia,2001,1301
+759,Burma (Myanmar),Asia,2002,1461
+760,Burma (Myanmar),Asia,2003,829
+761,Burma (Myanmar),Asia,2004,945
+762,Burma (Myanmar),Asia,2005,760
+763,Burma (Myanmar),Asia,2006,1039
+764,Burma (Myanmar),Asia,2007,1136
+765,Burma (Myanmar),Asia,2008,1174
+766,Burma (Myanmar),Asia,2009,1536
+767,Burma (Myanmar),Asia,2010,1960
+768,Burma (Myanmar),Asia,2011,1983
+769,Burma (Myanmar),Asia,2012,2398
+770,Burma (Myanmar),Asia,2013,3508
+771,Burma (Myanmar),Asia,2014,4997
+772,Burma (Myanmar),Asia,2015,6001
+773,Burma (Myanmar),Asia,2016,7694
+774,Burma (Myanmar),Asia,2017,9161
+775,Burma (Myanmar),Asia,2018,9611
+776,Burma (Myanmar),Asia,2019,10908
+777,Burma (Myanmar),Asia,2020,1943
+778,Burma (Myanmar),Asia,2021,1891
+779,Burma (Myanmar),Asia,2022,3735
+780,Burundi,Africa,2000,308
+781,Burundi,Africa,2001,475
+782,Burundi,Africa,2002,289
+783,Burundi,Africa,2003,181
+784,Burundi,Africa,2004,294
+785,Burundi,Africa,2005,506
+786,Burundi,Africa,2006,720
+787,Burundi,Africa,2007,600
+788,Burundi,Africa,2008,501
+789,Burundi,Africa,2009,479
+790,Burundi,Africa,2010,671
+791,Burundi,Africa,2011,719
+792,Burundi,Africa,2012,864
+793,Burundi,Africa,2013,1388
+794,Burundi,Africa,2014,1403
+795,Burundi,Africa,2015,1594
+796,Burundi,Africa,2016,1831
+797,Burundi,Africa,2017,2034
+798,Burundi,Africa,2018,1662
+799,Burundi,Africa,2019,1232
+800,Burundi,Africa,2020,221
+801,Burundi,Africa,2021,298
+802,Burundi,Africa,2022,989
+803,Cameroon,Africa,2000,3124
+804,Cameroon,Africa,2001,4279
+805,Cameroon,Africa,2002,5003
+806,Cameroon,Africa,2003,5214
+807,Cameroon,Africa,2004,4366
+808,Cameroon,Africa,2005,4759
+809,Cameroon,Africa,2006,4958
+810,Cameroon,Africa,2007,5339
+811,Cameroon,Africa,2008,5222
+812,Cameroon,Africa,2009,5072
+813,Cameroon,Africa,2010,5517
+814,Cameroon,Africa,2011,5724
+815,Cameroon,Africa,2012,5278
+816,Cameroon,Africa,2013,6227
+817,Cameroon,Africa,2014,7892
+818,Cameroon,Africa,2015,9059
+819,Cameroon,Africa,2016,11300
+820,Cameroon,Africa,2017,11484
+821,Cameroon,Africa,2018,9777
+822,Cameroon,Africa,2019,7836
+823,Cameroon,Africa,2020,1381
+824,Cameroon,Africa,2021,1116
+825,Cameroon,Africa,2022,7310
+826,Canada,North America,2000,14667000
+827,Canada,North America,2001,13526927
+828,Canada,North America,2002,13024353
+829,Canada,North America,2003,12665736
+830,Canada,North America,2004,13856517
+831,Canada,North America,2005,14862096
+832,Canada,North America,2006,15992242
+833,Canada,North America,2007,17759571
+834,Canada,North America,2008,18910210
+835,Canada,North America,2009,17973474
+836,Canada,North America,2010,20175617
+837,Canada,North America,2011,21336761
+838,Canada,North America,2012,22697345
+839,Canada,North America,2013,23406993
+840,Canada,North America,2014,23013691
+841,Canada,North America,2015,20699152
+842,Canada,North America,2016,19287499
+843,Canada,North America,2017,20493214
+844,Canada,North America,2018,21475152
+845,Canada,North America,2019,20720068
+846,Canada,North America,2020,4808888
+847,Canada,North America,2021,2529022
+848,Canada,North America,2022,14382227
+849,Cape Verde,Africa,2000,3906
+850,Cape Verde,Africa,2001,4958
+851,Cape Verde,Africa,2002,1744
+852,Cape Verde,Africa,2003,1211
+853,Cape Verde,Africa,2004,1208
+854,Cape Verde,Africa,2005,1559
+855,Cape Verde,Africa,2006,1562
+856,Cape Verde,Africa,2007,2070
+857,Cape Verde,Africa,2008,2180
+858,Cape Verde,Africa,2009,2708
+859,Cape Verde,Africa,2010,2517
+860,Cape Verde,Africa,2011,1838
+861,Cape Verde,Africa,2012,1713
+862,Cape Verde,Africa,2013,4041
+863,Cape Verde,Africa,2014,4945
+864,Cape Verde,Africa,2015,4669
+865,Cape Verde,Africa,2016,5577
+866,Cape Verde,Africa,2017,5242
+867,Cape Verde,Africa,2018,4785
+868,Cape Verde,Africa,2019,4766
+869,Cape Verde,Africa,2020,588
+870,Cape Verde,Africa,2021,1142
+871,Cape Verde,Africa,2022,2722
+872,Cayman Islands,Caribbean,2000,52922
+873,Cayman Islands,Caribbean,2001,46252
+874,Cayman Islands,Caribbean,2002,35069
+875,Cayman Islands,Caribbean,2003,37160
+876,Cayman Islands,Caribbean,2004,49191
+877,Cayman Islands,Caribbean,2005,46353
+878,Cayman Islands,Caribbean,2006,47534
+879,Cayman Islands,Caribbean,2007,53530
+880,Cayman Islands,Caribbean,2008,51078
+881,Cayman Islands,Caribbean,2009,51085
+882,Cayman Islands,Caribbean,2010,46558
+883,Cayman Islands,Caribbean,2011,42970
+884,Cayman Islands,Caribbean,2012,43343
+885,Cayman Islands,Caribbean,2013,43329
+886,Cayman Islands,Caribbean,2014,39875
+887,Cayman Islands,Caribbean,2015,38876
+888,Cayman Islands,Caribbean,2016,33226
+889,Cayman Islands,Caribbean,2017,30684
+890,Cayman Islands,Caribbean,2018,48779
+891,Cayman Islands,Caribbean,2019,70885
+892,Cayman Islands,Caribbean,2020,12325
+893,Cayman Islands,Caribbean,2021,8834
+894,Cayman Islands,Caribbean,2022,47042
+895,Central African Republic,Africa,2000,159
+896,Central African Republic,Africa,2001,228
+897,Central African Republic,Africa,2002,169
+898,Central African Republic,Africa,2003,47
+899,Central African Republic,Africa,2004,49
+900,Central African Republic,Africa,2005,341
+901,Central African Republic,Africa,2006,390
+902,Central African Republic,Africa,2007,292
+903,Central African Republic,Africa,2008,230
+904,Central African Republic,Africa,2009,166
+905,Central African Republic,Africa,2010,234
+906,Central African Republic,Africa,2011,267
+907,Central African Republic,Africa,2012,220
+908,Central African Republic,Africa,2013,321
+909,Central African Republic,Africa,2014,341
+910,Central African Republic,Africa,2015,322
+911,Central African Republic,Africa,2016,368
+912,Central African Republic,Africa,2017,303
+913,Central African Republic,Africa,2018,426
+914,Central African Republic,Africa,2019,786
+915,Central African Republic,Africa,2020,243
+916,Central African Republic,Africa,2021,216
+917,Central African Republic,Africa,2022,1394
+918,Chad,Africa,2000,240
+919,Chad,Africa,2001,229
+920,Chad,Africa,2002,229
+921,Chad,Africa,2003,230
+922,Chad,Africa,2004,222
+923,Chad,Africa,2005,349
+924,Chad,Africa,2006,335
+925,Chad,Africa,2007,458
+926,Chad,Africa,2008,275
+927,Chad,Africa,2009,424
+928,Chad,Africa,2010,265
+929,Chad,Africa,2011,268
+930,Chad,Africa,2012,274
+931,Chad,Africa,2013,458
+932,Chad,Africa,2014,841
+933,Chad,Africa,2015,716
+934,Chad,Africa,2016,742
+935,Chad,Africa,2017,801
+936,Chad,Africa,2018,666
+937,Chad,Africa,2019,718
+938,Chad,Africa,2020,119
+939,Chad,Africa,2021,295
+940,Chad,Africa,2022,721
+941,Chile,South America,2000,192361
+942,Chile,South America,2001,150350
+943,Chile,South America,2002,115359
+944,Chile,South America,2003,95389
+945,Chile,South America,2004,101171
+946,Chile,South America,2005,101550
+947,Chile,South America,2006,110143
+948,Chile,South America,2007,123152
+949,Chile,South America,2008,130813
+950,Chile,South America,2009,126609
+951,Chile,South America,2010,146736
+952,Chile,South America,2011,173807
+953,Chile,South America,2012,187544
+954,Chile,South America,2013,225336
+955,Chile,South America,2014,253485
+956,Chile,South America,2015,311554
+957,Chile,South America,2016,342721
+958,Chile,South America,2017,330350
+959,Chile,South America,2018,364622
+960,Chile,South America,2019,383908
+961,Chile,South America,2020,131950
+962,Chile,South America,2021,207333
+963,Chile,South America,2022,411931
+964,China,Asia,2000,249441
+965,China,Asia,2001,232416
+966,China,Asia,2002,225565
+967,China,Asia,2003,157326
+968,China,Asia,2004,202544
+969,China,Asia,2005,270272
+970,China,Asia,2006,320450
+971,China,Asia,2007,397405
+972,China,Asia,2008,492958
+973,China,Asia,2009,524817
+974,China,Asia,2010,801738
+975,China,Asia,2011,1112287
+976,China,Asia,2012,1465503
+977,China,Asia,2013,1872033
+978,China,Asia,2014,2224787
+979,China,Asia,2015,2628570
+980,China,Asia,2016,3049942
+981,China,Asia,2017,3173915
+982,China,Asia,2018,2991813
+983,China,Asia,2019,2829970
+984,China,Asia,2020,378080
+985,China,Asia,2021,191776
+986,China,Asia,2022,368111
+987,Christmas Island,Oceania,2000,21
+988,Christmas Island,Oceania,2001,17
+989,Christmas Island,Oceania,2002,14
+990,Christmas Island,Oceania,2003,15
+991,Christmas Island,Oceania,2004,11
+992,Christmas Island,Oceania,2005,6
+993,Christmas Island,Oceania,2006,5
+994,Christmas Island,Oceania,2007,3
+995,Christmas Island,Oceania,2008,0
+996,Christmas Island,Oceania,2009,5
+997,Christmas Island,Oceania,2010,7
+998,Christmas Island,Oceania,2011,12
+999,Christmas Island,Oceania,2012,2
+1000,Christmas Island,Oceania,2013,27
+1001,Christmas Island,Oceania,2014,36
+1002,Christmas Island,Oceania,2015,38
+1003,Christmas Island,Oceania,2016,42
+1004,Christmas Island,Oceania,2017,19
+1005,Christmas Island,Oceania,2018,25
+1006,Christmas Island,Oceania,2019,30
+1007,Christmas Island,Oceania,2020,8
+1008,Christmas Island,Oceania,2021,13
+1009,Christmas Island,Oceania,2022,24
+1010,Cocos Islands,Oceania,2000,3
+1011,Cocos Islands,Oceania,2001,4
+1012,Cocos Islands,Oceania,2002,11
+1013,Cocos Islands,Oceania,2003,3
+1014,Cocos Islands,Oceania,2004,5
+1015,Cocos Islands,Oceania,2005,9
+1016,Cocos Islands,Oceania,2006,7
+1017,Cocos Islands,Oceania,2007,20
+1018,Cocos Islands,Oceania,2008,11
+1019,Cocos Islands,Oceania,2009,6
+1020,Cocos Islands,Oceania,2010,4
+1021,Cocos Islands,Oceania,2011,10
+1022,Cocos Islands,Oceania,2012,7
+1023,Cocos Islands,Oceania,2013,25
+1024,Cocos Islands,Oceania,2014,42
+1025,Cocos Islands,Oceania,2015,27
+1026,Cocos Islands,Oceania,2016,32
+1027,Cocos Islands,Oceania,2017,25
+1028,Cocos Islands,Oceania,2018,32
+1029,Cocos Islands,Oceania,2019,44
+1030,Cocos Islands,Oceania,2020,24
+1031,Cocos Islands,Oceania,2021,30
+1032,Cocos Islands,Oceania,2022,62
+1033,Colombia,South America,2000,417065
+1034,Colombia,South America,2001,371747
+1035,Colombia,South America,2002,321439
+1036,Colombia,South America,2003,280259
+1037,Colombia,South America,2004,295371
+1038,Colombia,South America,2005,325398
+1039,Colombia,South America,2006,348388
+1040,Colombia,South America,2007,389752
+1041,Colombia,South America,2008,419268
+1042,Colombia,South America,2009,424526
+1043,Colombia,South America,2010,494739
+1044,Colombia,South America,2011,504845
+1045,Colombia,South America,2012,598135
+1046,Colombia,South America,2013,789894
+1047,Colombia,South America,2014,891709
+1048,Colombia,South America,2015,861907
+1049,Colombia,South America,2016,852618
+1050,Colombia,South America,2017,841931
+1051,Colombia,South America,2018,942617
+1052,Colombia,South America,2019,944013
+1053,Colombia,South America,2020,270110
+1054,Colombia,South America,2021,1063659
+1055,Colombia,South America,2022,943819
+1056,Comoros,Africa,2000,23
+1057,Comoros,Africa,2001,22
+1058,Comoros,Africa,2002,19
+1059,Comoros,Africa,2003,10
+1060,Comoros,Africa,2004,6
+1061,Comoros,Africa,2005,8
+1062,Comoros,Africa,2006,18
+1063,Comoros,Africa,2007,20
+1064,Comoros,Africa,2008,22
+1065,Comoros,Africa,2009,30
+1066,Comoros,Africa,2010,19
+1067,Comoros,Africa,2011,22
+1068,Comoros,Africa,2012,24
+1069,Comoros,Africa,2013,85
+1070,Comoros,Africa,2014,134
+1071,Comoros,Africa,2015,95
+1072,Comoros,Africa,2016,116
+1073,Comoros,Africa,2017,118
+1074,Comoros,Africa,2018,149
+1075,Comoros,Africa,2019,120
+1076,Comoros,Africa,2020,20
+1077,Comoros,Africa,2021,58
+1078,Comoros,Africa,2022,60
+1079,Congo,Africa,2000,1604
+1080,Congo,Africa,2001,2273
+1081,Congo,Africa,2002,1432
+1082,Congo,Africa,2003,1111
+1083,Congo,Africa,2004,1223
+1084,Congo,Africa,2005,1449
+1085,Congo,Africa,2006,1267
+1086,Congo,Africa,2007,1416
+1087,Congo,Africa,2008,1587
+1088,Congo,Africa,2009,1841
+1089,Congo,Africa,2010,2077
+1090,Congo,Africa,2011,2474
+1091,Congo,Africa,2012,2811
+1092,Congo,Africa,2013,1814
+1093,Congo,Africa,2014,1719
+1094,Congo,Africa,2015,1648
+1095,Congo,Africa,2016,1389
+1096,Congo,Africa,2017,1185
+1097,Congo,Africa,2018,1376
+1098,Congo,Africa,2019,1200
+1099,Congo,Africa,2020,168
+1100,Congo,Africa,2021,268
+1101,Congo,Africa,2022,983
+1102,Cook Islands,Oceania,2000,542
+1103,Cook Islands,Oceania,2001,342
+1104,Cook Islands,Oceania,2002,244
+1105,Cook Islands,Oceania,2003,456
+1106,Cook Islands,Oceania,2004,469
+1107,Cook Islands,Oceania,2005,355
+1108,Cook Islands,Oceania,2006,215
+1109,Cook Islands,Oceania,2007,290
+1110,Cook Islands,Oceania,2008,311
+1111,Cook Islands,Oceania,2009,227
+1112,Cook Islands,Oceania,2010,66
+1113,Cook Islands,Oceania,2011,45
+1114,Cook Islands,Oceania,2012,38
+1115,Cook Islands,Oceania,2013,77
+1116,Cook Islands,Oceania,2014,111
+1117,Cook Islands,Oceania,2015,61
+1118,Cook Islands,Oceania,2016,60
+1119,Cook Islands,Oceania,2017,59
+1120,Cook Islands,Oceania,2018,73
+1121,Cook Islands,Oceania,2019,79
+1122,Cook Islands,Oceania,2020,19
+1123,Cook Islands,Oceania,2021,27
+1124,Cook Islands,Oceania,2022,83
+1125,Costa Rica,Central America,2000,176056
+1126,Costa Rica,Central America,2001,143434
+1127,Costa Rica,Central America,2002,124993
+1128,Costa Rica,Central America,2003,112880
+1129,Costa Rica,Central America,2004,127112
+1130,Costa Rica,Central America,2005,133820
+1131,Costa Rica,Central America,2006,130702
+1132,Costa Rica,Central America,2007,160444
+1133,Costa Rica,Central America,2008,165257
+1134,Costa Rica,Central America,2009,157471
+1135,Costa Rica,Central America,2010,165594
+1136,Costa Rica,Central America,2011,170364
+1137,Costa Rica,Central America,2012,178025
+1138,Costa Rica,Central America,2013,193357
+1139,Costa Rica,Central America,2014,204622
+1140,Costa Rica,Central America,2015,231809
+1141,Costa Rica,Central America,2016,284614
+1142,Costa Rica,Central America,2017,277344
+1143,Costa Rica,Central America,2018,316102
+1144,Costa Rica,Central America,2019,334591
+1145,Costa Rica,Central America,2020,102141
+1146,Costa Rica,Central America,2021,266772
+1147,Costa Rica,Central America,2022,255410
+1148,Côte d'Ivoire,Africa,2000,5226
+1149,Côte d'Ivoire,Africa,2001,5127
+1150,Côte d'Ivoire,Africa,2002,2514
+1151,Côte d'Ivoire,Africa,2003,1649
+1152,Côte d'Ivoire,Africa,2004,1638
+1153,Côte d'Ivoire,Africa,2005,1463
+1154,Côte d'Ivoire,Africa,2006,2132
+1155,Côte d'Ivoire,Africa,2007,1944
+1156,Côte d'Ivoire,Africa,2008,2583
+1157,Côte d'Ivoire,Africa,2009,2892
+1158,Côte d'Ivoire,Africa,2010,2422
+1159,Côte d'Ivoire,Africa,2011,1742
+1160,Côte d'Ivoire,Africa,2012,2361
+1161,Côte d'Ivoire,Africa,2013,5198
+1162,Côte d'Ivoire,Africa,2014,6418
+1163,Côte d'Ivoire,Africa,2015,7235
+1164,Côte d'Ivoire,Africa,2016,7935
+1165,Côte d'Ivoire,Africa,2017,7583
+1166,Côte d'Ivoire,Africa,2018,8298
+1167,Côte d'Ivoire,Africa,2019,8605
+1168,Côte d'Ivoire,Africa,2020,1588
+1169,Côte d'Ivoire,Africa,2021,1290
+1170,Côte d'Ivoire,Africa,2022,5054
+1171,Croatia,Western Europe,2000,11244
+1172,Croatia,Western Europe,2001,10073
+1173,Croatia,Western Europe,2002,9676
+1174,Croatia,Western Europe,2003,9685
+1175,Croatia,Western Europe,2004,11176
+1176,Croatia,Western Europe,2005,11722
+1177,Croatia,Western Europe,2006,12290
+1178,Croatia,Western Europe,2007,14447
+1179,Croatia,Western Europe,2008,17270
+1180,Croatia,Western Europe,2009,15407
+1181,Croatia,Western Europe,2010,15105
+1182,Croatia,Western Europe,2011,15886
+1183,Croatia,Western Europe,2012,14701
+1184,Croatia,Western Europe,2013,16953
+1185,Croatia,Western Europe,2014,18580
+1186,Croatia,Western Europe,2015,20727
+1187,Croatia,Western Europe,2016,22312
+1188,Croatia,Western Europe,2017,24287
+1189,Croatia,Western Europe,2018,25219
+1190,Croatia,Western Europe,2019,26922
+1191,Croatia,Western Europe,2020,6132
+1192,Croatia,Western Europe,2021,7369
+1193,Croatia,Western Europe,2022,24830
+1194,Cuba,Caribbean,2000,48614
+1195,Cuba,Caribbean,2001,31425
+1196,Cuba,Caribbean,2002,26880
+1197,Cuba,Caribbean,2003,18543
+1198,Cuba,Caribbean,2004,22762
+1199,Cuba,Caribbean,2005,18847
+1200,Cuba,Caribbean,2006,20356
+1201,Cuba,Caribbean,2007,17208
+1202,Cuba,Caribbean,2008,22395
+1203,Cuba,Caribbean,2009,32666
+1204,Cuba,Caribbean,2010,37871
+1205,Cuba,Caribbean,2011,20009
+1206,Cuba,Caribbean,2012,22617
+1207,Cuba,Caribbean,2013,46818
+1208,Cuba,Caribbean,2014,56360
+1209,Cuba,Caribbean,2015,60138
+1210,Cuba,Caribbean,2016,65819
+1211,Cuba,Caribbean,2017,104695
+1212,Cuba,Caribbean,2018,116437
+1213,Cuba,Caribbean,2019,106432
+1214,Cuba,Caribbean,2020,27577
+1215,Cuba,Caribbean,2021,14559
+1216,Cuba,Caribbean,2022,23275
+1217,Curacao,Caribbean,2011,1
+1218,Curacao,Caribbean,2012,1
+1219,Curacao,Caribbean,2013,449
+1220,Curacao,Caribbean,2014,5744
+1221,Curacao,Caribbean,2015,5735
+1222,Curacao,Caribbean,2016,5276
+1223,Curacao,Caribbean,2017,7523
+1224,Curacao,Caribbean,2018,14655
+1225,Curacao,Caribbean,2019,21761
+1226,Curacao,Caribbean,2020,3723
+1227,Curacao,Caribbean,2021,10221
+1228,Curacao,Caribbean,2022,14535
+1229,Cyprus,Middle East,2000,12152
+1230,Cyprus,Middle East,2001,10893
+1231,Cyprus,Middle East,2002,9378
+1232,Cyprus,Middle East,2003,9485
+1233,Cyprus,Middle East,2004,9087
+1234,Cyprus,Middle East,2005,9698
+1235,Cyprus,Middle East,2006,9215
+1236,Cyprus,Middle East,2007,10143
+1237,Cyprus,Middle East,2008,11517
+1238,Cyprus,Middle East,2009,10174
+1239,Cyprus,Middle East,2010,10136
+1240,Cyprus,Middle East,2011,9705
+1241,Cyprus,Middle East,2012,8862
+1242,Cyprus,Middle East,2013,8451
+1243,Cyprus,Middle East,2014,9257
+1244,Cyprus,Middle East,2015,9536
+1245,Cyprus,Middle East,2016,10471
+1246,Cyprus,Middle East,2017,11278
+1247,Cyprus,Middle East,2018,11885
+1248,Cyprus,Middle East,2019,12591
+1249,Cyprus,Middle East,2020,1952
+1250,Cyprus,Middle East,2021,2384
+1251,Cyprus,Middle East,2022,7967
+1252,Czech Republic,Eastern Europe,2000,43758
+1253,Czech Republic,Eastern Europe,2001,39018
+1254,Czech Republic,Eastern Europe,2002,26209
+1255,Czech Republic,Eastern Europe,2003,33174
+1256,Czech Republic,Eastern Europe,2004,30944
+1257,Czech Republic,Eastern Europe,2005,35341
+1258,Czech Republic,Eastern Europe,2006,36659
+1259,Czech Republic,Eastern Europe,2007,42915
+1260,Czech Republic,Eastern Europe,2008,49485
+1261,Czech Republic,Eastern Europe,2009,65060
+1262,Czech Republic,Eastern Europe,2010,63909
+1263,Czech Republic,Eastern Europe,2011,77488
+1264,Czech Republic,Eastern Europe,2012,77314
+1265,Czech Republic,Eastern Europe,2013,84841
+1266,Czech Republic,Eastern Europe,2014,92322
+1267,Czech Republic,Eastern Europe,2015,102856
+1268,Czech Republic,Eastern Europe,2016,100034
+1269,Czech Republic,Eastern Europe,2017,114392
+1270,Czech Republic,Eastern Europe,2018,119433
+1271,Czech Republic,Eastern Europe,2019,127022
+1272,Czech Republic,Eastern Europe,2020,19960
+1273,Czech Republic,Eastern Europe,2021,15087
+1274,Czech Republic,Eastern Europe,2022,87432
+1275,Denmark,Western Europe,2000,149211
+1276,Denmark,Western Europe,2001,126345
+1277,Denmark,Western Europe,2002,118716
+1278,Denmark,Western Europe,2003,125435
+1279,Denmark,Western Europe,2004,150839
+1280,Denmark,Western Europe,2005,174581
+1281,Denmark,Western Europe,2006,185337
+1282,Denmark,Western Europe,2007,217593
+1283,Denmark,Western Europe,2008,256604
+1284,Denmark,Western Europe,2009,245623
+1285,Denmark,Western Europe,2010,258788
+1286,Denmark,Western Europe,2011,278237
+1287,Denmark,Western Europe,2012,274118
+1288,Denmark,Western Europe,2013,279642
+1289,Denmark,Western Europe,2014,313072
+1290,Denmark,Western Europe,2015,354203
+1291,Denmark,Western Europe,2016,327074
+1292,Denmark,Western Europe,2017,332987
+1293,Denmark,Western Europe,2018,331374
+1294,Denmark,Western Europe,2019,314060
+1295,Denmark,Western Europe,2020,48277
+1296,Denmark,Western Europe,2021,28133
+1297,Denmark,Western Europe,2022,214340
+1298,Djibouti,Africa,2000,403
+1299,Djibouti,Africa,2001,236
+1300,Djibouti,Africa,2002,127
+1301,Djibouti,Africa,2003,191
+1302,Djibouti,Africa,2004,136
+1303,Djibouti,Africa,2005,117
+1304,Djibouti,Africa,2006,145
+1305,Djibouti,Africa,2007,181
+1306,Djibouti,Africa,2008,224
+1307,Djibouti,Africa,2009,354
+1308,Djibouti,Africa,2010,363
+1309,Djibouti,Africa,2011,353
+1310,Djibouti,Africa,2012,327
+1311,Djibouti,Africa,2013,240
+1312,Djibouti,Africa,2014,429
+1313,Djibouti,Africa,2015,446
+1314,Djibouti,Africa,2016,993
+1315,Djibouti,Africa,2017,845
+1316,Djibouti,Africa,2018,289
+1317,Djibouti,Africa,2019,244
+1318,Djibouti,Africa,2020,55
+1319,Djibouti,Africa,2021,49
+1320,Djibouti,Africa,2022,225
+1321,Dominica,Caribbean,2000,16174
+1322,Dominica,Caribbean,2001,14221
+1323,Dominica,Caribbean,2002,17271
+1324,Dominica,Caribbean,2003,6792
+1325,Dominica,Caribbean,2004,8831
+1326,Dominica,Caribbean,2005,5765
+1327,Dominica,Caribbean,2006,6096
+1328,Dominica,Caribbean,2007,5352
+1329,Dominica,Caribbean,2008,6635
+1330,Dominica,Caribbean,2009,6857
+1331,Dominica,Caribbean,2010,7379
+1332,Dominica,Caribbean,2011,6223
+1333,Dominica,Caribbean,2012,6528
+1334,Dominica,Caribbean,2013,6970
+1335,Dominica,Caribbean,2014,6277
+1336,Dominica,Caribbean,2015,6487
+1337,Dominica,Caribbean,2016,6815
+1338,Dominica,Caribbean,2017,6491
+1339,Dominica,Caribbean,2018,6725
+1340,Dominica,Caribbean,2019,7100
+1341,Dominica,Caribbean,2020,1373
+1342,Dominica,Caribbean,2021,2293
+1343,Dominica,Caribbean,2022,4963
+1344,Dominican Republic,Caribbean,2000,197298
+1345,Dominican Republic,Caribbean,2001,171568
+1346,Dominican Republic,Caribbean,2002,153586
+1347,Dominican Republic,Caribbean,2003,153019
+1348,Dominican Republic,Caribbean,2004,180048
+1349,Dominican Republic,Caribbean,2005,221449
+1350,Dominican Republic,Caribbean,2006,236622
+1351,Dominican Republic,Caribbean,2007,263452
+1352,Dominican Republic,Caribbean,2008,226184
+1353,Dominican Republic,Caribbean,2009,227948
+1354,Dominican Republic,Caribbean,2010,239972
+1355,Dominican Republic,Caribbean,2011,235098
+1356,Dominican Republic,Caribbean,2012,242260
+1357,Dominican Republic,Caribbean,2013,254133
+1358,Dominican Republic,Caribbean,2014,280114
+1359,Dominican Republic,Caribbean,2015,324322
+1360,Dominican Republic,Caribbean,2016,364787
+1361,Dominican Republic,Caribbean,2017,423079
+1362,Dominican Republic,Caribbean,2018,451058
+1363,Dominican Republic,Caribbean,2019,488703
+1364,Dominican Republic,Caribbean,2020,178707
+1365,Dominican Republic,Caribbean,2021,405869
+1366,Dominican Republic,Caribbean,2022,431672
+1367,East Timor,Asia,2000,0
+1368,East Timor,Asia,2001,0
+1369,East Timor,Asia,2002,27
+1370,East Timor,Asia,2003,8
+1371,East Timor,Asia,2004,14
+1372,East Timor,Asia,2005,10
+1373,East Timor,Asia,2006,7
+1374,East Timor,Asia,2007,0
+1375,East Timor,Asia,2008,166
+1376,East Timor,Asia,2009,0
+1377,East Timor,Asia,2010,6
+1378,East Timor,Asia,2011,4
+1379,East Timor,Asia,2012,6
+1380,East Timor,Asia,2013,26
+1381,East Timor,Asia,2014,96
+1382,East Timor,Asia,2015,108
+1383,East Timor,Asia,2016,73
+1384,East Timor,Asia,2017,95
+1385,East Timor,Asia,2018,101
+1386,East Timor,Asia,2019,136
+1387,East Timor,Asia,2020,28
+1388,East Timor,Asia,2021,18
+1389,East Timor,Asia,2022,57
+1390,Ecuador,South America,2000,129938
+1391,Ecuador,South America,2001,147527
+1392,Ecuador,South America,2002,139094
+1393,Ecuador,South America,2003,119737
+1394,Ecuador,South America,2004,133046
+1395,Ecuador,South America,2005,143073
+1396,Ecuador,South America,2006,147173
+1397,Ecuador,South America,2007,155328
+1398,Ecuador,South America,2008,152112
+1399,Ecuador,South America,2009,168432
+1400,Ecuador,South America,2010,195546
+1401,Ecuador,South America,2011,213436
+1402,Ecuador,South America,2012,207642
+1403,Ecuador,South America,2013,265010
+1404,Ecuador,South America,2014,338724
+1405,Ecuador,South America,2015,375705
+1406,Ecuador,South America,2016,416109
+1407,Ecuador,South America,2017,418009
+1408,Ecuador,South America,2018,450857
+1409,Ecuador,South America,2019,456741
+1410,Ecuador,South America,2020,169366
+1411,Ecuador,South America,2021,407417
+1412,Ecuador,South America,2022,369927
+1413,Egypt,Middle East,2000,44612
+1414,Egypt,Middle East,2001,41438
+1415,Egypt,Middle East,2002,24315
+1416,Egypt,Middle East,2003,20225
+1417,Egypt,Middle East,2004,20772
+1418,Egypt,Middle East,2005,24048
+1419,Egypt,Middle East,2006,27129
+1420,Egypt,Middle East,2007,30449
+1421,Egypt,Middle East,2008,34855
+1422,Egypt,Middle East,2009,36044
+1423,Egypt,Middle East,2010,41949
+1424,Egypt,Middle East,2011,49791
+1425,Egypt,Middle East,2012,64967
+1426,Egypt,Middle East,2013,70759
+1427,Egypt,Middle East,2014,74935
+1428,Egypt,Middle East,2015,79185
+1429,Egypt,Middle East,2016,83357
+1430,Egypt,Middle East,2017,73842
+1431,Egypt,Middle East,2018,77248
+1432,Egypt,Middle East,2019,82412
+1433,Egypt,Middle East,2020,24407
+1434,Egypt,Middle East,2021,36246
+1435,Egypt,Middle East,2022,53592
+1436,El Salvador,Central America,2000,184574
+1437,El Salvador,Central America,2001,207890
+1438,El Salvador,Central America,2002,197159
+1439,El Salvador,Central America,2003,177240
+1440,El Salvador,Central America,2004,181209
+1441,El Salvador,Central America,2005,164492
+1442,El Salvador,Central America,2006,153835
+1443,El Salvador,Central America,2007,159783
+1444,El Salvador,Central America,2008,136494
+1445,El Salvador,Central America,2009,123185
+1446,El Salvador,Central America,2010,112346
+1447,El Salvador,Central America,2011,99546
+1448,El Salvador,Central America,2012,99355
+1449,El Salvador,Central America,2013,109737
+1450,El Salvador,Central America,2014,127467
+1451,El Salvador,Central America,2015,172050
+1452,El Salvador,Central America,2016,189168
+1453,El Salvador,Central America,2017,186254
+1454,El Salvador,Central America,2018,212263
+1455,El Salvador,Central America,2019,230516
+1456,El Salvador,Central America,2020,61329
+1457,El Salvador,Central America,2021,203053
+1458,El Salvador,Central America,2022,220089
+1459,Equatorial Guinea,Africa,2000,150
+1460,Equatorial Guinea,Africa,2001,133
+1461,Equatorial Guinea,Africa,2002,83
+1462,Equatorial Guinea,Africa,2003,78
+1463,Equatorial Guinea,Africa,2004,43
+1464,Equatorial Guinea,Africa,2005,72
+1465,Equatorial Guinea,Africa,2006,119
+1466,Equatorial Guinea,Africa,2007,223
+1467,Equatorial Guinea,Africa,2008,303
+1468,Equatorial Guinea,Africa,2009,397
+1469,Equatorial Guinea,Africa,2010,368
+1470,Equatorial Guinea,Africa,2011,521
+1471,Equatorial Guinea,Africa,2012,577
+1472,Equatorial Guinea,Africa,2013,1142
+1473,Equatorial Guinea,Africa,2014,1600
+1474,Equatorial Guinea,Africa,2015,1348
+1475,Equatorial Guinea,Africa,2016,1388
+1476,Equatorial Guinea,Africa,2017,1319
+1477,Equatorial Guinea,Africa,2018,1427
+1478,Equatorial Guinea,Africa,2019,1496
+1479,Equatorial Guinea,Africa,2020,336
+1480,Equatorial Guinea,Africa,2021,507
+1481,Equatorial Guinea,Africa,2022,1192
+1482,Eritrea,Africa,2000,407
+1483,Eritrea,Africa,2001,599
+1484,Eritrea,Africa,2002,1025
+1485,Eritrea,Africa,2003,1034
+1486,Eritrea,Africa,2004,1039
+1487,Eritrea,Africa,2005,915
+1488,Eritrea,Africa,2006,789
+1489,Eritrea,Africa,2007,320
+1490,Eritrea,Africa,2008,245
+1491,Eritrea,Africa,2009,248
+1492,Eritrea,Africa,2010,263
+1493,Eritrea,Africa,2011,294
+1494,Eritrea,Africa,2012,364
+1495,Eritrea,Africa,2013,1064
+1496,Eritrea,Africa,2014,2019
+1497,Eritrea,Africa,2015,2326
+1498,Eritrea,Africa,2016,3308
+1499,Eritrea,Africa,2017,2247
+1500,Eritrea,Africa,2018,881
+1501,Eritrea,Africa,2019,800
+1502,Eritrea,Africa,2020,236
+1503,Eritrea,Africa,2021,280
+1504,Eritrea,Africa,2022,684
+1505,Estonia,Eastern Europe,2000,6745
+1506,Estonia,Eastern Europe,2001,5894
+1507,Estonia,Eastern Europe,2002,5630
+1508,Estonia,Eastern Europe,2003,5569
+1509,Estonia,Eastern Europe,2004,5919
+1510,Estonia,Eastern Europe,2005,6625
+1511,Estonia,Eastern Europe,2006,7547
+1512,Estonia,Eastern Europe,2007,10253
+1513,Estonia,Eastern Europe,2008,11686
+1514,Estonia,Eastern Europe,2009,15677
+1515,Estonia,Eastern Europe,2010,10753
+1516,Estonia,Eastern Europe,2011,12268
+1517,Estonia,Eastern Europe,2012,14220
+1518,Estonia,Eastern Europe,2013,17133
+1519,Estonia,Eastern Europe,2014,17742
+1520,Estonia,Eastern Europe,2015,20684
+1521,Estonia,Eastern Europe,2016,22441
+1522,Estonia,Eastern Europe,2017,21974
+1523,Estonia,Eastern Europe,2018,22017
+1524,Estonia,Eastern Europe,2019,24153
+1525,Estonia,Eastern Europe,2020,5187
+1526,Estonia,Eastern Europe,2021,3304
+1527,Estonia,Eastern Europe,2022,15851
+1528,Ethiopia,Africa,2000,5177
+1529,Ethiopia,Africa,2001,5382
+1530,Ethiopia,Africa,2002,4749
+1531,Ethiopia,Africa,2003,5582
+1532,Ethiopia,Africa,2004,4975
+1533,Ethiopia,Africa,2005,4707
+1534,Ethiopia,Africa,2006,6444
+1535,Ethiopia,Africa,2007,7782
+1536,Ethiopia,Africa,2008,8713
+1537,Ethiopia,Africa,2009,8629
+1538,Ethiopia,Africa,2010,8630
+1539,Ethiopia,Africa,2011,10568
+1540,Ethiopia,Africa,2012,11468
+1541,Ethiopia,Africa,2013,13854
+1542,Ethiopia,Africa,2014,14521
+1543,Ethiopia,Africa,2015,15572
+1544,Ethiopia,Africa,2016,21135
+1545,Ethiopia,Africa,2017,20839
+1546,Ethiopia,Africa,2018,22328
+1547,Ethiopia,Africa,2019,21890
+1548,Ethiopia,Africa,2020,5870
+1549,Ethiopia,Africa,2021,15026
+1550,Ethiopia,Africa,2022,16508
+1551,Falkland Islands,South America,2000,113
+1552,Falkland Islands,South America,2001,99
+1553,Falkland Islands,South America,2002,106
+1554,Falkland Islands,South America,2003,94
+1555,Falkland Islands,South America,2004,74
+1556,Falkland Islands,South America,2005,76
+1557,Falkland Islands,South America,2006,79
+1558,Falkland Islands,South America,2007,64
+1559,Falkland Islands,South America,2008,130
+1560,Falkland Islands,South America,2009,110
+1561,Falkland Islands,South America,2010,51
+1562,Falkland Islands,South America,2011,61
+1563,Falkland Islands,South America,2012,78
+1564,Falkland Islands,South America,2013,93
+1565,Falkland Islands,South America,2014,87
+1566,Falkland Islands,South America,2015,68
+1567,Falkland Islands,South America,2016,60
+1568,Falkland Islands,South America,2017,71
+1569,Falkland Islands,South America,2018,110
+1570,Falkland Islands,South America,2019,87
+1571,Falkland Islands,South America,2020,47
+1572,Falkland Islands,South America,2021,20
+1573,Falkland Islands,South America,2022,110
+1574,Faroe Islands,Western Europe,2013,8
+1575,Faroe Islands,Western Europe,2014,344
+1576,Faroe Islands,Western Europe,2015,333
+1577,Faroe Islands,Western Europe,2016,336
+1578,Faroe Islands,Western Europe,2017,311
+1579,Faroe Islands,Western Europe,2018,331
+1580,Faroe Islands,Western Europe,2019,436
+1581,Faroe Islands,Western Europe,2020,49
+1582,Faroe Islands,Western Europe,2021,20
+1583,Faroe Islands,Western Europe,2022,256
+1584,Fiji,Oceania,2000,6817
+1585,Fiji,Oceania,2001,5789
+1586,Fiji,Oceania,2002,4112
+1587,Fiji,Oceania,2003,3408
+1588,Fiji,Oceania,2004,3685
+1589,Fiji,Oceania,2005,4893
+1590,Fiji,Oceania,2006,4811
+1591,Fiji,Oceania,2007,5246
+1592,Fiji,Oceania,2008,5133
+1593,Fiji,Oceania,2009,4588
+1594,Fiji,Oceania,2010,6456
+1595,Fiji,Oceania,2011,7096
+1596,Fiji,Oceania,2012,7202
+1597,Fiji,Oceania,2013,8351
+1598,Fiji,Oceania,2014,7473
+1599,Fiji,Oceania,2015,8121
+1600,Fiji,Oceania,2016,8737
+1601,Fiji,Oceania,2017,7330
+1602,Fiji,Oceania,2018,8224
+1603,Fiji,Oceania,2019,8346
+1604,Fiji,Oceania,2020,1390
+1605,Fiji,Oceania,2021,1021
+1606,Fiji,Oceania,2022,7263
+1607,Finland,Western Europe,2000,93649
+1608,Finland,Western Europe,2001,72864
+1609,Finland,Western Europe,2002,64860
+1610,Finland,Western Europe,2003,67761
+1611,Finland,Western Europe,2004,78612
+1612,Finland,Western Europe,2005,89125
+1613,Finland,Western Europe,2006,87904
+1614,Finland,Western Europe,2007,96173
+1615,Finland,Western Europe,2008,118448
+1616,Finland,Western Europe,2009,114364
+1617,Finland,Western Europe,2010,111840
+1618,Finland,Western Europe,2011,122964
+1619,Finland,Western Europe,2012,126713
+1620,Finland,Western Europe,2013,133887
+1621,Finland,Western Europe,2014,142100
+1622,Finland,Western Europe,2015,155380
+1623,Finland,Western Europe,2016,150704
+1624,Finland,Western Europe,2017,145717
+1625,Finland,Western Europe,2018,141297
+1626,Finland,Western Europe,2019,142405
+1627,Finland,Western Europe,2020,29130
+1628,Finland,Western Europe,2021,12022
+1629,Finland,Western Europe,2022,79288
+1630,France,Western Europe,2000,1087087
+1631,France,Western Europe,2001,875854
+1632,France,Western Europe,2002,734260
+1633,France,Western Europe,2003,688887
+1634,France,Western Europe,2004,775274
+1635,France,Western Europe,2005,878648
+1636,France,Western Europe,2006,789815
+1637,France,Western Europe,2007,997506
+1638,France,Western Europe,2008,1243942
+1639,France,Western Europe,2009,1204490
+1640,France,Western Europe,2010,1342207
+1641,France,Western Europe,2011,1551027
+1642,France,Western Europe,2012,1484732
+1643,France,Western Europe,2013,1601301
+1644,France,Western Europe,2014,1675898
+1645,France,Western Europe,2015,1767343
+1646,France,Western Europe,2016,1641152
+1647,France,Western Europe,2017,1667506
+1648,France,Western Europe,2018,1767461
+1649,France,Western Europe,2019,1843782
+1650,France,Western Europe,2020,297785
+1651,France,Western Europe,2021,222036
+1652,France,Western Europe,2022,1317882
+1653,French Guiana,South America,2000,158
+1654,French Guiana,South America,2001,168
+1655,French Guiana,South America,2002,94
+1656,French Guiana,South America,2003,102
+1657,French Guiana,South America,2004,181
+1658,French Guiana,South America,2005,233
+1659,French Guiana,South America,2006,269
+1660,French Guiana,South America,2007,303
+1661,French Guiana,South America,2008,314
+1662,French Guiana,South America,2009,536
+1663,French Guiana,South America,2010,612
+1664,French Guiana,South America,2011,761
+1665,French Guiana,South America,2012,1063
+1666,French Guiana,South America,2013,1059
+1667,French Guiana,South America,2014,1605
+1668,French Guiana,South America,2015,1378
+1669,French Guiana,South America,2016,876
+1670,French Guiana,South America,2017,1075
+1671,French Guiana,South America,2018,1910
+1672,French Guiana,South America,2019,2058
+1673,French Guiana,South America,2020,219
+1674,French Guiana,South America,2021,93
+1675,French Guiana,South America,2022,986
+1676,French Polynesia,Oceania,2000,3373
+1677,French Polynesia,Oceania,2001,2293
+1678,French Polynesia,Oceania,2002,2176
+1679,French Polynesia,Oceania,2003,2434
+1680,French Polynesia,Oceania,2004,2831
+1681,French Polynesia,Oceania,2005,3973
+1682,French Polynesia,Oceania,2006,3857
+1683,French Polynesia,Oceania,2007,4777
+1684,French Polynesia,Oceania,2008,5181
+1685,French Polynesia,Oceania,2009,7027
+1686,French Polynesia,Oceania,2010,5237
+1687,French Polynesia,Oceania,2011,5694
+1688,French Polynesia,Oceania,2012,3194
+1689,French Polynesia,Oceania,2013,4294
+1690,French Polynesia,Oceania,2014,4697
+1691,French Polynesia,Oceania,2015,2497
+1692,French Polynesia,Oceania,2016,1885
+1693,French Polynesia,Oceania,2017,1034
+1694,French Polynesia,Oceania,2018,2852
+1695,French Polynesia,Oceania,2019,4185
+1696,French Polynesia,Oceania,2020,1035
+1697,French Polynesia,Oceania,2021,1088
+1698,French Polynesia,Oceania,2022,5978
+1699,Gabon,Africa,2000,1404
+1700,Gabon,Africa,2001,1197
+1701,Gabon,Africa,2002,1031
+1702,Gabon,Africa,2003,980
+1703,Gabon,Africa,2004,1062
+1704,Gabon,Africa,2005,1341
+1705,Gabon,Africa,2006,1250
+1706,Gabon,Africa,2007,1466
+1707,Gabon,Africa,2008,1762
+1708,Gabon,Africa,2009,1584
+1709,Gabon,Africa,2010,1793
+1710,Gabon,Africa,2011,2132
+1711,Gabon,Africa,2012,2266
+1712,Gabon,Africa,2013,2435
+1713,Gabon,Africa,2014,2785
+1714,Gabon,Africa,2015,2773
+1715,Gabon,Africa,2016,2679
+1716,Gabon,Africa,2017,2396
+1717,Gabon,Africa,2018,2384
+1718,Gabon,Africa,2019,2363
+1719,Gabon,Africa,2020,495
+1720,Gabon,Africa,2021,723
+1721,Gabon,Africa,2022,1627
+1722,Gambia,Africa,2000,2966
+1723,Gambia,Africa,2001,2336
+1724,Gambia,Africa,2002,3382
+1725,Gambia,Africa,2003,2910
+1726,Gambia,Africa,2004,2055
+1727,Gambia,Africa,2005,1868
+1728,Gambia,Africa,2006,1288
+1729,Gambia,Africa,2007,1384
+1730,Gambia,Africa,2008,1381
+1731,Gambia,Africa,2009,1859
+1732,Gambia,Africa,2010,2341
+1733,Gambia,Africa,2011,2378
+1734,Gambia,Africa,2012,1840
+1735,Gambia,Africa,2013,2002
+1736,Gambia,Africa,2014,2010
+1737,Gambia,Africa,2015,1732
+1738,Gambia,Africa,2016,1716
+1739,Gambia,Africa,2017,1662
+1740,Gambia,Africa,2018,1722
+1741,Gambia,Africa,2019,1870
+1742,Gambia,Africa,2020,463
+1743,Gambia,Africa,2021,741
+1744,Gambia,Africa,2022,1275
+1745,Georgia,Eastern Europe,2000,2173
+1746,Georgia,Eastern Europe,2001,2153
+1747,Georgia,Eastern Europe,2002,2618
+1748,Georgia,Eastern Europe,2003,3106
+1749,Georgia,Eastern Europe,2004,2811
+1750,Georgia,Eastern Europe,2005,2360
+1751,Georgia,Eastern Europe,2006,2583
+1752,Georgia,Eastern Europe,2007,2525
+1753,Georgia,Eastern Europe,2008,2987
+1754,Georgia,Eastern Europe,2009,2966
+1755,Georgia,Eastern Europe,2010,3496
+1756,Georgia,Eastern Europe,2011,3597
+1757,Georgia,Eastern Europe,2012,4041
+1758,Georgia,Eastern Europe,2013,5088
+1759,Georgia,Eastern Europe,2014,7199
+1760,Georgia,Eastern Europe,2015,9177
+1761,Georgia,Eastern Europe,2016,7956
+1762,Georgia,Eastern Europe,2017,2572
+1763,Georgia,Eastern Europe,2018,111
+1764,Georgia,Eastern Europe,2019,10481
+1765,Georgia,Eastern Europe,2020,2462
+1766,Georgia,Eastern Europe,2021,4539
+1767,Georgia,Eastern Europe,2022,7747
+1768,Germany,Western Europe,2000,1786045
+1769,Germany,Western Europe,2001,1313756
+1770,Germany,Western Europe,2002,1189856
+1771,Germany,Western Europe,2003,1180212
+1772,Germany,Western Europe,2004,1319904
+1773,Germany,Western Europe,2005,1415530
+1774,Germany,Western Europe,2006,1385520
+1775,Germany,Western Europe,2007,1524151
+1776,Germany,Western Europe,2008,1782299
+1777,Germany,Western Europe,2009,1686825
+1778,Germany,Western Europe,2010,1726193
+1779,Germany,Western Europe,2011,1874119
+1780,Germany,Western Europe,2012,1911441
+1781,Germany,Western Europe,2013,2021597
+1782,Germany,Western Europe,2014,2073675
+1783,Germany,Western Europe,2015,2284912
+1784,Germany,Western Europe,2016,2046288
+1785,Germany,Western Europe,2017,2080425
+1786,Germany,Western Europe,2018,2062462
+1787,Germany,Western Europe,2019,2063767
+1788,Germany,Western Europe,2020,293967
+1789,Germany,Western Europe,2021,249154
+1790,Germany,Western Europe,2022,1481008
+1791,Ghana,Africa,2000,16073
+1792,Ghana,Africa,2001,17184
+1793,Ghana,Africa,2002,18957
+1794,Ghana,Africa,2003,20760
+1795,Ghana,Africa,2004,18679
+1796,Ghana,Africa,2005,15155
+1797,Ghana,Africa,2006,12710
+1798,Ghana,Africa,2007,14625
+1799,Ghana,Africa,2008,18507
+1800,Ghana,Africa,2009,17069
+1801,Ghana,Africa,2010,18554
+1802,Ghana,Africa,2011,20053
+1803,Ghana,Africa,2012,20930
+1804,Ghana,Africa,2013,23014
+1805,Ghana,Africa,2014,23089
+1806,Ghana,Africa,2015,22638
+1807,Ghana,Africa,2016,23509
+1808,Ghana,Africa,2017,24106
+1809,Ghana,Africa,2018,29360
+1810,Ghana,Africa,2019,31904
+1811,Ghana,Africa,2020,5680
+1812,Ghana,Africa,2021,13670
+1813,Ghana,Africa,2022,26443
+1814,Gibraltar,Western Europe,2000,1363
+1815,Gibraltar,Western Europe,2001,929
+1816,Gibraltar,Western Europe,2002,690
+1817,Gibraltar,Western Europe,2003,841
+1818,Gibraltar,Western Europe,2004,1336
+1819,Gibraltar,Western Europe,2005,1674
+1820,Gibraltar,Western Europe,2006,1573
+1821,Gibraltar,Western Europe,2007,1659
+1822,Gibraltar,Western Europe,2008,2058
+1823,Gibraltar,Western Europe,2009,1656
+1824,Gibraltar,Western Europe,2010,1304
+1825,Gibraltar,Western Europe,2011,987
+1826,Gibraltar,Western Europe,2012,1130
+1827,Gibraltar,Western Europe,2013,1383
+1828,Gibraltar,Western Europe,2014,1407
+1829,Gibraltar,Western Europe,2015,1510
+1830,Gibraltar,Western Europe,2016,1298
+1831,Gibraltar,Western Europe,2017,1042
+1832,Gibraltar,Western Europe,2018,1688
+1833,Gibraltar,Western Europe,2019,1750
+1834,Gibraltar,Western Europe,2020,225
+1835,Gibraltar,Western Europe,2021,223
+1836,Gibraltar,Western Europe,2022,1409
+1837,Greece,Western Europe,2000,61361
+1838,Greece,Western Europe,2001,49371
+1839,Greece,Western Europe,2002,44839
+1840,Greece,Western Europe,2003,40993
+1841,Greece,Western Europe,2004,43208
+1842,Greece,Western Europe,2005,49835
+1843,Greece,Western Europe,2006,49923
+1844,Greece,Western Europe,2007,58292
+1845,Greece,Western Europe,2008,63760
+1846,Greece,Western Europe,2009,56748
+1847,Greece,Western Europe,2010,64581
+1848,Greece,Western Europe,2011,64738
+1849,Greece,Western Europe,2012,59547
+1850,Greece,Western Europe,2013,63847
+1851,Greece,Western Europe,2014,64478
+1852,Greece,Western Europe,2015,71396
+1853,Greece,Western Europe,2016,74444
+1854,Greece,Western Europe,2017,82635
+1855,Greece,Western Europe,2018,82796
+1856,Greece,Western Europe,2019,84691
+1857,Greece,Western Europe,2020,14358
+1858,Greece,Western Europe,2021,16140
+1859,Greece,Western Europe,2022,66877
+1860,Grenada,Caribbean,2000,10412
+1861,Grenada,Caribbean,2001,8656
+1862,Grenada,Caribbean,2002,7161
+1863,Grenada,Caribbean,2003,7509
+1864,Grenada,Caribbean,2004,8691
+1865,Grenada,Caribbean,2005,8083
+1866,Grenada,Caribbean,2006,8182
+1867,Grenada,Caribbean,2007,8325
+1868,Grenada,Caribbean,2008,8673
+1869,Grenada,Caribbean,2009,8202
+1870,Grenada,Caribbean,2010,8507
+1871,Grenada,Caribbean,2011,8174
+1872,Grenada,Caribbean,2012,7453
+1873,Grenada,Caribbean,2013,8322
+1874,Grenada,Caribbean,2014,8039
+1875,Grenada,Caribbean,2015,9623
+1876,Grenada,Caribbean,2016,9559
+1877,Grenada,Caribbean,2017,10388
+1878,Grenada,Caribbean,2018,11032
+1879,Grenada,Caribbean,2019,12588
+1880,Grenada,Caribbean,2020,2095
+1881,Grenada,Caribbean,2021,4887
+1882,Grenada,Caribbean,2022,9348
+1883,Guadeloupe,Caribbean,2000,10253
+1884,Guadeloupe,Caribbean,2001,7448
+1885,Guadeloupe,Caribbean,2002,6290
+1886,Guadeloupe,Caribbean,2003,6019
+1887,Guadeloupe,Caribbean,2004,6623
+1888,Guadeloupe,Caribbean,2005,7844
+1889,Guadeloupe,Caribbean,2006,6486
+1890,Guadeloupe,Caribbean,2007,7613
+1891,Guadeloupe,Caribbean,2008,9750
+1892,Guadeloupe,Caribbean,2009,9964
+1893,Guadeloupe,Caribbean,2010,8205
+1894,Guadeloupe,Caribbean,2011,6321
+1895,Guadeloupe,Caribbean,2012,6122
+1896,Guadeloupe,Caribbean,2013,5474
+1897,Guadeloupe,Caribbean,2014,4303
+1898,Guadeloupe,Caribbean,2015,5574
+1899,Guadeloupe,Caribbean,2016,5093
+1900,Guadeloupe,Caribbean,2017,5319
+1901,Guadeloupe,Caribbean,2018,9251
+1902,Guadeloupe,Caribbean,2019,9145
+1903,Guadeloupe,Caribbean,2020,1467
+1904,Guadeloupe,Caribbean,2021,2527
+1905,Guadeloupe,Caribbean,2022,4891
+1906,Guatemala,Central America,2000,185677
+1907,Guatemala,Central America,2001,171955
+1908,Guatemala,Central America,2002,162367
+1909,Guatemala,Central America,2003,151891
+1910,Guatemala,Central America,2004,161983
+1911,Guatemala,Central America,2005,170076
+1912,Guatemala,Central America,2006,173793
+1913,Guatemala,Central America,2007,201286
+1914,Guatemala,Central America,2008,188177
+1915,Guatemala,Central America,2009,189455
+1916,Guatemala,Central America,2010,188218
+1917,Guatemala,Central America,2011,185336
+1918,Guatemala,Central America,2012,193316
+1919,Guatemala,Central America,2013,211103
+1920,Guatemala,Central America,2014,223761
+1921,Guatemala,Central America,2015,234636
+1922,Guatemala,Central America,2016,256407
+1923,Guatemala,Central America,2017,252248
+1924,Guatemala,Central America,2018,272671
+1925,Guatemala,Central America,2019,282094
+1926,Guatemala,Central America,2020,80092
+1927,Guatemala,Central America,2021,279896
+1928,Guatemala,Central America,2022,256613
+1929,Guinea,Africa,2000,4184
+1930,Guinea,Africa,2001,4334
+1931,Guinea,Africa,2002,3589
+1932,Guinea,Africa,2003,3958
+1933,Guinea,Africa,2004,3528
+1934,Guinea,Africa,2005,2822
+1935,Guinea,Africa,2006,2707
+1936,Guinea,Africa,2007,2522
+1937,Guinea,Africa,2008,2348
+1938,Guinea,Africa,2009,1827
+1939,Guinea,Africa,2010,1536
+1940,Guinea,Africa,2011,1755
+1941,Guinea,Africa,2012,1966
+1942,Guinea,Africa,2013,1727
+1943,Guinea,Africa,2014,2282
+1944,Guinea,Africa,2015,2284
+1945,Guinea,Africa,2016,2877
+1946,Guinea,Africa,2017,2705
+1947,Guinea,Africa,2018,2657
+1948,Guinea,Africa,2019,2537
+1949,Guinea,Africa,2020,527
+1950,Guinea,Africa,2021,704
+1951,Guinea,Africa,2022,1757
+1952,Guinea-Bissau,Africa,2000,71
+1953,Guinea-Bissau,Africa,2001,64
+1954,Guinea-Bissau,Africa,2002,30
+1955,Guinea-Bissau,Africa,2003,15
+1956,Guinea-Bissau,Africa,2004,12
+1957,Guinea-Bissau,Africa,2005,24
+1958,Guinea-Bissau,Africa,2006,23
+1959,Guinea-Bissau,Africa,2007,18
+1960,Guinea-Bissau,Africa,2008,25
+1961,Guinea-Bissau,Africa,2009,24
+1962,Guinea-Bissau,Africa,2010,37
+1963,Guinea-Bissau,Africa,2011,46
+1964,Guinea-Bissau,Africa,2012,33
+1965,Guinea-Bissau,Africa,2013,118
+1966,Guinea-Bissau,Africa,2014,166
+1967,Guinea-Bissau,Africa,2015,173
+1968,Guinea-Bissau,Africa,2016,180
+1969,Guinea-Bissau,Africa,2017,178
+1970,Guinea-Bissau,Africa,2018,196
+1971,Guinea-Bissau,Africa,2019,196
+1972,Guinea-Bissau,Africa,2020,44
+1973,Guinea-Bissau,Africa,2021,92
+1974,Guinea-Bissau,Africa,2022,176
+1975,Guyana,South America,2000,17435
+1976,Guyana,South America,2001,16955
+1977,Guyana,South America,2002,19358
+1978,Guyana,South America,2003,15991
+1979,Guyana,South America,2004,14777
+1980,Guyana,South America,2005,16091
+1981,Guyana,South America,2006,14195
+1982,Guyana,South America,2007,13760
+1983,Guyana,South America,2008,12974
+1984,Guyana,South America,2009,14774
+1985,Guyana,South America,2010,15601
+1986,Guyana,South America,2011,16749
+1987,Guyana,South America,2012,23545
+1988,Guyana,South America,2013,30264
+1989,Guyana,South America,2014,36954
+1990,Guyana,South America,2015,50988
+1991,Guyana,South America,2016,62067
+1992,Guyana,South America,2017,60648
+1993,Guyana,South America,2018,55565
+1994,Guyana,South America,2019,52243
+1995,Guyana,South America,2020,11514
+1996,Guyana,South America,2021,37313
+1997,Guyana,South America,2022,50091
+1998,Haiti,Caribbean,2000,72190
+1999,Haiti,Caribbean,2001,65169
+2000,Haiti,Caribbean,2002,59444
+2001,Haiti,Caribbean,2003,59756
+2002,Haiti,Caribbean,2004,60521
+2003,Haiti,Caribbean,2005,63970
+2004,Haiti,Caribbean,2006,58918
+2005,Haiti,Caribbean,2007,83837
+2006,Haiti,Caribbean,2008,91748
+2007,Haiti,Caribbean,2009,80572
+2008,Haiti,Caribbean,2010,87334
+2009,Haiti,Caribbean,2011,83648
+2010,Haiti,Caribbean,2012,85403
+2011,Haiti,Caribbean,2013,96873
+2012,Haiti,Caribbean,2014,113561
+2013,Haiti,Caribbean,2015,125189
+2014,Haiti,Caribbean,2016,147478
+2015,Haiti,Caribbean,2017,136002
+2016,Haiti,Caribbean,2018,131003
+2017,Haiti,Caribbean,2019,126295
+2018,Haiti,Caribbean,2020,48332
+2019,Haiti,Caribbean,2021,69703
+2020,Haiti,Caribbean,2022,62301
+2021,Heard Island and McDonald Islands,Oceania,2013,3
+2022,Heard Island and McDonald Islands,Oceania,2014,19
+2023,Heard Island and McDonald Islands,Oceania,2015,22
+2024,Heard Island and McDonald Islands,Oceania,2016,17
+2025,Heard Island and McDonald Islands,Oceania,2017,10
+2026,Heard Island and McDonald Islands,Oceania,2018,17
+2027,Heard Island and McDonald Islands,Oceania,2019,18
+2028,Heard Island and McDonald Islands,Oceania,2020,6
+2029,Heard Island and McDonald Islands,Oceania,2021,3
+2030,Heard Island and McDonald Islands,Oceania,2022,18
+2031,Holy See/Vatican,Western Europe,2000,28
+2032,Holy See/Vatican,Western Europe,2001,19
+2033,Holy See/Vatican,Western Europe,2002,8
+2034,Holy See/Vatican,Western Europe,2003,13
+2035,Holy See/Vatican,Western Europe,2004,7
+2036,Holy See/Vatican,Western Europe,2005,14
+2037,Holy See/Vatican,Western Europe,2006,8
+2038,Holy See/Vatican,Western Europe,2007,15
+2039,Holy See/Vatican,Western Europe,2008,19
+2040,Holy See/Vatican,Western Europe,2009,15
+2041,Holy See/Vatican,Western Europe,2010,32
+2042,Holy See/Vatican,Western Europe,2011,59
+2043,Holy See/Vatican,Western Europe,2012,53
+2044,Holy See/Vatican,Western Europe,2013,105
+2045,Holy See/Vatican,Western Europe,2014,106
+2046,Holy See/Vatican,Western Europe,2015,114
+2047,Holy See/Vatican,Western Europe,2016,101
+2048,Holy See/Vatican,Western Europe,2017,95
+2049,Holy See/Vatican,Western Europe,2018,160
+2050,Holy See/Vatican,Western Europe,2019,170
+2051,Holy See/Vatican,Western Europe,2020,71
+2052,Holy See/Vatican,Western Europe,2021,64
+2053,Holy See/Vatican,Western Europe,2022,154
+2054,Honduras,Central America,2000,90714
+2055,Honduras,Central America,2001,87645
+2056,Honduras,Central America,2002,85322
+2057,Honduras,Central America,2003,82099
+2058,Honduras,Central America,2004,85506
+2059,Honduras,Central America,2005,89718
+2060,Honduras,Central America,2006,92445
+2061,Honduras,Central America,2007,111059
+2062,Honduras,Central America,2008,116902
+2063,Honduras,Central America,2009,115405
+2064,Honduras,Central America,2010,115616
+2065,Honduras,Central America,2011,121218
+2066,Honduras,Central America,2012,128801
+2067,Honduras,Central America,2013,146576
+2068,Honduras,Central America,2014,155606
+2069,Honduras,Central America,2015,175368
+2070,Honduras,Central America,2016,196765
+2071,Honduras,Central America,2017,206638
+2072,Honduras,Central America,2018,213389
+2073,Honduras,Central America,2019,219472
+2074,Honduras,Central America,2020,69027
+2075,Honduras,Central America,2021,241579
+2076,Honduras,Central America,2022,235716
+2077,Hong Kong,Asia,2000,203300
+2078,Hong Kong,Asia,2001,170267
+2079,Hong Kong,Asia,2002,135409
+2080,Hong Kong,Asia,2003,114112
+2081,Hong Kong,Asia,2004,123335
+2082,Hong Kong,Asia,2005,135108
+2083,Hong Kong,Asia,2006,137278
+2084,Hong Kong,Asia,2007,142419
+2085,Hong Kong,Asia,2008,139359
+2086,Hong Kong,Asia,2009,116023
+2087,Hong Kong,Asia,2010,131712
+2088,Hong Kong,Asia,2011,130986
+2089,Hong Kong,Asia,2012,132706
+2090,Hong Kong,Asia,2013,126887
+2091,Hong Kong,Asia,2014,122693
+2092,Hong Kong,Asia,2015,133491
+2093,Hong Kong,Asia,2016,132654
+2094,Hong Kong,Asia,2017,147168
+2095,Hong Kong,Asia,2018,151740
+2096,Hong Kong,Asia,2019,155243
+2097,Hong Kong,Asia,2020,22631
+2098,Hong Kong,Asia,2021,9814
+2099,Hong Kong,Asia,2022,43204
+2100,Hungary,Eastern Europe,2000,59174
+2101,Hungary,Eastern Europe,2001,45311
+2102,Hungary,Eastern Europe,2002,35001
+2103,Hungary,Eastern Europe,2003,31984
+2104,Hungary,Eastern Europe,2004,32694
+2105,Hungary,Eastern Europe,2005,37308
+2106,Hungary,Eastern Europe,2006,37257
+2107,Hungary,Eastern Europe,2007,40467
+2108,Hungary,Eastern Europe,2008,42209
+2109,Hungary,Eastern Europe,2009,48806
+2110,Hungary,Eastern Europe,2010,51333
+2111,Hungary,Eastern Europe,2011,59845
+2112,Hungary,Eastern Europe,2012,58466
+2113,Hungary,Eastern Europe,2013,62934
+2114,Hungary,Eastern Europe,2014,68368
+2115,Hungary,Eastern Europe,2015,78267
+2116,Hungary,Eastern Europe,2016,78625
+2117,Hungary,Eastern Europe,2017,86780
+2118,Hungary,Eastern Europe,2018,93716
+2119,Hungary,Eastern Europe,2019,99907
+2120,Hungary,Eastern Europe,2020,17148
+2121,Hungary,Eastern Europe,2021,10721
+2122,Hungary,Eastern Europe,2022,62993
+2123,Iceland,Western Europe,2000,27682
+2124,Iceland,Western Europe,2001,20868
+2125,Iceland,Western Europe,2002,18692
+2126,Iceland,Western Europe,2003,21389
+2127,Iceland,Western Europe,2004,26777
+2128,Iceland,Western Europe,2005,38929
+2129,Iceland,Western Europe,2006,42139
+2130,Iceland,Western Europe,2007,46796
+2131,Iceland,Western Europe,2008,41155
+2132,Iceland,Western Europe,2009,28526
+2133,Iceland,Western Europe,2010,39153
+2134,Iceland,Western Europe,2011,50160
+2135,Iceland,Western Europe,2012,46410
+2136,Iceland,Western Europe,2013,49429
+2137,Iceland,Western Europe,2014,50382
+2138,Iceland,Western Europe,2015,56554
+2139,Iceland,Western Europe,2016,57856
+2140,Iceland,Western Europe,2017,66357
+2141,Iceland,Western Europe,2018,73361
+2142,Iceland,Western Europe,2019,60241
+2143,Iceland,Western Europe,2020,8963
+2144,Iceland,Western Europe,2021,8450
+2145,Iceland,Western Europe,2022,43980
+2146,India,Asia,2000,274202
+2147,India,Asia,2001,269674
+2148,India,Asia,2002,257271
+2149,India,Asia,2003,272161
+2150,India,Asia,2004,308845
+2151,India,Asia,2005,344926
+2152,India,Asia,2006,406845
+2153,India,Asia,2007,567045
+2154,India,Asia,2008,598971
+2155,India,Asia,2009,549474
+2156,India,Asia,2010,650935
+2157,India,Asia,2011,696107
+2158,India,Asia,2012,747833
+2159,India,Asia,2013,905834
+2160,India,Asia,2014,985667
+2161,India,Asia,2015,1147693
+2162,India,Asia,2016,1206771
+2163,India,Asia,2017,1285466
+2164,India,Asia,2018,1378035
+2165,India,Asia,2019,1473517
+2166,India,Asia,2020,335990
+2167,India,Asia,2021,433305
+2168,India,Asia,2022,1256915
+2169,Indian Ocean Areas (French),Asia,2011,1
+2170,Indian Ocean Areas (French),Asia,2012,1
+2171,Indian Ocean Areas (French),Asia,2013,0
+2172,Indian Ocean Areas (French),Asia,2014,0
+2173,Indian Ocean Areas (French),Asia,2015,0
+2174,Indian Ocean Areas (French),Asia,2016,0
+2175,Indian Ocean Areas (French),Asia,2017,0
+2176,Indian Ocean Areas (French),Asia,2018,0
+2177,Indian Ocean Areas (French),Asia,2019,0
+2178,Indian Ocean Areas (French),Asia,2020,0
+2179,Indian Ocean Areas (French),Asia,2021,0
+2180,Indian Ocean Areas (French),Asia,2022,0
+2181,Indian Ocean Territory,Asia,2011,0
+2182,Indian Ocean Territory,Asia,2012,0
+2183,Indian Ocean Territory,Asia,2013,6
+2184,Indian Ocean Territory,Asia,2014,22
+2185,Indian Ocean Territory,Asia,2015,18
+2186,Indian Ocean Territory,Asia,2016,22
+2187,Indian Ocean Territory,Asia,2017,93
+2188,Indian Ocean Territory,Asia,2018,280
+2189,Indian Ocean Territory,Asia,2019,284
+2190,Indian Ocean Territory,Asia,2020,66
+2191,Indian Ocean Territory,Asia,2021,113
+2192,Indian Ocean Territory,Asia,2022,328
+2193,Indonesia,Asia,2000,71390
+2194,Indonesia,Asia,2001,59672
+2195,Indonesia,Asia,2002,45811
+2196,Indonesia,Asia,2003,40744
+2197,Indonesia,Asia,2004,45905
+2198,Indonesia,Asia,2005,51566
+2199,Indonesia,Asia,2006,53133
+2200,Indonesia,Asia,2007,53829
+2201,Indonesia,Asia,2008,49348
+2202,Indonesia,Asia,2009,50243
+2203,Indonesia,Asia,2010,54539
+2204,Indonesia,Asia,2011,69022
+2205,Indonesia,Asia,2012,76197
+2206,Indonesia,Asia,2013,92517
+2207,Indonesia,Asia,2014,98752
+2208,Indonesia,Asia,2015,97805
+2209,Indonesia,Asia,2016,101003
+2210,Indonesia,Asia,2017,106579
+2211,Indonesia,Asia,2018,109143
+2212,Indonesia,Asia,2019,117236
+2213,Indonesia,Asia,2020,15913
+2214,Indonesia,Asia,2021,32901
+2215,Indonesia,Asia,2022,75145
+2216,Iran,Middle East,2000,9364
+2217,Iran,Middle East,2001,8536
+2218,Iran,Middle East,2002,4996
+2219,Iran,Middle East,2003,3454
+2220,Iran,Middle East,2004,4311
+2221,Iran,Middle East,2005,5330
+2222,Iran,Middle East,2006,5940
+2223,Iran,Middle East,2007,6520
+2224,Iran,Middle East,2008,6098
+2225,Iran,Middle East,2009,10139
+2226,Iran,Middle East,2010,11460
+2227,Iran,Middle East,2011,15101
+2228,Iran,Middle East,2012,15300
+2229,Iran,Middle East,2013,19075
+2230,Iran,Middle East,2014,27186
+2231,Iran,Middle East,2015,28210
+2232,Iran,Middle East,2016,24009
+2233,Iran,Middle East,2017,15553
+2234,Iran,Middle East,2018,4915
+2235,Iran,Middle East,2019,5412
+2236,Iran,Middle East,2020,1181
+2237,Iran,Middle East,2021,3578
+2238,Iran,Middle East,2022,11426
+2239,Iraq,Middle East,2000,537
+2240,Iraq,Middle East,2001,949
+2241,Iraq,Middle East,2002,541
+2242,Iraq,Middle East,2003,442
+2243,Iraq,Middle East,2004,1046
+2244,Iraq,Middle East,2005,1131
+2245,Iraq,Middle East,2006,993
+2246,Iraq,Middle East,2007,788
+2247,Iraq,Middle East,2008,872
+2248,Iraq,Middle East,2009,1263
+2249,Iraq,Middle East,2010,2207
+2250,Iraq,Middle East,2011,4007
+2251,Iraq,Middle East,2012,6676
+2252,Iraq,Middle East,2013,11208
+2253,Iraq,Middle East,2014,13845
+2254,Iraq,Middle East,2015,11219
+2255,Iraq,Middle East,2016,13491
+2256,Iraq,Middle East,2017,10819
+2257,Iraq,Middle East,2018,9753
+2258,Iraq,Middle East,2019,11374
+2259,Iraq,Middle East,2020,2715
+2260,Iraq,Middle East,2021,839
+2261,Iraq,Middle East,2022,9387
+2262,Ireland,Western Europe,2000,285697
+2263,Ireland,Western Europe,2001,276806
+2264,Ireland,Western Europe,2002,259687
+2265,Ireland,Western Europe,2003,254320
+2266,Ireland,Western Europe,2004,345119
+2267,Ireland,Western Europe,2005,383400
+2268,Ireland,Western Europe,2006,414423
+2269,Ireland,Western Europe,2007,491055
+2270,Ireland,Western Europe,2008,531198
+2271,Ireland,Western Europe,2009,411203
+2272,Ireland,Western Europe,2010,360492
+2273,Ireland,Western Europe,2011,353640
+2274,Ireland,Western Europe,2012,335063
+2275,Ireland,Western Europe,2013,381981
+2276,Ireland,Western Europe,2014,401373
+2277,Ireland,Western Europe,2015,451364
+2278,Ireland,Western Europe,2016,443005
+2279,Ireland,Western Europe,2017,483615
+2280,Ireland,Western Europe,2018,530802
+2281,Ireland,Western Europe,2019,520692
+2282,Ireland,Western Europe,2020,80327
+2283,Ireland,Western Europe,2021,49399
+2284,Ireland,Western Europe,2022,402619
+2285,Israel,Middle East,2000,325199
+2286,Israel,Middle East,2001,305431
+2287,Israel,Middle East,2002,263097
+2288,Israel,Middle East,2003,249034
+2289,Israel,Middle East,2004,275373
+2290,Israel,Middle East,2005,284310
+2291,Israel,Middle East,2006,283889
+2292,Israel,Middle East,2007,313077
+2293,Israel,Middle East,2008,332257
+2294,Israel,Middle East,2009,308213
+2295,Israel,Middle East,2010,306914
+2296,Israel,Middle East,2011,310484
+2297,Israel,Middle East,2012,300882
+2298,Israel,Middle East,2013,345751
+2299,Israel,Middle East,2014,361034
+2300,Israel,Middle East,2015,408836
+2301,Israel,Middle East,2016,425085
+2302,Israel,Middle East,2017,421202
+2303,Israel,Middle East,2018,439153
+2304,Israel,Middle East,2019,450572
+2305,Israel,Middle East,2020,84800
+2306,Israel,Middle East,2021,208264
+2307,Israel,Middle East,2022,355194
+2308,Italy,Western Europe,2000,612357
+2309,Italy,Western Europe,2001,472348
+2310,Italy,Western Europe,2002,406160
+2311,Italy,Western Europe,2003,408633
+2312,Italy,Western Europe,2004,470805
+2313,Italy,Western Europe,2005,545546
+2314,Italy,Western Europe,2006,532829
+2315,Italy,Western Europe,2007,634152
+2316,Italy,Western Europe,2008,779463
+2317,Italy,Western Europe,2009,753310
+2318,Italy,Western Europe,2010,838225
+2319,Italy,Western Europe,2011,907748
+2320,Italy,Western Europe,2012,843851
+2321,Italy,Western Europe,2013,885580
+2322,Italy,Western Europe,2014,970293
+2323,Italy,Western Europe,2015,1045424
+2324,Italy,Western Europe,2016,988860
+2325,Italy,Western Europe,2017,1032107
+2326,Italy,Western Europe,2018,1073383
+2327,Italy,Western Europe,2019,1086026
+2328,Italy,Western Europe,2020,140547
+2329,Italy,Western Europe,2021,135636
+2330,Italy,Western Europe,2022,717593
+2331,Jamaica,Caribbean,2000,242903
+2332,Jamaica,Caribbean,2001,229003
+2333,Jamaica,Caribbean,2002,183903
+2334,Jamaica,Caribbean,2003,159484
+2335,Jamaica,Caribbean,2004,163059
+2336,Jamaica,Caribbean,2005,175351
+2337,Jamaica,Caribbean,2006,204912
+2338,Jamaica,Caribbean,2007,221521
+2339,Jamaica,Caribbean,2008,204982
+2340,Jamaica,Caribbean,2009,185526
+2341,Jamaica,Caribbean,2010,178791
+2342,Jamaica,Caribbean,2011,161645
+2343,Jamaica,Caribbean,2012,160600
+2344,Jamaica,Caribbean,2013,180467
+2345,Jamaica,Caribbean,2014,209323
+2346,Jamaica,Caribbean,2015,250600
+2347,Jamaica,Caribbean,2016,278518
+2348,Jamaica,Caribbean,2017,278420
+2349,Jamaica,Caribbean,2018,290929
+2350,Jamaica,Caribbean,2019,293334
+2351,Jamaica,Caribbean,2020,80837
+2352,Jamaica,Caribbean,2021,159930
+2353,Jamaica,Caribbean,2022,206622
+2354,Japan,Asia,2000,5061377
+2355,Japan,Asia,2001,4082661
+2356,Japan,Asia,2002,3627264
+2357,Japan,Asia,2003,3169682
+2358,Japan,Asia,2004,3747620
+2359,Japan,Asia,2005,3883906
+2360,Japan,Asia,2006,3672584
+2361,Japan,Asia,2007,3531489
+2362,Japan,Asia,2008,3249578
+2363,Japan,Asia,2009,2918268
+2364,Japan,Asia,2010,3386076
+2365,Japan,Asia,2011,3329014
+2366,Japan,Asia,2012,3771563
+2367,Japan,Asia,2013,3887328
+2368,Japan,Asia,2014,3653454
+2369,Japan,Asia,2015,3792997
+2370,Japan,Asia,2016,3603786
+2371,Japan,Asia,2017,3595607
+2372,Japan,Asia,2018,3493313
+2373,Japan,Asia,2019,3752980
+2374,Japan,Asia,2020,696727
+2375,Japan,Asia,2021,121519
+2376,Japan,Asia,2022,597330
+2377,Jordan,Middle East,2000,17327
+2378,Jordan,Middle East,2001,18490
+2379,Jordan,Middle East,2002,12339
+2380,Jordan,Middle East,2003,11798
+2381,Jordan,Middle East,2004,12265
+2382,Jordan,Middle East,2005,14656
+2383,Jordan,Middle East,2006,14714
+2384,Jordan,Middle East,2007,15572
+2385,Jordan,Middle East,2008,15712
+2386,Jordan,Middle East,2009,15559
+2387,Jordan,Middle East,2010,16459
+2388,Jordan,Middle East,2011,18872
+2389,Jordan,Middle East,2012,20945
+2390,Jordan,Middle East,2013,25167
+2391,Jordan,Middle East,2014,30446
+2392,Jordan,Middle East,2015,37043
+2393,Jordan,Middle East,2016,37950
+2394,Jordan,Middle East,2017,37970
+2395,Jordan,Middle East,2018,37240
+2396,Jordan,Middle East,2019,35482
+2397,Jordan,Middle East,2020,8735
+2398,Jordan,Middle East,2021,15758
+2399,Jordan,Middle East,2022,22513
+2400,Kampuchea,Asia,2000,2319
+2401,Kampuchea,Asia,2001,3304
+2402,Kampuchea,Asia,2002,2575
+2403,Kampuchea,Asia,2003,3115
+2404,Kampuchea,Asia,2004,3480
+2405,Kampuchea,Asia,2005,3056
+2406,Kampuchea,Asia,2006,2425
+2407,Kampuchea,Asia,2007,2568
+2408,Kampuchea,Asia,2008,2664
+2409,Kampuchea,Asia,2009,2314
+2410,Kampuchea,Asia,2010,2611
+2411,Kampuchea,Asia,2011,2457
+2412,Kampuchea,Asia,2012,2953
+2413,Kampuchea,Asia,2013,4069
+2414,Kampuchea,Asia,2014,3521
+2415,Kampuchea,Asia,2015,3416
+2416,Kampuchea,Asia,2016,4579
+2417,Kampuchea,Asia,2017,4667
+2418,Kampuchea,Asia,2018,5681
+2419,Kampuchea,Asia,2019,6966
+2420,Kampuchea,Asia,2020,980
+2421,Kampuchea,Asia,2021,1851
+2422,Kampuchea,Asia,2022,7976
+2423,Kazakhstan,Asia,2000,3311
+2424,Kazakhstan,Asia,2001,3608
+2425,Kazakhstan,Asia,2002,3602
+2426,Kazakhstan,Asia,2003,3355
+2427,Kazakhstan,Asia,2004,3784
+2428,Kazakhstan,Asia,2005,4992
+2429,Kazakhstan,Asia,2006,5629
+2430,Kazakhstan,Asia,2007,7444
+2431,Kazakhstan,Asia,2008,9133
+2432,Kazakhstan,Asia,2009,8459
+2433,Kazakhstan,Asia,2010,10852
+2434,Kazakhstan,Asia,2011,13177
+2435,Kazakhstan,Asia,2012,15320
+2436,Kazakhstan,Asia,2013,17688
+2437,Kazakhstan,Asia,2014,20810
+2438,Kazakhstan,Asia,2015,22396
+2439,Kazakhstan,Asia,2016,21161
+2440,Kazakhstan,Asia,2017,26080
+2441,Kazakhstan,Asia,2018,26716
+2442,Kazakhstan,Asia,2019,28244
+2443,Kazakhstan,Asia,2020,7182
+2444,Kazakhstan,Asia,2021,11561
+2445,Kazakhstan,Asia,2022,21332
+2446,Kenya,Africa,2000,14229
+2447,Kenya,Africa,2001,20651
+2448,Kenya,Africa,2002,17275
+2449,Kenya,Africa,2003,13913
+2450,Kenya,Africa,2004,14979
+2451,Kenya,Africa,2005,14118
+2452,Kenya,Africa,2006,14909
+2453,Kenya,Africa,2007,16468
+2454,Kenya,Africa,2008,17296
+2455,Kenya,Africa,2009,15833
+2456,Kenya,Africa,2010,15173
+2457,Kenya,Africa,2011,14151
+2458,Kenya,Africa,2012,15302
+2459,Kenya,Africa,2013,17437
+2460,Kenya,Africa,2014,20764
+2461,Kenya,Africa,2015,23600
+2462,Kenya,Africa,2016,25164
+2463,Kenya,Africa,2017,29499
+2464,Kenya,Africa,2018,33485
+2465,Kenya,Africa,2019,35455
+2466,Kenya,Africa,2020,7225
+2467,Kenya,Africa,2021,13190
+2468,Kenya,Africa,2022,21673
+2469,Kiribati,Oceania,2000,639
+2470,Kiribati,Oceania,2001,578
+2471,Kiribati,Oceania,2002,516
+2472,Kiribati,Oceania,2003,547
+2473,Kiribati,Oceania,2004,453
+2474,Kiribati,Oceania,2005,325
+2475,Kiribati,Oceania,2006,161
+2476,Kiribati,Oceania,2007,190
+2477,Kiribati,Oceania,2008,199
+2478,Kiribati,Oceania,2009,282
+2479,Kiribati,Oceania,2010,258
+2480,Kiribati,Oceania,2011,301
+2481,Kiribati,Oceania,2012,236
+2482,Kiribati,Oceania,2013,270
+2483,Kiribati,Oceania,2014,163
+2484,Kiribati,Oceania,2015,178
+2485,Kiribati,Oceania,2016,231
+2486,Kiribati,Oceania,2017,174
+2487,Kiribati,Oceania,2018,143
+2488,Kiribati,Oceania,2019,174
+2489,Kiribati,Oceania,2020,27
+2490,Kiribati,Oceania,2021,12
+2491,Kiribati,Oceania,2022,86
+2492,Kosovo,Eastern Europe,2013,414
+2493,Kosovo,Eastern Europe,2014,3479
+2494,Kosovo,Eastern Europe,2015,3739
+2495,Kosovo,Eastern Europe,2016,3997
+2496,Kosovo,Eastern Europe,2017,3594
+2497,Kosovo,Eastern Europe,2018,5560
+2498,Kosovo,Eastern Europe,2019,4192
+2499,Kosovo,Eastern Europe,2020,1580
+2500,Kosovo,Eastern Europe,2021,380
+2501,Kosovo,Eastern Europe,2022,0
+2502,Kuwait,Middle East,2000,23930
+2503,Kuwait,Middle East,2001,22834
+2504,Kuwait,Middle East,2002,14204
+2505,Kuwait,Middle East,2003,13775
+2506,Kuwait,Middle East,2004,15247
+2507,Kuwait,Middle East,2005,18367
+2508,Kuwait,Middle East,2006,20866
+2509,Kuwait,Middle East,2007,24864
+2510,Kuwait,Middle East,2008,28258
+2511,Kuwait,Middle East,2009,29888
+2512,Kuwait,Middle East,2010,33296
+2513,Kuwait,Middle East,2011,40030
+2514,Kuwait,Middle East,2012,46821
+2515,Kuwait,Middle East,2013,52417
+2516,Kuwait,Middle East,2014,66524
+2517,Kuwait,Middle East,2015,75259
+2518,Kuwait,Middle East,2016,74460
+2519,Kuwait,Middle East,2017,60594
+2520,Kuwait,Middle East,2018,62658
+2521,Kuwait,Middle East,2019,61231
+2522,Kuwait,Middle East,2020,14572
+2523,Kuwait,Middle East,2021,21350
+2524,Kuwait,Middle East,2022,36307
+2525,Kyrgyzstan,Asia,2000,906
+2526,Kyrgyzstan,Asia,2001,796
+2527,Kyrgyzstan,Asia,2002,765
+2528,Kyrgyzstan,Asia,2003,600
+2529,Kyrgyzstan,Asia,2004,641
+2530,Kyrgyzstan,Asia,2005,608
+2531,Kyrgyzstan,Asia,2006,837
+2532,Kyrgyzstan,Asia,2007,1075
+2533,Kyrgyzstan,Asia,2008,1252
+2534,Kyrgyzstan,Asia,2009,1279
+2535,Kyrgyzstan,Asia,2010,1716
+2536,Kyrgyzstan,Asia,2011,1908
+2537,Kyrgyzstan,Asia,2012,2010
+2538,Kyrgyzstan,Asia,2013,3103
+2539,Kyrgyzstan,Asia,2014,2438
+2540,Kyrgyzstan,Asia,2015,2321
+2541,Kyrgyzstan,Asia,2016,2896
+2542,Kyrgyzstan,Asia,2017,1992
+2543,Kyrgyzstan,Asia,2018,3596
+2544,Kyrgyzstan,Asia,2019,3957
+2545,Kyrgyzstan,Asia,2020,1277
+2546,Kyrgyzstan,Asia,2021,2033
+2547,Kyrgyzstan,Asia,2022,5033
+2548,Laos,Asia,2000,1045
+2549,Laos,Asia,2001,1608
+2550,Laos,Asia,2002,1190
+2551,Laos,Asia,2003,955
+2552,Laos,Asia,2004,1192
+2553,Laos,Asia,2005,1724
+2554,Laos,Asia,2006,1837
+2555,Laos,Asia,2007,1976
+2556,Laos,Asia,2008,1503
+2557,Laos,Asia,2009,1103
+2558,Laos,Asia,2010,808
+2559,Laos,Asia,2011,719
+2560,Laos,Asia,2012,896
+2561,Laos,Asia,2013,2215
+2562,Laos,Asia,2014,1760
+2563,Laos,Asia,2015,1561
+2564,Laos,Asia,2016,1797
+2565,Laos,Asia,2017,1685
+2566,Laos,Asia,2018,1905
+2567,Laos,Asia,2019,1914
+2568,Laos,Asia,2020,184
+2569,Laos,Asia,2021,48
+2570,Laos,Asia,2022,1544
+2571,Latvia,Eastern Europe,2000,7161
+2572,Latvia,Eastern Europe,2001,6218
+2573,Latvia,Eastern Europe,2002,5870
+2574,Latvia,Eastern Europe,2003,5280
+2575,Latvia,Eastern Europe,2004,5787
+2576,Latvia,Eastern Europe,2005,6981
+2577,Latvia,Eastern Europe,2006,7693
+2578,Latvia,Eastern Europe,2007,9728
+2579,Latvia,Eastern Europe,2008,10240
+2580,Latvia,Eastern Europe,2009,11270
+2581,Latvia,Eastern Europe,2010,11529
+2582,Latvia,Eastern Europe,2011,13263
+2583,Latvia,Eastern Europe,2012,15339
+2584,Latvia,Eastern Europe,2013,15694
+2585,Latvia,Eastern Europe,2014,16996
+2586,Latvia,Eastern Europe,2015,18989
+2587,Latvia,Eastern Europe,2016,19420
+2588,Latvia,Eastern Europe,2017,21254
+2589,Latvia,Eastern Europe,2018,20349
+2590,Latvia,Eastern Europe,2019,21032
+2591,Latvia,Eastern Europe,2020,4279
+2592,Latvia,Eastern Europe,2021,3501
+2593,Latvia,Eastern Europe,2022,15765
+2594,Lebanon,Middle East,2000,18599
+2595,Lebanon,Middle East,2001,19401
+2596,Lebanon,Middle East,2002,14517
+2597,Lebanon,Middle East,2003,12981
+2598,Lebanon,Middle East,2004,15074
+2599,Lebanon,Middle East,2005,15543
+2600,Lebanon,Middle East,2006,15880
+2601,Lebanon,Middle East,2007,19251
+2602,Lebanon,Middle East,2008,18253
+2603,Lebanon,Middle East,2009,17969
+2604,Lebanon,Middle East,2010,18847
+2605,Lebanon,Middle East,2011,21826
+2606,Lebanon,Middle East,2012,24224
+2607,Lebanon,Middle East,2013,32773
+2608,Lebanon,Middle East,2014,37431
+2609,Lebanon,Middle East,2015,38042
+2610,Lebanon,Middle East,2016,39104
+2611,Lebanon,Middle East,2017,36631
+2612,Lebanon,Middle East,2018,36951
+2613,Lebanon,Middle East,2019,36548
+2614,Lebanon,Middle East,2020,9470
+2615,Lebanon,Middle East,2021,14292
+2616,Lebanon,Middle East,2022,22655
+2617,Lesotho,Africa,2000,326
+2618,Lesotho,Africa,2001,248
+2619,Lesotho,Africa,2002,272
+2620,Lesotho,Africa,2003,201
+2621,Lesotho,Africa,2004,232
+2622,Lesotho,Africa,2005,269
+2623,Lesotho,Africa,2006,233
+2624,Lesotho,Africa,2007,242
+2625,Lesotho,Africa,2008,246
+2626,Lesotho,Africa,2009,259
+2627,Lesotho,Africa,2010,298
+2628,Lesotho,Africa,2011,350
+2629,Lesotho,Africa,2012,378
+2630,Lesotho,Africa,2013,309
+2631,Lesotho,Africa,2014,329
+2632,Lesotho,Africa,2015,375
+2633,Lesotho,Africa,2016,379
+2634,Lesotho,Africa,2017,391
+2635,Lesotho,Africa,2018,450
+2636,Lesotho,Africa,2019,393
+2637,Lesotho,Africa,2020,66
+2638,Lesotho,Africa,2021,52
+2639,Lesotho,Africa,2022,239
+2640,Liberia,Africa,2000,3823
+2641,Liberia,Africa,2001,2367
+2642,Liberia,Africa,2002,1400
+2643,Liberia,Africa,2003,848
+2644,Liberia,Africa,2004,1038
+2645,Liberia,Africa,2005,669
+2646,Liberia,Africa,2006,976
+2647,Liberia,Africa,2007,1749
+2648,Liberia,Africa,2008,1345
+2649,Liberia,Africa,2009,1086
+2650,Liberia,Africa,2010,1543
+2651,Liberia,Africa,2011,1936
+2652,Liberia,Africa,2012,2984
+2653,Liberia,Africa,2013,3463
+2654,Liberia,Africa,2014,4471
+2655,Liberia,Africa,2015,4386
+2656,Liberia,Africa,2016,3767
+2657,Liberia,Africa,2017,3565
+2658,Liberia,Africa,2018,3483
+2659,Liberia,Africa,2019,3042
+2660,Liberia,Africa,2020,465
+2661,Liberia,Africa,2021,433
+2662,Liberia,Africa,2022,1004
+2663,Libya,Africa,2000,297
+2664,Libya,Africa,2001,283
+2665,Libya,Africa,2002,212
+2666,Libya,Africa,2003,199
+2667,Libya,Africa,2004,264
+2668,Libya,Africa,2005,542
+2669,Libya,Africa,2006,719
+2670,Libya,Africa,2007,1476
+2671,Libya,Africa,2008,4099
+2672,Libya,Africa,2009,2904
+2673,Libya,Africa,2010,4440
+2674,Libya,Africa,2011,1160
+2675,Libya,Africa,2012,2555
+2676,Libya,Africa,2013,3127
+2677,Libya,Africa,2014,2899
+2678,Libya,Africa,2015,2149
+2679,Libya,Africa,2016,1336
+2680,Libya,Africa,2017,730
+2681,Libya,Africa,2018,297
+2682,Libya,Africa,2019,393
+2683,Libya,Africa,2020,135
+2684,Libya,Africa,2021,330
+2685,Libya,Africa,2022,979
+2686,Liechtenstein,Western Europe,2000,2011
+2687,Liechtenstein,Western Europe,2001,1653
+2688,Liechtenstein,Western Europe,2002,1248
+2689,Liechtenstein,Western Europe,2003,1099
+2690,Liechtenstein,Western Europe,2004,1235
+2691,Liechtenstein,Western Europe,2005,1287
+2692,Liechtenstein,Western Europe,2006,1468
+2693,Liechtenstein,Western Europe,2007,1496
+2694,Liechtenstein,Western Europe,2008,1661
+2695,Liechtenstein,Western Europe,2009,1877
+2696,Liechtenstein,Western Europe,2010,1909
+2697,Liechtenstein,Western Europe,2011,2301
+2698,Liechtenstein,Western Europe,2012,2161
+2699,Liechtenstein,Western Europe,2013,2214
+2700,Liechtenstein,Western Europe,2014,2338
+2701,Liechtenstein,Western Europe,2015,2592
+2702,Liechtenstein,Western Europe,2016,2082
+2703,Liechtenstein,Western Europe,2017,2091
+2704,Liechtenstein,Western Europe,2018,2159
+2705,Liechtenstein,Western Europe,2019,2312
+2706,Liechtenstein,Western Europe,2020,294
+2707,Liechtenstein,Western Europe,2021,296
+2708,Liechtenstein,Western Europe,2022,1482
+2709,Lithuania,Eastern Europe,2000,9122
+2710,Lithuania,Eastern Europe,2001,11484
+2711,Lithuania,Eastern Europe,2002,9482
+2712,Lithuania,Eastern Europe,2003,7539
+2713,Lithuania,Eastern Europe,2004,6997
+2714,Lithuania,Eastern Europe,2005,6959
+2715,Lithuania,Eastern Europe,2006,7373
+2716,Lithuania,Eastern Europe,2007,9480
+2717,Lithuania,Eastern Europe,2008,11355
+2718,Lithuania,Eastern Europe,2009,14264
+2719,Lithuania,Eastern Europe,2010,8846
+2720,Lithuania,Eastern Europe,2011,4411
+2721,Lithuania,Eastern Europe,2012,3976
+2722,Lithuania,Eastern Europe,2013,15448
+2723,Lithuania,Eastern Europe,2014,21855
+2724,Lithuania,Eastern Europe,2015,26125
+2725,Lithuania,Eastern Europe,2016,27660
+2726,Lithuania,Eastern Europe,2017,32375
+2727,Lithuania,Eastern Europe,2018,31568
+2728,Lithuania,Eastern Europe,2019,34088
+2729,Lithuania,Eastern Europe,2020,6135
+2730,Lithuania,Eastern Europe,2021,5577
+2731,Lithuania,Eastern Europe,2022,27498
+2732,Luxembourg,Western Europe,2000,16385
+2733,Luxembourg,Western Europe,2001,12093
+2734,Luxembourg,Western Europe,2002,9646
+2735,Luxembourg,Western Europe,2003,9522
+2736,Luxembourg,Western Europe,2004,10709
+2737,Luxembourg,Western Europe,2005,12243
+2738,Luxembourg,Western Europe,2006,12202
+2739,Luxembourg,Western Europe,2007,14613
+2740,Luxembourg,Western Europe,2008,18712
+2741,Luxembourg,Western Europe,2009,18084
+2742,Luxembourg,Western Europe,2010,17748
+2743,Luxembourg,Western Europe,2011,18054
+2744,Luxembourg,Western Europe,2012,17521
+2745,Luxembourg,Western Europe,2013,19202
+2746,Luxembourg,Western Europe,2014,19686
+2747,Luxembourg,Western Europe,2015,22218
+2748,Luxembourg,Western Europe,2016,19360
+2749,Luxembourg,Western Europe,2017,17242
+2750,Luxembourg,Western Europe,2018,21836
+2751,Luxembourg,Western Europe,2019,24366
+2752,Luxembourg,Western Europe,2020,3168
+2753,Luxembourg,Western Europe,2021,2608
+2754,Luxembourg,Western Europe,2022,17766
+2755,Macao SAR,Asia,2000,4077
+2756,Macao SAR,Asia,2001,3195
+2757,Macao SAR,Asia,2002,2377
+2758,Macao SAR,Asia,2003,2209
+2759,Macao SAR,Asia,2004,2366
+2760,Macao SAR,Asia,2005,2986
+2761,Macao SAR,Asia,2006,2958
+2762,Macao SAR,Asia,2007,3260
+2763,Macao SAR,Asia,2008,3573
+2764,Macao SAR,Asia,2009,3171
+2765,Macao SAR,Asia,2010,3469
+2766,Macao SAR,Asia,2011,3452
+2767,Macao SAR,Asia,2012,3661
+2768,Macao SAR,Asia,2013,3207
+2769,Macao SAR,Asia,2014,3258
+2770,Macao SAR,Asia,2015,3581
+2771,Macao SAR,Asia,2016,4401
+2772,Macao SAR,Asia,2017,5104
+2773,Macao SAR,Asia,2018,4630
+2774,Macao SAR,Asia,2019,3550
+2775,Macao SAR,Asia,2020,1646
+2776,Macao SAR,Asia,2021,967
+2777,Macao SAR,Asia,2022,1717
+2778,Macedonia,Western Europe,2000,2841
+2779,Macedonia,Western Europe,2001,2960
+2780,Macedonia,Western Europe,2002,3404
+2781,Macedonia,Western Europe,2003,3119
+2782,Macedonia,Western Europe,2004,2633
+2783,Macedonia,Western Europe,2005,2656
+2784,Macedonia,Western Europe,2006,3181
+2785,Macedonia,Western Europe,2007,3723
+2786,Macedonia,Western Europe,2008,3804
+2787,Macedonia,Western Europe,2009,3585
+2788,Macedonia,Western Europe,2010,4059
+2789,Macedonia,Western Europe,2011,4662
+2790,Macedonia,Western Europe,2012,4889
+2791,Macedonia,Western Europe,2013,5109
+2792,Macedonia,Western Europe,2014,5408
+2793,Macedonia,Western Europe,2015,6050
+2794,Macedonia,Western Europe,2016,6599
+2795,Macedonia,Western Europe,2017,7660
+2796,Macedonia,Western Europe,2018,7871
+2797,Macedonia,Western Europe,2019,7731
+2798,Macedonia,Western Europe,2020,1963
+2799,Macedonia,Western Europe,2021,2954
+2800,Macedonia,Western Europe,2022,6058
+2801,Madagascar,Africa,2000,708
+2802,Madagascar,Africa,2001,678
+2803,Madagascar,Africa,2002,500
+2804,Madagascar,Africa,2003,499
+2805,Madagascar,Africa,2004,454
+2806,Madagascar,Africa,2005,593
+2807,Madagascar,Africa,2006,655
+2808,Madagascar,Africa,2007,718
+2809,Madagascar,Africa,2008,880
+2810,Madagascar,Africa,2009,780
+2811,Madagascar,Africa,2010,703
+2812,Madagascar,Africa,2011,761
+2813,Madagascar,Africa,2012,806
+2814,Madagascar,Africa,2013,900
+2815,Madagascar,Africa,2014,1138
+2816,Madagascar,Africa,2015,1195
+2817,Madagascar,Africa,2016,1285
+2818,Madagascar,Africa,2017,1283
+2819,Madagascar,Africa,2018,1495
+2820,Madagascar,Africa,2019,1674
+2821,Madagascar,Africa,2020,299
+2822,Madagascar,Africa,2021,302
+2823,Madagascar,Africa,2022,1391
+2824,Malawi,Africa,2000,1365
+2825,Malawi,Africa,2001,1332
+2826,Malawi,Africa,2002,1212
+2827,Malawi,Africa,2003,1098
+2828,Malawi,Africa,2004,1092
+2829,Malawi,Africa,2005,1238
+2830,Malawi,Africa,2006,1055
+2831,Malawi,Africa,2007,1200
+2832,Malawi,Africa,2008,1304
+2833,Malawi,Africa,2009,1210
+2834,Malawi,Africa,2010,1331
+2835,Malawi,Africa,2011,1391
+2836,Malawi,Africa,2012,1528
+2837,Malawi,Africa,2013,1613
+2838,Malawi,Africa,2014,1790
+2839,Malawi,Africa,2015,2210
+2840,Malawi,Africa,2016,2300
+2841,Malawi,Africa,2017,2217
+2842,Malawi,Africa,2018,2384
+2843,Malawi,Africa,2019,2028
+2844,Malawi,Africa,2020,491
+2845,Malawi,Africa,2021,540
+2846,Malawi,Africa,2022,2000
+2847,Malaysia,Asia,2000,74507
+2848,Malaysia,Asia,2001,52396
+2849,Malaysia,Asia,2002,40750
+2850,Malaysia,Asia,2003,34274
+2851,Malaysia,Asia,2004,45396
+2852,Malaysia,Asia,2005,51442
+2853,Malaysia,Asia,2006,50597
+2854,Malaysia,Asia,2007,55762
+2855,Malaysia,Asia,2008,54262
+2856,Malaysia,Asia,2009,43292
+2857,Malaysia,Asia,2010,54080
+2858,Malaysia,Asia,2011,61261
+2859,Malaysia,Asia,2012,68384
+2860,Malaysia,Asia,2013,80731
+2861,Malaysia,Asia,2014,83931
+2862,Malaysia,Asia,2015,82129
+2863,Malaysia,Asia,2016,81054
+2864,Malaysia,Asia,2017,81353
+2865,Malaysia,Asia,2018,87881
+2866,Malaysia,Asia,2019,86914
+2867,Malaysia,Asia,2020,12687
+2868,Malaysia,Asia,2021,10259
+2869,Malaysia,Asia,2022,41580
+2870,Maldives,Asia,2000,124
+2871,Maldives,Asia,2001,97
+2872,Maldives,Asia,2002,72
+2873,Maldives,Asia,2003,82
+2874,Maldives,Asia,2004,93
+2875,Maldives,Asia,2005,150
+2876,Maldives,Asia,2006,176
+2877,Maldives,Asia,2007,249
+2878,Maldives,Asia,2008,243
+2879,Maldives,Asia,2009,181
+2880,Maldives,Asia,2010,149
+2881,Maldives,Asia,2011,164
+2882,Maldives,Asia,2012,190
+2883,Maldives,Asia,2013,262
+2884,Maldives,Asia,2014,361
+2885,Maldives,Asia,2015,308
+2886,Maldives,Asia,2016,387
+2887,Maldives,Asia,2017,259
+2888,Maldives,Asia,2018,281
+2889,Maldives,Asia,2019,379
+2890,Maldives,Asia,2020,73
+2891,Maldives,Asia,2021,144
+2892,Maldives,Asia,2022,426
+2893,Mali,Africa,2000,4015
+2894,Mali,Africa,2001,3845
+2895,Mali,Africa,2002,2743
+2896,Mali,Africa,2003,2705
+2897,Mali,Africa,2004,1480
+2898,Mali,Africa,2005,1688
+2899,Mali,Africa,2006,2668
+2900,Mali,Africa,2007,2778
+2901,Mali,Africa,2008,3273
+2902,Mali,Africa,2009,3115
+2903,Mali,Africa,2010,3106
+2904,Mali,Africa,2011,3072
+2905,Mali,Africa,2012,2305
+2906,Mali,Africa,2013,3105
+2907,Mali,Africa,2014,3196
+2908,Mali,Africa,2015,3162
+2909,Mali,Africa,2016,3562
+2910,Mali,Africa,2017,3388
+2911,Mali,Africa,2018,3777
+2912,Mali,Africa,2019,3788
+2913,Mali,Africa,2020,856
+2914,Mali,Africa,2021,1677
+2915,Mali,Africa,2022,2505
+2916,Malta,Western Europe,2000,8437
+2917,Malta,Western Europe,2001,6679
+2918,Malta,Western Europe,2002,4482
+2919,Malta,Western Europe,2003,4080
+2920,Malta,Western Europe,2004,5157
+2921,Malta,Western Europe,2005,5206
+2922,Malta,Western Europe,2006,4346
+2923,Malta,Western Europe,2007,5084
+2924,Malta,Western Europe,2008,5063
+2925,Malta,Western Europe,2009,4902
+2926,Malta,Western Europe,2010,5380
+2927,Malta,Western Europe,2011,5060
+2928,Malta,Western Europe,2012,5415
+2929,Malta,Western Europe,2013,5664
+2930,Malta,Western Europe,2014,5630
+2931,Malta,Western Europe,2015,6026
+2932,Malta,Western Europe,2016,6250
+2933,Malta,Western Europe,2017,6487
+2934,Malta,Western Europe,2018,7501
+2935,Malta,Western Europe,2019,8583
+2936,Malta,Western Europe,2020,1168
+2937,Malta,Western Europe,2021,1199
+2938,Malta,Western Europe,2022,6695
+2939,Marshall Islands,Oceania,2000,0
+2940,Marshall Islands,Oceania,2001,0
+2941,Marshall Islands,Oceania,2002,0
+2942,Marshall Islands,Oceania,2003,0
+2943,Marshall Islands,Oceania,2004,0
+2944,Marshall Islands,Oceania,2005,0
+2945,Marshall Islands,Oceania,2006,0
+2946,Marshall Islands,Oceania,2007,0
+2947,Marshall Islands,Oceania,2008,0
+2948,Marshall Islands,Oceania,2009,0
+2949,Marshall Islands,Oceania,2010,0
+2950,Marshall Islands,Oceania,2011,231
+2951,Marshall Islands,Oceania,2012,241
+2952,Marshall Islands,Oceania,2013,191
+2953,Marshall Islands,Oceania,2014,148
+2954,Marshall Islands,Oceania,2015,110
+2955,Marshall Islands,Oceania,2016,106
+2956,Marshall Islands,Oceania,2017,126
+2957,Marshall Islands,Oceania,2018,97
+2958,Marshall Islands,Oceania,2019,154
+2959,Marshall Islands,Oceania,2020,59
+2960,Marshall Islands,Oceania,2021,52
+2961,Marshall Islands,Oceania,2022,107
+2962,Martinique,Caribbean,2000,9912
+2963,Martinique,Caribbean,2001,7500
+2964,Martinique,Caribbean,2002,6021
+2965,Martinique,Caribbean,2003,5902
+2966,Martinique,Caribbean,2004,5531
+2967,Martinique,Caribbean,2005,5755
+2968,Martinique,Caribbean,2006,4751
+2969,Martinique,Caribbean,2007,7080
+2970,Martinique,Caribbean,2008,8175
+2971,Martinique,Caribbean,2009,8014
+2972,Martinique,Caribbean,2010,7706
+2973,Martinique,Caribbean,2011,7103
+2974,Martinique,Caribbean,2012,6233
+2975,Martinique,Caribbean,2013,4511
+2976,Martinique,Caribbean,2014,6398
+2977,Martinique,Caribbean,2015,7312
+2978,Martinique,Caribbean,2016,5593
+2979,Martinique,Caribbean,2017,5042
+2980,Martinique,Caribbean,2018,7839
+2981,Martinique,Caribbean,2019,7101
+2982,Martinique,Caribbean,2020,823
+2983,Martinique,Caribbean,2021,959
+2984,Martinique,Caribbean,2022,2766
+2985,Mauritania,Africa,2000,707
+2986,Mauritania,Africa,2001,776
+2987,Mauritania,Africa,2002,558
+2988,Mauritania,Africa,2003,564
+2989,Mauritania,Africa,2004,582
+2990,Mauritania,Africa,2005,625
+2991,Mauritania,Africa,2006,496
+2992,Mauritania,Africa,2007,414
+2993,Mauritania,Africa,2008,473
+2994,Mauritania,Africa,2009,496
+2995,Mauritania,Africa,2010,636
+2996,Mauritania,Africa,2011,559
+2997,Mauritania,Africa,2012,576
+2998,Mauritania,Africa,2013,978
+2999,Mauritania,Africa,2014,1487
+3000,Mauritania,Africa,2015,1401
+3001,Mauritania,Africa,2016,1311
+3002,Mauritania,Africa,2017,824
+3003,Mauritania,Africa,2018,703
+3004,Mauritania,Africa,2019,1265
+3005,Mauritania,Africa,2020,360
+3006,Mauritania,Africa,2021,301
+3007,Mauritania,Africa,2022,574
+3008,Mauritius,Africa,2000,1899
+3009,Mauritius,Africa,2001,1577
+3010,Mauritius,Africa,2002,846
+3011,Mauritius,Africa,2003,701
+3012,Mauritius,Africa,2004,836
+3013,Mauritius,Africa,2005,1245
+3014,Mauritius,Africa,2006,1458
+3015,Mauritius,Africa,2007,1581
+3016,Mauritius,Africa,2008,1776
+3017,Mauritius,Africa,2009,2005
+3018,Mauritius,Africa,2010,2523
+3019,Mauritius,Africa,2011,2772
+3020,Mauritius,Africa,2012,3217
+3021,Mauritius,Africa,2013,3647
+3022,Mauritius,Africa,2014,3788
+3023,Mauritius,Africa,2015,3734
+3024,Mauritius,Africa,2016,3987
+3025,Mauritius,Africa,2017,4013
+3026,Mauritius,Africa,2018,4473
+3027,Mauritius,Africa,2019,5131
+3028,Mauritius,Africa,2020,846
+3029,Mauritius,Africa,2021,692
+3030,Mauritius,Africa,2022,3288
+3031,Mayotte,Africa,2000,0
+3032,Mayotte,Africa,2001,0
+3033,Mayotte,Africa,2002,0
+3034,Mayotte,Africa,2003,0
+3035,Mayotte,Africa,2004,0
+3036,Mayotte,Africa,2005,0
+3037,Mayotte,Africa,2006,0
+3038,Mayotte,Africa,2007,0
+3039,Mayotte,Africa,2008,0
+3040,Mayotte,Africa,2009,0
+3041,Mayotte,Africa,2010,0
+3042,Mayotte,Africa,2011,0
+3043,Mayotte,Africa,2012,0
+3044,Mayotte,Africa,2013,11
+3045,Mayotte,Africa,2014,71
+3046,Mayotte,Africa,2015,65
+3047,Mayotte,Africa,2016,42
+3048,Mayotte,Africa,2017,29
+3049,Mayotte,Africa,2018,55
+3050,Mayotte,Africa,2019,73
+3051,Mayotte,Africa,2020,106
+3052,Mayotte,Africa,2021,47
+3053,Mayotte,Africa,2022,95
+3054,Mexico,North America,2000,4039000
+3055,Mexico,North America,2001,3828000
+3056,Mexico,North America,2002,3846000
+3057,Mexico,North America,2003,3772000
+3058,Mexico,North America,2004,3994000
+3059,Mexico,North America,2005,12665331
+3060,Mexico,North America,2006,13316858
+3061,Mexico,North America,2007,14483096
+3062,Mexico,North America,2008,13755613
+3063,Mexico,North America,2009,13373085
+3064,Mexico,North America,2010,13472127
+3065,Mexico,North America,2011,13601024
+3066,Mexico,North America,2012,14198644
+3067,Mexico,North America,2013,14547237
+3068,Mexico,North America,2014,17069821
+3069,Mexico,North America,2015,18374224
+3070,Mexico,North America,2016,18990585
+3071,Mexico,North America,2017,17788008
+3072,Mexico,North America,2018,18387405
+3073,Mexico,North America,2019,18328181
+3074,Mexico,North America,2020,6808656
+3075,Mexico,North America,2021,10576371
+3076,Mexico,North America,2022,12534501
+3077,Micronesia,Oceania,2011,430
+3078,Micronesia,Oceania,2012,451
+3079,Micronesia,Oceania,2013,586
+3080,Micronesia,Oceania,2014,544
+3081,Micronesia,Oceania,2015,522
+3082,Micronesia,Oceania,2016,473
+3083,Micronesia,Oceania,2017,413
+3084,Micronesia,Oceania,2018,667
+3085,Micronesia,Oceania,2019,598
+3086,Micronesia,Oceania,2020,124
+3087,Micronesia,Oceania,2021,68
+3088,Micronesia,Oceania,2022,312
+3089,Moldova,Eastern Europe,2000,1625
+3090,Moldova,Eastern Europe,2001,1159
+3091,Moldova,Eastern Europe,2002,1177
+3092,Moldova,Eastern Europe,2003,1427
+3093,Moldova,Eastern Europe,2004,1661
+3094,Moldova,Eastern Europe,2005,2186
+3095,Moldova,Eastern Europe,2006,2549
+3096,Moldova,Eastern Europe,2007,3368
+3097,Moldova,Eastern Europe,2008,3795
+3098,Moldova,Eastern Europe,2009,3976
+3099,Moldova,Eastern Europe,2010,4828
+3100,Moldova,Eastern Europe,2011,5395
+3101,Moldova,Eastern Europe,2012,6399
+3102,Moldova,Eastern Europe,2013,7683
+3103,Moldova,Eastern Europe,2014,7581
+3104,Moldova,Eastern Europe,2015,8464
+3105,Moldova,Eastern Europe,2016,9291
+3106,Moldova,Eastern Europe,2017,8422
+3107,Moldova,Eastern Europe,2018,8653
+3108,Moldova,Eastern Europe,2019,9990
+3109,Moldova,Eastern Europe,2020,3271
+3110,Moldova,Eastern Europe,2021,4492
+3111,Moldova,Eastern Europe,2022,7078
+3112,Monaco,Western Europe,2000,5622
+3113,Monaco,Western Europe,2001,4550
+3114,Monaco,Western Europe,2002,3851
+3115,Monaco,Western Europe,2003,3707
+3116,Monaco,Western Europe,2004,4136
+3117,Monaco,Western Europe,2005,4671
+3118,Monaco,Western Europe,2006,4848
+3119,Monaco,Western Europe,2007,5520
+3120,Monaco,Western Europe,2008,6380
+3121,Monaco,Western Europe,2009,6156
+3122,Monaco,Western Europe,2010,4725
+3123,Monaco,Western Europe,2011,3990
+3124,Monaco,Western Europe,2012,4120
+3125,Monaco,Western Europe,2013,4043
+3126,Monaco,Western Europe,2014,3838
+3127,Monaco,Western Europe,2015,3993
+3128,Monaco,Western Europe,2016,3652
+3129,Monaco,Western Europe,2017,2899
+3130,Monaco,Western Europe,2018,4020
+3131,Monaco,Western Europe,2019,5084
+3132,Monaco,Western Europe,2020,979
+3133,Monaco,Western Europe,2021,1075
+3134,Monaco,Western Europe,2022,3551
+3135,Mongolia,Asia,2011,8144
+3136,Mongolia,Asia,2012,8353
+3137,Mongolia,Asia,2013,10341
+3138,Mongolia,Asia,2014,11947
+3139,Mongolia,Asia,2015,12902
+3140,Mongolia,Asia,2016,13204
+3141,Mongolia,Asia,2017,12758
+3142,Mongolia,Asia,2018,13951
+3143,Mongolia,Asia,2019,15450
+3144,Mongolia,Asia,2020,3000
+3145,Mongolia,Asia,2021,4088
+3146,Mongolia,Asia,2022,10532
+3147,Montenegro,Western Europe,2013,514
+3148,Montenegro,Western Europe,2014,3781
+3149,Montenegro,Western Europe,2015,4751
+3150,Montenegro,Western Europe,2016,5009
+3151,Montenegro,Western Europe,2017,3832
+3152,Montenegro,Western Europe,2018,6331
+3153,Montenegro,Western Europe,2019,5765
+3154,Montenegro,Western Europe,2020,1596
+3155,Montenegro,Western Europe,2021,1715
+3156,Montenegro,Western Europe,2022,3627
+3157,Montserrat,Caribbean,2000,1027
+3158,Montserrat,Caribbean,2001,727
+3159,Montserrat,Caribbean,2002,650
+3160,Montserrat,Caribbean,2003,696
+3161,Montserrat,Caribbean,2004,810
+3162,Montserrat,Caribbean,2005,782
+3163,Montserrat,Caribbean,2006,858
+3164,Montserrat,Caribbean,2007,761
+3165,Montserrat,Caribbean,2008,726
+3166,Montserrat,Caribbean,2009,593
+3167,Montserrat,Caribbean,2010,344
+3168,Montserrat,Caribbean,2011,194
+3169,Montserrat,Caribbean,2012,206
+3170,Montserrat,Caribbean,2013,294
+3171,Montserrat,Caribbean,2014,311
+3172,Montserrat,Caribbean,2015,269
+3173,Montserrat,Caribbean,2016,280
+3174,Montserrat,Caribbean,2017,200
+3175,Montserrat,Caribbean,2018,315
+3176,Montserrat,Caribbean,2019,404
+3177,Montserrat,Caribbean,2020,78
+3178,Montserrat,Caribbean,2021,119
+3179,Montserrat,Caribbean,2022,207
+3180,Morocco,Africa,2000,19079
+3181,Morocco,Africa,2001,17106
+3182,Morocco,Africa,2002,12464
+3183,Morocco,Africa,2003,11857
+3184,Morocco,Africa,2004,12538
+3185,Morocco,Africa,2005,13430
+3186,Morocco,Africa,2006,13270
+3187,Morocco,Africa,2007,13922
+3188,Morocco,Africa,2008,16426
+3189,Morocco,Africa,2009,16919
+3190,Morocco,Africa,2010,18657
+3191,Morocco,Africa,2011,21304
+3192,Morocco,Africa,2012,21884
+3193,Morocco,Africa,2013,25318
+3194,Morocco,Africa,2014,27571
+3195,Morocco,Africa,2015,30185
+3196,Morocco,Africa,2016,31062
+3197,Morocco,Africa,2017,28742
+3198,Morocco,Africa,2018,28374
+3199,Morocco,Africa,2019,33901
+3200,Morocco,Africa,2020,7097
+3201,Morocco,Africa,2021,11530
+3202,Morocco,Africa,2022,29482
+3203,Mozambique,Africa,2000,987
+3204,Mozambique,Africa,2001,918
+3205,Mozambique,Africa,2002,710
+3206,Mozambique,Africa,2003,623
+3207,Mozambique,Africa,2004,689
+3208,Mozambique,Africa,2005,783
+3209,Mozambique,Africa,2006,737
+3210,Mozambique,Africa,2007,749
+3211,Mozambique,Africa,2008,949
+3212,Mozambique,Africa,2009,1151
+3213,Mozambique,Africa,2010,1132
+3214,Mozambique,Africa,2011,1245
+3215,Mozambique,Africa,2012,1491
+3216,Mozambique,Africa,2013,2374
+3217,Mozambique,Africa,2014,2708
+3218,Mozambique,Africa,2015,2361
+3219,Mozambique,Africa,2016,2097
+3220,Mozambique,Africa,2017,2127
+3221,Mozambique,Africa,2018,2378
+3222,Mozambique,Africa,2019,2255
+3223,Mozambique,Africa,2020,429
+3224,Mozambique,Africa,2021,469
+3225,Mozambique,Africa,2022,1486
+3226,Namibia,Africa,2000,1144
+3227,Namibia,Africa,2001,1021
+3228,Namibia,Africa,2002,883
+3229,Namibia,Africa,2003,912
+3230,Namibia,Africa,2004,1033
+3231,Namibia,Africa,2005,1004
+3232,Namibia,Africa,2006,1076
+3233,Namibia,Africa,2007,1208
+3234,Namibia,Africa,2008,1246
+3235,Namibia,Africa,2009,1251
+3236,Namibia,Africa,2010,1430
+3237,Namibia,Africa,2011,1767
+3238,Namibia,Africa,2012,1883
+3239,Namibia,Africa,2013,1872
+3240,Namibia,Africa,2014,1921
+3241,Namibia,Africa,2015,2075
+3242,Namibia,Africa,2016,2022
+3243,Namibia,Africa,2017,2307
+3244,Namibia,Africa,2018,2294
+3245,Namibia,Africa,2019,2428
+3246,Namibia,Africa,2020,657
+3247,Namibia,Africa,2021,594
+3248,Namibia,Africa,2022,1763
+3249,Nauru,Oceania,2000,476
+3250,Nauru,Oceania,2001,132
+3251,Nauru,Oceania,2002,39
+3252,Nauru,Oceania,2003,18
+3253,Nauru,Oceania,2004,19
+3254,Nauru,Oceania,2005,22
+3255,Nauru,Oceania,2006,14
+3256,Nauru,Oceania,2007,18
+3257,Nauru,Oceania,2008,12
+3258,Nauru,Oceania,2009,15
+3259,Nauru,Oceania,2010,80
+3260,Nauru,Oceania,2011,94
+3261,Nauru,Oceania,2012,89
+3262,Nauru,Oceania,2013,128
+3263,Nauru,Oceania,2014,130
+3264,Nauru,Oceania,2015,118
+3265,Nauru,Oceania,2016,147
+3266,Nauru,Oceania,2017,104
+3267,Nauru,Oceania,2018,105
+3268,Nauru,Oceania,2019,79
+3269,Nauru,Oceania,2020,12
+3270,Nauru,Oceania,2021,13
+3271,Nauru,Oceania,2022,40
+3272,Nepal,Asia,2000,4101
+3273,Nepal,Asia,2001,5450
+3274,Nepal,Asia,2002,6047
+3275,Nepal,Asia,2003,6270
+3276,Nepal,Asia,2004,6446
+3277,Nepal,Asia,2005,8117
+3278,Nepal,Asia,2006,9768
+3279,Nepal,Asia,2007,11892
+3280,Nepal,Asia,2008,14706
+3281,Nepal,Asia,2009,11908
+3282,Nepal,Asia,2010,12513
+3283,Nepal,Asia,2011,12971
+3284,Nepal,Asia,2012,13124
+3285,Nepal,Asia,2013,14398
+3286,Nepal,Asia,2014,18160
+3287,Nepal,Asia,2015,25968
+3288,Nepal,Asia,2016,31401
+3289,Nepal,Asia,2017,31978
+3290,Nepal,Asia,2018,32077
+3291,Nepal,Asia,2019,33760
+3292,Nepal,Asia,2020,8134
+3293,Nepal,Asia,2021,18436
+3294,Nepal,Asia,2022,30116
+3295,Netherlands,Western Europe,2000,553297
+3296,Netherlands,Western Europe,2001,411742
+3297,Netherlands,Western Europe,2002,384367
+3298,Netherlands,Western Europe,2003,373690
+3299,Netherlands,Western Europe,2004,424872
+3300,Netherlands,Western Europe,2005,448650
+3301,Netherlands,Western Europe,2006,446785
+3302,Netherlands,Western Europe,2007,506852
+3303,Netherlands,Western Europe,2008,607802
+3304,Netherlands,Western Europe,2009,547790
+3305,Netherlands,Western Europe,2010,570179
+3306,Netherlands,Western Europe,2011,620563
+3307,Netherlands,Western Europe,2012,609077
+3308,Netherlands,Western Europe,2013,630404
+3309,Netherlands,Western Europe,2014,645480
+3310,Netherlands,Western Europe,2015,728596
+3311,Netherlands,Western Europe,2016,674544
+3312,Netherlands,Western Europe,2017,700872
+3313,Netherlands,Western Europe,2018,725283
+3314,Netherlands,Western Europe,2019,727229
+3315,Netherlands,Western Europe,2020,111318
+3316,Netherlands,Western Europe,2021,85829
+3317,Netherlands,Western Europe,2022,473009
+3318,Netherlands Antilles,Caribbean,2000,60042
+3319,Netherlands Antilles,Caribbean,2001,52378
+3320,Netherlands Antilles,Caribbean,2002,58043
+3321,Netherlands Antilles,Caribbean,2003,54170
+3322,Netherlands Antilles,Caribbean,2004,56179
+3323,Netherlands Antilles,Caribbean,2005,59126
+3324,Netherlands Antilles,Caribbean,2006,62412
+3325,Netherlands Antilles,Caribbean,2007,66250
+3326,Netherlands Antilles,Caribbean,2008,65516
+3327,Netherlands Antilles,Caribbean,2009,43114
+3328,Netherlands Antilles,Caribbean,2010,26615
+3329,Netherlands Antilles,Caribbean,2011,10892
+3330,Netherlands Antilles,Caribbean,2012,9088
+3331,Netherlands Antilles,Caribbean,2013,5268
+3332,Netherlands Antilles,Caribbean,2014,3389
+3333,Netherlands Antilles,Caribbean,2015,3873
+3334,Netherlands Antilles,Caribbean,2016,1802
+3335,Netherlands Antilles,Caribbean,2017,1749
+3336,Netherlands Antilles,Caribbean,2018,2291
+3337,Netherlands Antilles,Caribbean,2019,1872
+3338,Netherlands Antilles,Caribbean,2020,292
+3339,Netherlands Antilles,Caribbean,2021,1673
+3340,Netherlands Antilles,Caribbean,2022,1328
+3341,New Caledonia,Oceania,2000,1759
+3342,New Caledonia,Oceania,2001,1476
+3343,New Caledonia,Oceania,2002,1025
+3344,New Caledonia,Oceania,2003,961
+3345,New Caledonia,Oceania,2004,1116
+3346,New Caledonia,Oceania,2005,1273
+3347,New Caledonia,Oceania,2006,1139
+3348,New Caledonia,Oceania,2007,1244
+3349,New Caledonia,Oceania,2008,1605
+3350,New Caledonia,Oceania,2009,1459
+3351,New Caledonia,Oceania,2010,782
+3352,New Caledonia,Oceania,2011,494
+3353,New Caledonia,Oceania,2012,455
+3354,New Caledonia,Oceania,2013,885
+3355,New Caledonia,Oceania,2014,806
+3356,New Caledonia,Oceania,2015,777
+3357,New Caledonia,Oceania,2016,544
+3358,New Caledonia,Oceania,2017,556
+3359,New Caledonia,Oceania,2018,1008
+3360,New Caledonia,Oceania,2019,1135
+3361,New Caledonia,Oceania,2020,251
+3362,New Caledonia,Oceania,2021,59
+3363,New Caledonia,Oceania,2022,558
+3364,New Zealand,Oceania,2000,172012
+3365,New Zealand,Oceania,2001,144216
+3366,New Zealand,Oceania,2002,109580
+3367,New Zealand,Oceania,2003,107214
+3368,New Zealand,Oceania,2004,127394
+3369,New Zealand,Oceania,2005,139780
+3370,New Zealand,Oceania,2006,138486
+3371,New Zealand,Oceania,2007,147735
+3372,New Zealand,Oceania,2008,145325
+3373,New Zealand,Oceania,2009,131012
+3374,New Zealand,Oceania,2010,174619
+3375,New Zealand,Oceania,2011,192513
+3376,New Zealand,Oceania,2012,187745
+3377,New Zealand,Oceania,2013,244278
+3378,New Zealand,Oceania,2014,264355
+3379,New Zealand,Oceania,2015,296704
+3380,New Zealand,Oceania,2016,292884
+3381,New Zealand,Oceania,2017,294119
+3382,New Zealand,Oceania,2018,306566
+3383,New Zealand,Oceania,2019,299447
+3384,New Zealand,Oceania,2020,43844
+3385,New Zealand,Oceania,2021,11711
+3386,New Zealand,Oceania,2022,138306
+3387,Nicaragua,Central America,2000,46892
+3388,Nicaragua,Central America,2001,43483
+3389,Nicaragua,Central America,2002,36387
+3390,Nicaragua,Central America,2003,37244
+3391,Nicaragua,Central America,2004,38308
+3392,Nicaragua,Central America,2005,38713
+3393,Nicaragua,Central America,2006,39720
+3394,Nicaragua,Central America,2007,44196
+3395,Nicaragua,Central America,2008,45171
+3396,Nicaragua,Central America,2009,42194
+3397,Nicaragua,Central America,2010,41050
+3398,Nicaragua,Central America,2011,40985
+3399,Nicaragua,Central America,2012,45788
+3400,Nicaragua,Central America,2013,49080
+3401,Nicaragua,Central America,2014,52507
+3402,Nicaragua,Central America,2015,59831
+3403,Nicaragua,Central America,2016,62876
+3404,Nicaragua,Central America,2017,62254
+3405,Nicaragua,Central America,2018,67477
+3406,Nicaragua,Central America,2019,67485
+3407,Nicaragua,Central America,2020,16900
+3408,Nicaragua,Central America,2021,44507
+3409,Nicaragua,Central America,2022,50846
+3410,Niger,Africa,2000,1433
+3411,Niger,Africa,2001,2118
+3412,Niger,Africa,2002,4930
+3413,Niger,Africa,2003,1720
+3414,Niger,Africa,2004,3614
+3415,Niger,Africa,2005,2903
+3416,Niger,Africa,2006,2194
+3417,Niger,Africa,2007,1084
+3418,Niger,Africa,2008,1084
+3419,Niger,Africa,2009,1039
+3420,Niger,Africa,2010,978
+3421,Niger,Africa,2011,950
+3422,Niger,Africa,2012,1093
+3423,Niger,Africa,2013,1084
+3424,Niger,Africa,2014,1033
+3425,Niger,Africa,2015,1269
+3426,Niger,Africa,2016,1259
+3427,Niger,Africa,2017,1414
+3428,Niger,Africa,2018,1345
+3429,Niger,Africa,2019,1184
+3430,Niger,Africa,2020,342
+3431,Niger,Africa,2021,334
+3432,Niger,Africa,2022,955
+3433,Nigeria,Africa,2000,27124
+3434,Nigeria,Africa,2001,37406
+3435,Nigeria,Africa,2002,40128
+3436,Nigeria,Africa,2003,46938
+3437,Nigeria,Africa,2004,45606
+3438,Nigeria,Africa,2005,47397
+3439,Nigeria,Africa,2006,44999
+3440,Nigeria,Africa,2007,52996
+3441,Nigeria,Africa,2008,72669
+3442,Nigeria,Africa,2009,68505
+3443,Nigeria,Africa,2010,79427
+3444,Nigeria,Africa,2011,85243
+3445,Nigeria,Africa,2012,103202
+3446,Nigeria,Africa,2013,146914
+3447,Nigeria,Africa,2014,176520
+3448,Nigeria,Africa,2015,194670
+3449,Nigeria,Africa,2016,191027
+3450,Nigeria,Africa,2017,196885
+3451,Nigeria,Africa,2018,187057
+3452,Nigeria,Africa,2019,150108
+3453,Nigeria,Africa,2020,24595
+3454,Nigeria,Africa,2021,39576
+3455,Nigeria,Africa,2022,72040
+3456,Niue,Oceania,2000,10
+3457,Niue,Oceania,2001,18
+3458,Niue,Oceania,2002,11
+3459,Niue,Oceania,2003,6
+3460,Niue,Oceania,2004,3
+3461,Niue,Oceania,2005,11
+3462,Niue,Oceania,2006,7
+3463,Niue,Oceania,2007,8
+3464,Niue,Oceania,2008,10
+3465,Niue,Oceania,2009,7
+3466,Niue,Oceania,2010,6
+3467,Niue,Oceania,2011,17
+3468,Niue,Oceania,2012,7
+3469,Niue,Oceania,2013,12
+3470,Niue,Oceania,2014,19
+3471,Niue,Oceania,2015,14
+3472,Niue,Oceania,2016,13
+3473,Niue,Oceania,2017,25
+3474,Niue,Oceania,2018,34
+3475,Niue,Oceania,2019,23
+3476,Niue,Oceania,2020,5
+3477,Niue,Oceania,2021,3
+3478,Niue,Oceania,2022,16
+3479,North Korea,Asia,2000,28
+3480,North Korea,Asia,2001,16
+3481,North Korea,Asia,2002,29
+3482,North Korea,Asia,2003,29
+3483,North Korea,Asia,2004,6
+3484,North Korea,Asia,2005,15
+3485,North Korea,Asia,2006,36
+3486,North Korea,Asia,2007,23
+3487,North Korea,Asia,2008,17
+3488,North Korea,Asia,2009,27
+3489,North Korea,Asia,2010,127
+3490,North Korea,Asia,2011,132
+3491,North Korea,Asia,2012,163
+3492,North Korea,Asia,2013,258
+3493,North Korea,Asia,2014,299
+3494,North Korea,Asia,2015,395
+3495,North Korea,Asia,2016,445
+3496,North Korea,Asia,2017,225
+3497,North Korea,Asia,2018,525
+3498,North Korea,Asia,2019,600
+3499,North Korea,Asia,2020,173
+3500,North Korea,Asia,2021,174
+3501,North Korea,Asia,2022,616
+3502,Norway,Western Europe,2000,147540
+3503,Norway,Western Europe,2001,123268
+3504,Norway,Western Europe,2002,112593
+3505,Norway,Western Europe,2003,113233
+3506,Norway,Western Europe,2004,130400
+3507,Norway,Western Europe,2005,139043
+3508,Norway,Western Europe,2006,145359
+3509,Norway,Western Europe,2007,172882
+3510,Norway,Western Europe,2008,213983
+3511,Norway,Western Europe,2009,193318
+3512,Norway,Western Europe,2010,221145
+3513,Norway,Western Europe,2011,253047
+3514,Norway,Western Europe,2012,266087
+3515,Norway,Western Europe,2013,297010
+3516,Norway,Western Europe,2014,319072
+3517,Norway,Western Europe,2015,324394
+3518,Norway,Western Europe,2016,278000
+3519,Norway,Western Europe,2017,287407
+3520,Norway,Western Europe,2018,280565
+3521,Norway,Western Europe,2019,267930
+3522,Norway,Western Europe,2020,42204
+3523,Norway,Western Europe,2021,21591
+3524,Norway,Western Europe,2022,143118
+3525,Oman,Middle East,2000,5396
+3526,Oman,Middle East,2001,5051
+3527,Oman,Middle East,2002,3468
+3528,Oman,Middle East,2003,2911
+3529,Oman,Middle East,2004,3221
+3530,Oman,Middle East,2005,3447
+3531,Oman,Middle East,2006,3422
+3532,Oman,Middle East,2007,4175
+3533,Oman,Middle East,2008,4771
+3534,Oman,Middle East,2009,4727
+3535,Oman,Middle East,2010,4812
+3536,Oman,Middle East,2011,5708
+3537,Oman,Middle East,2012,7408
+3538,Oman,Middle East,2013,9165
+3539,Oman,Middle East,2014,10912
+3540,Oman,Middle East,2015,11939
+3541,Oman,Middle East,2016,11473
+3542,Oman,Middle East,2017,10745
+3543,Oman,Middle East,2018,11747
+3544,Oman,Middle East,2019,11564
+3545,Oman,Middle East,2020,3859
+3546,Oman,Middle East,2021,4839
+3547,Oman,Middle East,2022,7048
+3548,Pakistan,Asia,2000,51942
+3549,Pakistan,Asia,2001,57732
+3550,Pakistan,Asia,2002,39442
+3551,Pakistan,Asia,2003,31222
+3552,Pakistan,Asia,2004,34233
+3553,Pakistan,Asia,2005,33234
+3554,Pakistan,Asia,2006,31978
+3555,Pakistan,Asia,2007,34071
+3556,Pakistan,Asia,2008,35738
+3557,Pakistan,Asia,2009,36426
+3558,Pakistan,Asia,2010,38954
+3559,Pakistan,Asia,2011,39643
+3560,Pakistan,Asia,2012,44734
+3561,Pakistan,Asia,2013,56474
+3562,Pakistan,Asia,2014,69843
+3563,Pakistan,Asia,2015,86926
+3564,Pakistan,Asia,2016,100746
+3565,Pakistan,Asia,2017,90978
+3566,Pakistan,Asia,2018,95465
+3567,Pakistan,Asia,2019,96580
+3568,Pakistan,Asia,2020,26065
+3569,Pakistan,Asia,2021,44697
+3570,Pakistan,Asia,2022,81157
+3571,Palau,Oceania,2011,2839
+3572,Palau,Oceania,2012,2762
+3573,Palau,Oceania,2013,2540
+3574,Palau,Oceania,2014,1409
+3575,Palau,Oceania,2015,185
+3576,Palau,Oceania,2016,165
+3577,Palau,Oceania,2017,180
+3578,Palau,Oceania,2018,171
+3579,Palau,Oceania,2019,141
+3580,Palau,Oceania,2020,30
+3581,Palau,Oceania,2021,55
+3582,Palau,Oceania,2022,190
+3583,Palestine,Middle East,2013,483
+3584,Palestine,Middle East,2014,5427
+3585,Palestine,Middle East,2015,5771
+3586,Palestine,Middle East,2016,7618
+3587,Palestine,Middle East,2017,6680
+3588,Palestine,Middle East,2018,6219
+3589,Palestine,Middle East,2019,5998
+3590,Palestine,Middle East,2020,1246
+3591,Palestine,Middle East,2021,2383
+3592,Palestine,Middle East,2022,4526
+3593,Panama,Central America,2000,107349
+3594,Panama,Central America,2001,87714
+3595,Panama,Central America,2002,75495
+3596,Panama,Central America,2003,72413
+3597,Panama,Central America,2004,76032
+3598,Panama,Central America,2005,78855
+3599,Panama,Central America,2006,81358
+3600,Panama,Central America,2007,87329
+3601,Panama,Central America,2008,102832
+3602,Panama,Central America,2009,109968
+3603,Panama,Central America,2010,118976
+3604,Panama,Central America,2011,120270
+3605,Panama,Central America,2012,132277
+3606,Panama,Central America,2013,151521
+3607,Panama,Central America,2014,157137
+3608,Panama,Central America,2015,177833
+3609,Panama,Central America,2016,171322
+3610,Panama,Central America,2017,157299
+3611,Panama,Central America,2018,174826
+3612,Panama,Central America,2019,196709
+3613,Panama,Central America,2020,55451
+3614,Panama,Central America,2021,127790
+3615,Panama,Central America,2022,145168
+3616,Papua New Guinea,Oceania,2000,1336
+3617,Papua New Guinea,Oceania,2001,934
+3618,Papua New Guinea,Oceania,2002,668
+3619,Papua New Guinea,Oceania,2003,586
+3620,Papua New Guinea,Oceania,2004,537
+3621,Papua New Guinea,Oceania,2005,588
+3622,Papua New Guinea,Oceania,2006,549
+3623,Papua New Guinea,Oceania,2007,487
+3624,Papua New Guinea,Oceania,2008,638
+3625,Papua New Guinea,Oceania,2009,778
+3626,Papua New Guinea,Oceania,2010,649
+3627,Papua New Guinea,Oceania,2011,633
+3628,Papua New Guinea,Oceania,2012,662
+3629,Papua New Guinea,Oceania,2013,988
+3630,Papua New Guinea,Oceania,2014,976
+3631,Papua New Guinea,Oceania,2015,1643
+3632,Papua New Guinea,Oceania,2016,1034
+3633,Papua New Guinea,Oceania,2017,772
+3634,Papua New Guinea,Oceania,2018,826
+3635,Papua New Guinea,Oceania,2019,1140
+3636,Papua New Guinea,Oceania,2020,164
+3637,Papua New Guinea,Oceania,2021,110
+3638,Papua New Guinea,Oceania,2022,571
+3639,Paraguay,South America,2000,18714
+3640,Paraguay,South America,2001,16405
+3641,Paraguay,South America,2002,12069
+3642,Paraguay,South America,2003,9754
+3643,Paraguay,South America,2004,9716
+3644,Paraguay,South America,2005,10326
+3645,Paraguay,South America,2006,9218
+3646,Paraguay,South America,2007,10973
+3647,Paraguay,South America,2008,12062
+3648,Paraguay,South America,2009,12564
+3649,Paraguay,South America,2010,14657
+3650,Paraguay,South America,2011,16877
+3651,Paraguay,South America,2012,19384
+3652,Paraguay,South America,2013,26355
+3653,Paraguay,South America,2014,28818
+3654,Paraguay,South America,2015,31029
+3655,Paraguay,South America,2016,32076
+3656,Paraguay,South America,2017,30704
+3657,Paraguay,South America,2018,35643
+3658,Paraguay,South America,2019,34295
+3659,Paraguay,South America,2020,8157
+3660,Paraguay,South America,2021,38145
+3661,Paraguay,South America,2022,23519
+3662,Peru,South America,2000,192062
+3663,Peru,South America,2001,186008
+3664,Peru,South America,2002,164482
+3665,Peru,South America,2003,154324
+3666,Peru,South America,2004,151409
+3667,Peru,South America,2005,151823
+3668,Peru,South America,2006,133398
+3669,Peru,South America,2007,148967
+3670,Peru,South America,2008,162883
+3671,Peru,South America,2009,160474
+3672,Peru,South America,2010,173269
+3673,Peru,South America,2011,174108
+3674,Peru,South America,2012,187882
+3675,Peru,South America,2013,231020
+3676,Peru,South America,2014,252394
+3677,Peru,South America,2015,287566
+3678,Peru,South America,2016,296633
+3679,Peru,South America,2017,287524
+3680,Peru,South America,2018,303980
+3681,Peru,South America,2019,331905
+3682,Peru,South America,2020,91917
+3683,Peru,South America,2021,404937
+3684,Peru,South America,2022,308304
+3685,Philippines,Asia,2000,168053
+3686,Philippines,Asia,2001,180549
+3687,Philippines,Asia,2002,173203
+3688,Philippines,Asia,2003,134338
+3689,Philippines,Asia,2004,143962
+3690,Philippines,Asia,2005,153821
+3691,Philippines,Asia,2006,153887
+3692,Philippines,Asia,2007,171829
+3693,Philippines,Asia,2008,179820
+3694,Philippines,Asia,2009,171680
+3695,Philippines,Asia,2010,177525
+3696,Philippines,Asia,2011,172322
+3697,Philippines,Asia,2012,179716
+3698,Philippines,Asia,2013,216698
+3699,Philippines,Asia,2014,226165
+3700,Philippines,Asia,2015,244202
+3701,Philippines,Asia,2016,287762
+3702,Philippines,Asia,2017,309311
+3703,Philippines,Asia,2018,310054
+3704,Philippines,Asia,2019,332022
+3705,Philippines,Asia,2020,45812
+3706,Philippines,Asia,2021,61041
+3707,Philippines,Asia,2022,191218
+3708,Pitcairn Islands,Oceania,2000,1
+3709,Pitcairn Islands,Oceania,2001,0
+3710,Pitcairn Islands,Oceania,2002,2
+3711,Pitcairn Islands,Oceania,2003,0
+3712,Pitcairn Islands,Oceania,2004,4
+3713,Pitcairn Islands,Oceania,2005,5
+3714,Pitcairn Islands,Oceania,2006,0
+3715,Pitcairn Islands,Oceania,2007,4
+3716,Pitcairn Islands,Oceania,2008,34
+3717,Pitcairn Islands,Oceania,2009,1
+3718,Pitcairn Islands,Oceania,2010,2
+3719,Pitcairn Islands,Oceania,2011,5
+3720,Pitcairn Islands,Oceania,2012,11
+3721,Pitcairn Islands,Oceania,2013,57
+3722,Pitcairn Islands,Oceania,2014,64
+3723,Pitcairn Islands,Oceania,2015,28
+3724,Pitcairn Islands,Oceania,2016,42
+3725,Pitcairn Islands,Oceania,2017,30
+3726,Pitcairn Islands,Oceania,2018,70
+3727,Pitcairn Islands,Oceania,2019,87
+3728,Pitcairn Islands,Oceania,2020,15
+3729,Pitcairn Islands,Oceania,2021,10
+3730,Pitcairn Islands,Oceania,2022,46
+3731,Poland,Eastern Europe,2000,116277
+3732,Poland,Eastern Europe,2001,108244
+3733,Poland,Eastern Europe,2002,108707
+3734,Poland,Eastern Europe,2003,107892
+3735,Poland,Eastern Europe,2004,123003
+3736,Poland,Eastern Europe,2005,134430
+3737,Poland,Eastern Europe,2006,137588
+3738,Poland,Eastern Europe,2007,138525
+3739,Poland,Eastern Europe,2008,146887
+3740,Poland,Eastern Europe,2009,115327
+3741,Poland,Eastern Europe,2010,114702
+3742,Poland,Eastern Europe,2011,113816
+3743,Poland,Eastern Europe,2012,110185
+3744,Poland,Eastern Europe,2013,137708
+3745,Poland,Eastern Europe,2014,162914
+3746,Poland,Eastern Europe,2015,172147
+3747,Poland,Eastern Europe,2016,180847
+3748,Poland,Eastern Europe,2017,199559
+3749,Poland,Eastern Europe,2018,211107
+3750,Poland,Eastern Europe,2019,228395
+3751,Poland,Eastern Europe,2020,48717
+3752,Poland,Eastern Europe,2021,36108
+3753,Poland,Eastern Europe,2022,226767
+3754,Portugal,Western Europe,2000,86333
+3755,Portugal,Western Europe,2001,67222
+3756,Portugal,Western Europe,2002,56012
+3757,Portugal,Western Europe,2003,54572
+3758,Portugal,Western Europe,2004,60930
+3759,Portugal,Western Europe,2005,68111
+3760,Portugal,Western Europe,2006,71406
+3761,Portugal,Western Europe,2007,80611
+3762,Portugal,Western Europe,2008,89158
+3763,Portugal,Western Europe,2009,74457
+3764,Portugal,Western Europe,2010,93584
+3765,Portugal,Western Europe,2011,100908
+3766,Portugal,Western Europe,2012,95563
+3767,Portugal,Western Europe,2013,102654
+3768,Portugal,Western Europe,2014,110128
+3769,Portugal,Western Europe,2015,116285
+3770,Portugal,Western Europe,2016,128481
+3771,Portugal,Western Europe,2017,138213
+3772,Portugal,Western Europe,2018,147012
+3773,Portugal,Western Europe,2019,155287
+3774,Portugal,Western Europe,2020,24543
+3775,Portugal,Western Europe,2021,25335
+3776,Portugal,Western Europe,2022,126584
+3777,Qatar,Middle East,2000,5860
+3778,Qatar,Middle East,2001,5730
+3779,Qatar,Middle East,2002,2842
+3780,Qatar,Middle East,2003,2698
+3781,Qatar,Middle East,2004,3203
+3782,Qatar,Middle East,2005,4250
+3783,Qatar,Middle East,2006,5650
+3784,Qatar,Middle East,2007,7850
+3785,Qatar,Middle East,2008,10759
+3786,Qatar,Middle East,2009,11523
+3787,Qatar,Middle East,2010,14931
+3788,Qatar,Middle East,2011,19333
+3789,Qatar,Middle East,2012,23913
+3790,Qatar,Middle East,2013,27059
+3791,Qatar,Middle East,2014,30225
+3792,Qatar,Middle East,2015,34119
+3793,Qatar,Middle East,2016,33962
+3794,Qatar,Middle East,2017,27674
+3795,Qatar,Middle East,2018,32086
+3796,Qatar,Middle East,2019,33146
+3797,Qatar,Middle East,2020,5985
+3798,Qatar,Middle East,2021,19298
+3799,Qatar,Middle East,2022,25576
+3800,Reunion,Africa,2000,331
+3801,Reunion,Africa,2001,202
+3802,Reunion,Africa,2002,81
+3803,Reunion,Africa,2003,174
+3804,Reunion,Africa,2004,127
+3805,Reunion,Africa,2005,229
+3806,Reunion,Africa,2006,130
+3807,Reunion,Africa,2007,249
+3808,Reunion,Africa,2008,437
+3809,Reunion,Africa,2009,513
+3810,Reunion,Africa,2010,533
+3811,Reunion,Africa,2011,583
+3812,Reunion,Africa,2012,740
+3813,Reunion,Africa,2013,698
+3814,Reunion,Africa,2014,889
+3815,Reunion,Africa,2015,1443
+3816,Reunion,Africa,2016,2949
+3817,Reunion,Africa,2017,1093
+3818,Reunion,Africa,2018,1508
+3819,Reunion,Africa,2019,2004
+3820,Reunion,Africa,2020,254
+3821,Reunion,Africa,2021,147
+3822,Reunion,Africa,2022,1297
+3823,Romania,Eastern Europe,2000,27418
+3824,Romania,Eastern Europe,2001,28261
+3825,Romania,Eastern Europe,2002,26440
+3826,Romania,Eastern Europe,2003,25058
+3827,Romania,Eastern Europe,2004,30270
+3828,Romania,Eastern Europe,2005,37627
+3829,Romania,Eastern Europe,2006,39775
+3830,Romania,Eastern Europe,2007,44466
+3831,Romania,Eastern Europe,2008,49968
+3832,Romania,Eastern Europe,2009,41411
+3833,Romania,Eastern Europe,2010,45444
+3834,Romania,Eastern Europe,2011,47074
+3835,Romania,Eastern Europe,2012,48020
+3836,Romania,Eastern Europe,2013,56031
+3837,Romania,Eastern Europe,2014,59907
+3838,Romania,Eastern Europe,2015,62967
+3839,Romania,Eastern Europe,2016,69160
+3840,Romania,Eastern Europe,2017,75820
+3841,Romania,Eastern Europe,2018,80796
+3842,Romania,Eastern Europe,2019,88574
+3843,Romania,Eastern Europe,2020,17698
+3844,Romania,Eastern Europe,2021,22087
+3845,Romania,Eastern Europe,2022,55026
+3846,Russia,Eastern Europe,2000,76739
+3847,Russia,Eastern Europe,2001,70348
+3848,Russia,Eastern Europe,2002,64228
+3849,Russia,Eastern Europe,2003,62330
+3850,Russia,Eastern Europe,2004,72419
+3851,Russia,Eastern Europe,2005,84780
+3852,Russia,Eastern Europe,2006,94681
+3853,Russia,Eastern Europe,2007,114850
+3854,Russia,Eastern Europe,2008,142998
+3855,Russia,Eastern Europe,2009,142650
+3856,Russia,Eastern Europe,2010,174511
+3857,Russia,Eastern Europe,2011,226825
+3858,Russia,Eastern Europe,2012,258368
+3859,Russia,Eastern Europe,2013,350167
+3860,Russia,Eastern Europe,2014,352535
+3861,Russia,Eastern Europe,2015,269572
+3862,Russia,Eastern Europe,2016,273518
+3863,Russia,Eastern Europe,2017,300544
+3864,Russia,Eastern Europe,2018,265732
+3865,Russia,Eastern Europe,2019,256782
+3866,Russia,Eastern Europe,2020,60953
+3867,Russia,Eastern Europe,2021,81961
+3868,Russia,Eastern Europe,2022,49776
+3869,Rwanda,Africa,2000,776
+3870,Rwanda,Africa,2001,682
+3871,Rwanda,Africa,2002,657
+3872,Rwanda,Africa,2003,674
+3873,Rwanda,Africa,2004,945
+3874,Rwanda,Africa,2005,1132
+3875,Rwanda,Africa,2006,1218
+3876,Rwanda,Africa,2007,1490
+3877,Rwanda,Africa,2008,1752
+3878,Rwanda,Africa,2009,1649
+3879,Rwanda,Africa,2010,1840
+3880,Rwanda,Africa,2011,2269
+3881,Rwanda,Africa,2012,2850
+3882,Rwanda,Africa,2013,2916
+3883,Rwanda,Africa,2014,3491
+3884,Rwanda,Africa,2015,3654
+3885,Rwanda,Africa,2016,4654
+3886,Rwanda,Africa,2017,4403
+3887,Rwanda,Africa,2018,5542
+3888,Rwanda,Africa,2019,6197
+3889,Rwanda,Africa,2020,1503
+3890,Rwanda,Africa,2021,2507
+3891,Rwanda,Africa,2022,4183
+3892,Saint Barthelemy,Caribbean,2013,3
+3893,Saint Barthelemy,Caribbean,2014,68
+3894,Saint Barthelemy,Caribbean,2015,65
+3895,Saint Barthelemy,Caribbean,2016,34
+3896,Saint Barthelemy,Caribbean,2017,49
+3897,Saint Barthelemy,Caribbean,2018,55
+3898,Saint Barthelemy,Caribbean,2019,56
+3899,Saint Barthelemy,Caribbean,2020,14
+3900,Saint Barthelemy,Caribbean,2021,50
+3901,Saint Barthelemy,Caribbean,2022,100
+3902,Saint Maarten,Caribbean,2013,120
+3903,Saint Maarten,Caribbean,2014,1591
+3904,Saint Maarten,Caribbean,2015,1637
+3905,Saint Maarten,Caribbean,2016,1568
+3906,Saint Maarten,Caribbean,2017,1985
+3907,Saint Maarten,Caribbean,2018,3045
+3908,Saint Maarten,Caribbean,2019,0
+3909,Saint Maarten,Caribbean,2020,0
+3910,Saint Maarten,Caribbean,2021,0
+3911,Saint Maarten,Caribbean,2022,0
+3912,Saint Martin,Caribbean,2013,5
+3913,Saint Martin,Caribbean,2014,63
+3914,Saint Martin,Caribbean,2015,116
+3915,Saint Martin,Caribbean,2016,97
+3916,Saint Martin,Caribbean,2017,95
+3917,Saint Martin,Caribbean,2018,247
+3918,Saint Martin,Caribbean,2019,219
+3919,Saint Martin,Caribbean,2020,1474
+3920,Saint Martin,Caribbean,2021,4061
+3921,Saint Martin,Caribbean,2022,5511
+3922,San Marino,Western Europe,2000,794
+3923,San Marino,Western Europe,2001,503
+3924,San Marino,Western Europe,2002,281
+3925,San Marino,Western Europe,2003,284
+3926,San Marino,Western Europe,2004,362
+3927,San Marino,Western Europe,2005,429
+3928,San Marino,Western Europe,2006,514
+3929,San Marino,Western Europe,2007,524
+3930,San Marino,Western Europe,2008,700
+3931,San Marino,Western Europe,2009,694
+3932,San Marino,Western Europe,2010,674
+3933,San Marino,Western Europe,2011,770
+3934,San Marino,Western Europe,2012,608
+3935,San Marino,Western Europe,2013,597
+3936,San Marino,Western Europe,2014,669
+3937,San Marino,Western Europe,2015,738
+3938,San Marino,Western Europe,2016,644
+3939,San Marino,Western Europe,2017,618
+3940,San Marino,Western Europe,2018,712
+3941,San Marino,Western Europe,2019,669
+3942,San Marino,Western Europe,2020,120
+3943,San Marino,Western Europe,2021,59
+3944,San Marino,Western Europe,2022,262
+3945,Sao Tome And Principe,Africa,2000,57
+3946,Sao Tome And Principe,Africa,2001,49
+3947,Sao Tome And Principe,Africa,2002,33
+3948,Sao Tome And Principe,Africa,2003,33
+3949,Sao Tome And Principe,Africa,2004,28
+3950,Sao Tome And Principe,Africa,2005,30
+3951,Sao Tome And Principe,Africa,2006,34
+3952,Sao Tome And Principe,Africa,2007,45
+3953,Sao Tome And Principe,Africa,2008,24
+3954,Sao Tome And Principe,Africa,2009,20
+3955,Sao Tome And Principe,Africa,2010,160
+3956,Sao Tome And Principe,Africa,2011,180
+3957,Sao Tome And Principe,Africa,2012,105
+3958,Sao Tome And Principe,Africa,2013,50
+3959,Sao Tome And Principe,Africa,2014,62
+3960,Sao Tome And Principe,Africa,2015,71
+3961,Sao Tome And Principe,Africa,2016,61
+3962,Sao Tome And Principe,Africa,2017,57
+3963,Sao Tome And Principe,Africa,2018,52
+3964,Sao Tome And Principe,Africa,2019,30
+3965,Sao Tome And Principe,Africa,2020,9
+3966,Sao Tome And Principe,Africa,2021,6
+3967,Sao Tome And Principe,Africa,2022,32
+3968,Saudi Arabia,Middle East,2000,75320
+3969,Saudi Arabia,Middle East,2001,69755
+3970,Saudi Arabia,Middle East,2002,25588
+3971,Saudi Arabia,Middle East,2003,18727
+3972,Saudi Arabia,Middle East,2004,18573
+3973,Saudi Arabia,Middle East,2005,25119
+3974,Saudi Arabia,Middle East,2006,31511
+3975,Saudi Arabia,Middle East,2007,38938
+3976,Saudi Arabia,Middle East,2008,48590
+3977,Saudi Arabia,Middle East,2009,62030
+3978,Saudi Arabia,Middle East,2010,89409
+3979,Saudi Arabia,Middle East,2011,146205
+3980,Saudi Arabia,Middle East,2012,198973
+3981,Saudi Arabia,Middle East,2013,232410
+3982,Saudi Arabia,Middle East,2014,282792
+3983,Saudi Arabia,Middle East,2015,291408
+3984,Saudi Arabia,Middle East,2016,251063
+3985,Saudi Arabia,Middle East,2017,179623
+3986,Saudi Arabia,Middle East,2018,176158
+3987,Saudi Arabia,Middle East,2019,159597
+3988,Saudi Arabia,Middle East,2020,29875
+3989,Saudi Arabia,Middle East,2021,48548
+3990,Saudi Arabia,Middle East,2022,79164
+3991,Senegal,Africa,2000,11185
+3992,Senegal,Africa,2001,10395
+3993,Senegal,Africa,2002,7762
+3994,Senegal,Africa,2003,6830
+3995,Senegal,Africa,2004,5689
+3996,Senegal,Africa,2005,4804
+3997,Senegal,Africa,2006,4445
+3998,Senegal,Africa,2007,5212
+3999,Senegal,Africa,2008,6623
+4000,Senegal,Africa,2009,6536
+4001,Senegal,Africa,2010,7176
+4002,Senegal,Africa,2011,7347
+4003,Senegal,Africa,2012,7088
+4004,Senegal,Africa,2013,7981
+4005,Senegal,Africa,2014,8009
+4006,Senegal,Africa,2015,7818
+4007,Senegal,Africa,2016,8506
+4008,Senegal,Africa,2017,8155
+4009,Senegal,Africa,2018,8107
+4010,Senegal,Africa,2019,8871
+4011,Senegal,Africa,2020,2561
+4012,Senegal,Africa,2021,4708
+4013,Senegal,Africa,2022,7660
+4014,Serbia,Western Europe,2013,3160
+4015,Serbia,Western Europe,2014,5377
+4016,Serbia,Western Europe,2015,23408
+4017,Serbia,Western Europe,2016,20416
+4018,Serbia,Western Europe,2017,16522
+4019,Serbia,Western Europe,2018,5381
+4020,Serbia,Western Europe,2019,29452
+4021,Serbia,Western Europe,2020,8698
+4022,Serbia,Western Europe,2021,11924
+4023,Serbia,Western Europe,2022,20088
+4024,Seychelles,Africa,2000,419
+4025,Seychelles,Africa,2001,420
+4026,Seychelles,Africa,2002,266
+4027,Seychelles,Africa,2003,246
+4028,Seychelles,Africa,2004,164
+4029,Seychelles,Africa,2005,189
+4030,Seychelles,Africa,2006,167
+4031,Seychelles,Africa,2007,199
+4032,Seychelles,Africa,2008,213
+4033,Seychelles,Africa,2009,186
+4034,Seychelles,Africa,2010,217
+4035,Seychelles,Africa,2011,198
+4036,Seychelles,Africa,2012,194
+4037,Seychelles,Africa,2013,269
+4038,Seychelles,Africa,2014,319
+4039,Seychelles,Africa,2015,354
+4040,Seychelles,Africa,2016,382
+4041,Seychelles,Africa,2017,290
+4042,Seychelles,Africa,2018,394
+4043,Seychelles,Africa,2019,394
+4044,Seychelles,Africa,2020,80
+4045,Seychelles,Africa,2021,151
+4046,Seychelles,Africa,2022,336
+4047,Sierra Leone,Africa,2000,706
+4048,Sierra Leone,Africa,2001,697
+4049,Sierra Leone,Africa,2002,765
+4050,Sierra Leone,Africa,2003,882
+4051,Sierra Leone,Africa,2004,919
+4052,Sierra Leone,Africa,2005,858
+4053,Sierra Leone,Africa,2006,925
+4054,Sierra Leone,Africa,2007,1367
+4055,Sierra Leone,Africa,2008,1517
+4056,Sierra Leone,Africa,2009,1474
+4057,Sierra Leone,Africa,2010,1734
+4058,Sierra Leone,Africa,2011,2047
+4059,Sierra Leone,Africa,2012,2006
+4060,Sierra Leone,Africa,2013,2448
+4061,Sierra Leone,Africa,2014,2681
+4062,Sierra Leone,Africa,2015,2301
+4063,Sierra Leone,Africa,2016,2578
+4064,Sierra Leone,Africa,2017,2993
+4065,Sierra Leone,Africa,2018,2481
+4066,Sierra Leone,Africa,2019,2750
+4067,Sierra Leone,Africa,2020,479
+4068,Sierra Leone,Africa,2021,1242
+4069,Sierra Leone,Africa,2022,2913
+4070,Singapore,Asia,2000,136439
+4071,Singapore,Asia,2001,99010
+4072,Singapore,Asia,2002,97259
+4073,Singapore,Asia,2003,87525
+4074,Singapore,Asia,2004,106527
+4075,Singapore,Asia,2005,115939
+4076,Singapore,Asia,2006,122995
+4077,Singapore,Asia,2007,135209
+4078,Singapore,Asia,2008,141474
+4079,Singapore,Asia,2009,107400
+4080,Singapore,Asia,2010,139319
+4081,Singapore,Asia,2011,162976
+4082,Singapore,Asia,2012,164066
+4083,Singapore,Asia,2013,159190
+4084,Singapore,Asia,2014,153045
+4085,Singapore,Asia,2015,160410
+4086,Singapore,Asia,2016,150650
+4087,Singapore,Asia,2017,148107
+4088,Singapore,Asia,2018,166348
+4089,Singapore,Asia,2019,185894
+4090,Singapore,Asia,2020,25599
+4091,Singapore,Asia,2021,22124
+4092,Singapore,Asia,2022,121625
+4093,Slovakia,Eastern Europe,2000,13235
+4094,Slovakia,Eastern Europe,2001,12498
+4095,Slovakia,Eastern Europe,2002,12235
+4096,Slovakia,Eastern Europe,2003,10677
+4097,Slovakia,Eastern Europe,2004,11641
+4098,Slovakia,Eastern Europe,2005,13800
+4099,Slovakia,Eastern Europe,2006,14965
+4100,Slovakia,Eastern Europe,2007,16468
+4101,Slovakia,Eastern Europe,2008,19297
+4102,Slovakia,Eastern Europe,2009,27711
+4103,Slovakia,Eastern Europe,2010,30911
+4104,Slovakia,Eastern Europe,2011,34486
+4105,Slovakia,Eastern Europe,2012,34305
+4106,Slovakia,Eastern Europe,2013,36822
+4107,Slovakia,Eastern Europe,2014,39773
+4108,Slovakia,Eastern Europe,2015,45213
+4109,Slovakia,Eastern Europe,2016,45698
+4110,Slovakia,Eastern Europe,2017,47097
+4111,Slovakia,Eastern Europe,2018,49791
+4112,Slovakia,Eastern Europe,2019,53447
+4113,Slovakia,Eastern Europe,2020,8338
+4114,Slovakia,Eastern Europe,2021,6329
+4115,Slovakia,Eastern Europe,2022,34242
+4116,Slovenia,Western Europe,2000,14886
+4117,Slovenia,Western Europe,2001,10980
+4118,Slovenia,Western Europe,2002,7300
+4119,Slovenia,Western Europe,2003,9420
+4120,Slovenia,Western Europe,2004,11045
+4121,Slovenia,Western Europe,2005,12566
+4122,Slovenia,Western Europe,2006,12762
+4123,Slovenia,Western Europe,2007,16125
+4124,Slovenia,Western Europe,2008,20637
+4125,Slovenia,Western Europe,2009,19213
+4126,Slovenia,Western Europe,2010,18845
+4127,Slovenia,Western Europe,2011,19749
+4128,Slovenia,Western Europe,2012,19018
+4129,Slovenia,Western Europe,2013,18744
+4130,Slovenia,Western Europe,2014,20580
+4131,Slovenia,Western Europe,2015,24282
+4132,Slovenia,Western Europe,2016,20631
+4133,Slovenia,Western Europe,2017,23470
+4134,Slovenia,Western Europe,2018,25335
+4135,Slovenia,Western Europe,2019,28108
+4136,Slovenia,Western Europe,2020,6343
+4137,Slovenia,Western Europe,2021,3492
+4138,Slovenia,Western Europe,2022,16173
+4139,Solomon Islands,Oceania,2000,128
+4140,Solomon Islands,Oceania,2001,148
+4141,Solomon Islands,Oceania,2002,159
+4142,Solomon Islands,Oceania,2003,99
+4143,Solomon Islands,Oceania,2004,93
+4144,Solomon Islands,Oceania,2005,74
+4145,Solomon Islands,Oceania,2006,81
+4146,Solomon Islands,Oceania,2007,116
+4147,Solomon Islands,Oceania,2008,132
+4148,Solomon Islands,Oceania,2009,138
+4149,Solomon Islands,Oceania,2010,88
+4150,Solomon Islands,Oceania,2011,109
+4151,Solomon Islands,Oceania,2012,123
+4152,Solomon Islands,Oceania,2013,300
+4153,Solomon Islands,Oceania,2014,256
+4154,Solomon Islands,Oceania,2015,263
+4155,Solomon Islands,Oceania,2016,373
+4156,Solomon Islands,Oceania,2017,175
+4157,Solomon Islands,Oceania,2018,196
+4158,Solomon Islands,Oceania,2019,204
+4159,Solomon Islands,Oceania,2020,30
+4160,Solomon Islands,Oceania,2021,15
+4161,Solomon Islands,Oceania,2022,199
+4162,Somalia,Africa,2000,105
+4163,Somalia,Africa,2001,78
+4164,Somalia,Africa,2002,23
+4165,Somalia,Africa,2003,22
+4166,Somalia,Africa,2004,35
+4167,Somalia,Africa,2005,55
+4168,Somalia,Africa,2006,30
+4169,Somalia,Africa,2007,49
+4170,Somalia,Africa,2008,55
+4171,Somalia,Africa,2009,72
+4172,Somalia,Africa,2010,98
+4173,Somalia,Africa,2011,117
+4174,Somalia,Africa,2012,56
+4175,Somalia,Africa,2013,138
+4176,Somalia,Africa,2014,224
+4177,Somalia,Africa,2015,244
+4178,Somalia,Africa,2016,287
+4179,Somalia,Africa,2017,147
+4180,Somalia,Africa,2018,142
+4181,Somalia,Africa,2019,172
+4182,Somalia,Africa,2020,67
+4183,Somalia,Africa,2021,146
+4184,Somalia,Africa,2022,198
+4185,South Africa,Africa,2000,116113
+4186,South Africa,Africa,2001,94882
+4187,South Africa,Africa,2002,73910
+4188,South Africa,Africa,2003,72029
+4189,South Africa,Africa,2004,78433
+4190,South Africa,Africa,2005,89102
+4191,South Africa,Africa,2006,89017
+4192,South Africa,Africa,2007,93719
+4193,South Africa,Africa,2008,93692
+4194,South Africa,Africa,2009,78934
+4195,South Africa,Africa,2010,80174
+4196,South Africa,Africa,2011,93247
+4197,South Africa,Africa,2012,101056
+4198,South Africa,Africa,2013,112121
+4199,South Africa,Africa,2014,115857
+4200,South Africa,Africa,2015,125543
+4201,South Africa,Africa,2016,115243
+4202,South Africa,Africa,2017,124486
+4203,South Africa,Africa,2018,134042
+4204,South Africa,Africa,2019,130313
+4205,South Africa,Africa,2020,25284
+4206,South Africa,Africa,2021,17546
+4207,South Africa,Africa,2022,80652
+4208,South Korea,Asia,2000,661844
+4209,South Korea,Asia,2001,617892
+4210,South Korea,Asia,2002,638697
+4211,South Korea,Asia,2003,617573
+4212,South Korea,Asia,2004,626595
+4213,South Korea,Asia,2005,705093
+4214,South Korea,Asia,2006,757721
+4215,South Korea,Asia,2007,806175
+4216,South Korea,Asia,2008,759394
+4217,South Korea,Asia,2009,743846
+4218,South Korea,Asia,2010,1107518
+4219,South Korea,Asia,2011,1211197
+4220,South Korea,Asia,2012,1295069
+4221,South Korea,Asia,2013,1437924
+4222,South Korea,Asia,2014,1473365
+4223,South Korea,Asia,2015,1775456
+4224,South Korea,Asia,2016,1982516
+4225,South Korea,Asia,2017,2334839
+4226,South Korea,Asia,2018,2210597
+4227,South Korea,Asia,2019,2298279
+4228,South Korea,Asia,2020,439286
+4229,South Korea,Asia,2021,202711
+4230,South Korea,Asia,2022,919796
+4231,South Sudan Republic of,Africa,2013,9
+4232,South Sudan Republic of,Africa,2014,221
+4233,South Sudan Republic of,Africa,2015,358
+4234,South Sudan Republic of,Africa,2016,237
+4235,South Sudan Republic of,Africa,2017,280
+4236,South Sudan Republic of,Africa,2018,411
+4237,Spain,Western Europe,2000,361177
+4238,Spain,Western Europe,2001,291052
+4239,Spain,Western Europe,2002,269520
+4240,Spain,Western Europe,2003,284031
+4241,Spain,Western Europe,2004,333432
+4242,Spain,Western Europe,2005,385640
+4243,Spain,Western Europe,2006,424224
+4244,Spain,Western Europe,2007,516471
+4245,Spain,Western Europe,2008,658333
+4246,Spain,Western Europe,2009,596766
+4247,Spain,Western Europe,2010,639654
+4248,Spain,Western Europe,2011,711982
+4249,Spain,Western Europe,2012,620641
+4250,Spain,Western Europe,2013,657147
+4251,Spain,Western Europe,2014,715139
+4252,Spain,Western Europe,2015,759951
+4253,Spain,Western Europe,2016,807447
+4254,Spain,Western Europe,2017,826818
+4255,Spain,Western Europe,2018,876248
+4256,Spain,Western Europe,2019,943248
+4257,Spain,Western Europe,2020,151519
+4258,Spain,Western Europe,2021,182458
+4259,Spain,Western Europe,2022,773421
+4260,Sri Lanka,Asia,2000,9898
+4261,Sri Lanka,Asia,2001,8730
+4262,Sri Lanka,Asia,2002,6613
+4263,Sri Lanka,Asia,2003,7622
+4264,Sri Lanka,Asia,2004,7512
+4265,Sri Lanka,Asia,2005,9024
+4266,Sri Lanka,Asia,2006,10432
+4267,Sri Lanka,Asia,2007,12044
+4268,Sri Lanka,Asia,2008,11552
+4269,Sri Lanka,Asia,2009,9778
+4270,Sri Lanka,Asia,2010,10853
+4271,Sri Lanka,Asia,2011,12683
+4272,Sri Lanka,Asia,2012,13040
+4273,Sri Lanka,Asia,2013,15651
+4274,Sri Lanka,Asia,2014,17336
+4275,Sri Lanka,Asia,2015,19538
+4276,Sri Lanka,Asia,2016,21427
+4277,Sri Lanka,Asia,2017,22747
+4278,Sri Lanka,Asia,2018,20885
+4279,Sri Lanka,Asia,2019,20187
+4280,Sri Lanka,Asia,2020,3310
+4281,Sri Lanka,Asia,2021,4244
+4282,Sri Lanka,Asia,2022,13636
+4283,St. Helena,Africa,2011,35
+4284,St. Helena,Africa,2012,22
+4285,St. Helena,Africa,2013,43
+4286,St. Helena,Africa,2014,40
+4287,St. Helena,Africa,2015,41
+4288,St. Helena,Africa,2016,45
+4289,St. Helena,Africa,2017,42
+4290,St. Helena,Africa,2018,61
+4291,St. Helena,Africa,2019,48
+4292,St. Helena,Africa,2020,14
+4293,St. Helena,Africa,2021,21
+4294,St. Helena,Africa,2022,35
+4295,St. Kitts and Nevis,Caribbean,2000,12084
+4296,St. Kitts and Nevis,Caribbean,2001,10183
+4297,St. Kitts and Nevis,Caribbean,2002,7917
+4298,St. Kitts and Nevis,Caribbean,2003,7897
+4299,St. Kitts and Nevis,Caribbean,2004,9863
+4300,St. Kitts and Nevis,Caribbean,2005,11403
+4301,St. Kitts and Nevis,Caribbean,2006,11112
+4302,St. Kitts and Nevis,Caribbean,2007,11086
+4303,St. Kitts and Nevis,Caribbean,2008,11045
+4304,St. Kitts and Nevis,Caribbean,2009,10222
+4305,St. Kitts and Nevis,Caribbean,2010,10328
+4306,St. Kitts and Nevis,Caribbean,2011,9710
+4307,St. Kitts and Nevis,Caribbean,2012,8640
+4308,St. Kitts and Nevis,Caribbean,2013,10321
+4309,St. Kitts and Nevis,Caribbean,2014,10626
+4310,St. Kitts and Nevis,Caribbean,2015,10983
+4311,St. Kitts and Nevis,Caribbean,2016,10989
+4312,St. Kitts and Nevis,Caribbean,2017,10364
+4313,St. Kitts and Nevis,Caribbean,2018,11277
+4314,St. Kitts and Nevis,Caribbean,2019,13019
+4315,St. Kitts and Nevis,Caribbean,2020,1956
+4316,St. Kitts and Nevis,Caribbean,2021,3356
+4317,St. Kitts and Nevis,Caribbean,2022,8213
+4318,St. Lucia,Caribbean,2000,18100
+4319,St. Lucia,Caribbean,2001,14941
+4320,St. Lucia,Caribbean,2002,12530
+4321,St. Lucia,Caribbean,2003,12007
+4322,St. Lucia,Caribbean,2004,13846
+4323,St. Lucia,Caribbean,2005,13879
+4324,St. Lucia,Caribbean,2006,15022
+4325,St. Lucia,Caribbean,2007,15520
+4326,St. Lucia,Caribbean,2008,13814
+4327,St. Lucia,Caribbean,2009,13397
+4328,St. Lucia,Caribbean,2010,15072
+4329,St. Lucia,Caribbean,2011,13341
+4330,St. Lucia,Caribbean,2012,11699
+4331,St. Lucia,Caribbean,2013,13105
+4332,St. Lucia,Caribbean,2014,13327
+4333,St. Lucia,Caribbean,2015,14427
+4334,St. Lucia,Caribbean,2016,15271
+4335,St. Lucia,Caribbean,2017,14780
+4336,St. Lucia,Caribbean,2018,15300
+4337,St. Lucia,Caribbean,2019,16933
+4338,St. Lucia,Caribbean,2020,2914
+4339,St. Lucia,Caribbean,2021,6453
+4340,St. Lucia,Caribbean,2022,11932
+4341,St. Pierre And Miquelon,Western Europe,2011,76
+4342,St. Pierre And Miquelon,Western Europe,2012,86
+4343,St. Pierre And Miquelon,Western Europe,2013,104
+4344,St. Pierre And Miquelon,Western Europe,2014,101
+4345,St. Pierre And Miquelon,Western Europe,2015,133
+4346,St. Pierre And Miquelon,Western Europe,2016,123
+4347,St. Pierre And Miquelon,Western Europe,2017,99
+4348,St. Pierre And Miquelon,Western Europe,2018,140
+4349,St. Pierre And Miquelon,Western Europe,2019,141
+4350,St. Pierre And Miquelon,Western Europe,2020,17
+4351,St. Pierre And Miquelon,Western Europe,2021,14
+4352,St. Pierre And Miquelon,Western Europe,2022,90
+4353,St. Vincent and the Grenadines,Caribbean,2000,7291
+4354,St. Vincent and the Grenadines,Caribbean,2001,5931
+4355,St. Vincent and the Grenadines,Caribbean,2002,4992
+4356,St. Vincent and the Grenadines,Caribbean,2003,4928
+4357,St. Vincent and the Grenadines,Caribbean,2004,5724
+4358,St. Vincent and the Grenadines,Caribbean,2005,5939
+4359,St. Vincent and the Grenadines,Caribbean,2006,6544
+4360,St. Vincent and the Grenadines,Caribbean,2007,6155
+4361,St. Vincent and the Grenadines,Caribbean,2008,6043
+4362,St. Vincent and the Grenadines,Caribbean,2009,6002
+4363,St. Vincent and the Grenadines,Caribbean,2010,6221
+4364,St. Vincent and the Grenadines,Caribbean,2011,6288
+4365,St. Vincent and the Grenadines,Caribbean,2012,5626
+4366,St. Vincent and the Grenadines,Caribbean,2013,7607
+4367,St. Vincent and the Grenadines,Caribbean,2014,8021
+4368,St. Vincent and the Grenadines,Caribbean,2015,8258
+4369,St. Vincent and the Grenadines,Caribbean,2016,8347
+4370,St. Vincent and the Grenadines,Caribbean,2017,8023
+4371,St. Vincent and the Grenadines,Caribbean,2018,8276
+4372,St. Vincent and the Grenadines,Caribbean,2019,9401
+4373,St. Vincent and the Grenadines,Caribbean,2020,1761
+4374,St. Vincent and the Grenadines,Caribbean,2021,3220
+4375,St. Vincent and the Grenadines,Caribbean,2022,6153
+4376,Sudan,Africa,2000,1479
+4377,Sudan,Africa,2001,1659
+4378,Sudan,Africa,2002,852
+4379,Sudan,Africa,2003,670
+4380,Sudan,Africa,2004,628
+4381,Sudan,Africa,2005,669
+4382,Sudan,Africa,2006,1066
+4383,Sudan,Africa,2007,1311
+4384,Sudan,Africa,2008,1395
+4385,Sudan,Africa,2009,1547
+4386,Sudan,Africa,2010,2006
+4387,Sudan,Africa,2011,2649
+4388,Sudan,Africa,2012,2031
+4389,Sudan,Africa,2013,2114
+4390,Sudan,Africa,2014,3056
+4391,Sudan,Africa,2015,3291
+4392,Sudan,Africa,2016,4499
+4393,Sudan,Africa,2017,2674
+4394,Sudan,Africa,2018,3163
+4395,Sudan,Africa,2019,2651
+4396,Sudan,Africa,2020,670
+4397,Sudan,Africa,2021,675
+4398,Sudan,Africa,2022,2072
+4399,Suriname,South America,2000,7039
+4400,Suriname,South America,2001,5832
+4401,Suriname,South America,2002,5237
+4402,Suriname,South America,2003,5346
+4403,Suriname,South America,2004,5812
+4404,Suriname,South America,2005,5665
+4405,Suriname,South America,2006,5266
+4406,Suriname,South America,2007,6008
+4407,Suriname,South America,2008,7022
+4408,Suriname,South America,2009,8630
+4409,Suriname,South America,2010,8941
+4410,Suriname,South America,2011,9142
+4411,Suriname,South America,2012,10741
+4412,Suriname,South America,2013,12384
+4413,Suriname,South America,2014,13222
+4414,Suriname,South America,2015,14810
+4415,Suriname,South America,2016,12486
+4416,Suriname,South America,2017,12070
+4417,Suriname,South America,2018,12871
+4418,Suriname,South America,2019,14338
+4419,Suriname,South America,2020,1845
+4420,Suriname,South America,2021,5947
+4421,Suriname,South America,2022,14217
+4422,Swaziland,Africa,2000,358
+4423,Swaziland,Africa,2001,310
+4424,Swaziland,Africa,2002,200
+4425,Swaziland,Africa,2003,191
+4426,Swaziland,Africa,2004,215
+4427,Swaziland,Africa,2005,399
+4428,Swaziland,Africa,2006,357
+4429,Swaziland,Africa,2007,316
+4430,Swaziland,Africa,2008,575
+4431,Swaziland,Africa,2009,499
+4432,Swaziland,Africa,2010,838
+4433,Swaziland,Africa,2011,1202
+4434,Swaziland,Africa,2012,1394
+4435,Swaziland,Africa,2013,1653
+4436,Swaziland,Africa,2014,1746
+4437,Swaziland,Africa,2015,1853
+4438,Swaziland,Africa,2016,1508
+4439,Swaziland,Africa,2017,1131
+4440,Swaziland,Africa,2018,1629
+4441,Swaziland,Africa,2019,1611
+4442,Swaziland,Africa,2020,284
+4443,Swaziland,Africa,2021,318
+4444,Swaziland,Africa,2022,1447
+4445,Sweden,Western Europe,2000,321881
+4446,Sweden,Western Europe,2001,230538
+4447,Sweden,Western Europe,2002,204156
+4448,Sweden,Western Europe,2003,211386
+4449,Sweden,Western Europe,2004,254258
+4450,Sweden,Western Europe,2005,290530
+4451,Sweden,Western Europe,2006,285994
+4452,Sweden,Western Europe,2007,337474
+4453,Sweden,Western Europe,2008,397017
+4454,Sweden,Western Europe,2009,324417
+4455,Sweden,Western Europe,2010,371853
+4456,Sweden,Western Europe,2011,443214
+4457,Sweden,Western Europe,2012,445841
+4458,Sweden,Western Europe,2013,493345
+4459,Sweden,Western Europe,2014,554024
+4460,Sweden,Western Europe,2015,588297
+4461,Sweden,Western Europe,2016,560581
+4462,Sweden,Western Europe,2017,522211
+4463,Sweden,Western Europe,2018,506323
+4464,Sweden,Western Europe,2019,451612
+4465,Sweden,Western Europe,2020,73940
+4466,Sweden,Western Europe,2021,46876
+4467,Sweden,Western Europe,2022,247593
+4468,Switzerland,Western Europe,2000,395031
+4469,Switzerland,Western Europe,2001,310826
+4470,Switzerland,Western Europe,2002,253940
+4471,Switzerland,Western Europe,2003,230042
+4472,Switzerland,Western Europe,2004,243186
+4473,Switzerland,Western Europe,2005,256730
+4474,Switzerland,Western Europe,2006,270571
+4475,Switzerland,Western Europe,2007,296369
+4476,Switzerland,Western Europe,2008,341955
+4477,Switzerland,Western Europe,2009,355727
+4478,Switzerland,Western Europe,2010,390591
+4479,Switzerland,Western Europe,2011,483234
+4480,Switzerland,Western Europe,2012,481103
+4481,Switzerland,Western Europe,2013,495816
+4482,Switzerland,Western Europe,2014,502509
+4483,Switzerland,Western Europe,2015,538490
+4484,Switzerland,Western Europe,2016,471070
+4485,Switzerland,Western Europe,2017,441270
+4486,Switzerland,Western Europe,2018,463139
+4487,Switzerland,Western Europe,2019,474550
+4488,Switzerland,Western Europe,2020,63321
+4489,Switzerland,Western Europe,2021,56094
+4490,Switzerland,Western Europe,2022,314226
+4491,Syria,Middle East,2000,8470
+4492,Syria,Middle East,2001,8237
+4493,Syria,Middle East,2002,5194
+4494,Syria,Middle East,2003,3843
+4495,Syria,Middle East,2004,3901
+4496,Syria,Middle East,2005,4015
+4497,Syria,Middle East,2006,4030
+4498,Syria,Middle East,2007,4609
+4499,Syria,Middle East,2008,4643
+4500,Syria,Middle East,2009,5105
+4501,Syria,Middle East,2010,5625
+4502,Syria,Middle East,2011,6185
+4503,Syria,Middle East,2012,6695
+4504,Syria,Middle East,2013,10012
+4505,Syria,Middle East,2014,9394
+4506,Syria,Middle East,2015,7806
+4507,Syria,Middle East,2016,7047
+4508,Syria,Middle East,2017,4608
+4509,Syria,Middle East,2018,2644
+4510,Syria,Middle East,2019,2245
+4511,Syria,Middle East,2020,475
+4512,Syria,Middle East,2021,687
+4513,Syria,Middle East,2022,3021
+4514,Taiwan,Asia,2000,457302
+4515,Taiwan,Asia,2001,357064
+4516,Taiwan,Asia,2002,288032
+4517,Taiwan,Asia,2003,238999
+4518,Taiwan,Asia,2004,297684
+4519,Taiwan,Asia,2005,318886
+4520,Taiwan,Asia,2006,300382
+4521,Taiwan,Asia,2007,311020
+4522,Taiwan,Asia,2008,294893
+4523,Taiwan,Asia,2009,239545
+4524,Taiwan,Asia,2010,291107
+4525,Taiwan,Asia,2011,299715
+4526,Taiwan,Asia,2012,292985
+4527,Taiwan,Asia,2013,407592
+4528,Taiwan,Asia,2014,419808
+4529,Taiwan,Asia,2015,444007
+4530,Taiwan,Asia,2016,466267
+4531,Taiwan,Asia,2017,474699
+4532,Taiwan,Asia,2018,478001
+4533,Taiwan,Asia,2019,499520
+4534,Taiwan,Asia,2020,91007
+4535,Taiwan,Asia,2021,50470
+4536,Taiwan,Asia,2022,137085
+4537,Tajikistan,Asia,2000,213
+4538,Tajikistan,Asia,2001,298
+4539,Tajikistan,Asia,2002,295
+4540,Tajikistan,Asia,2003,250
+4541,Tajikistan,Asia,2004,231
+4542,Tajikistan,Asia,2005,341
+4543,Tajikistan,Asia,2006,477
+4544,Tajikistan,Asia,2007,1166
+4545,Tajikistan,Asia,2008,1440
+4546,Tajikistan,Asia,2009,1010
+4547,Tajikistan,Asia,2010,1047
+4548,Tajikistan,Asia,2011,1310
+4549,Tajikistan,Asia,2012,1318
+4550,Tajikistan,Asia,2013,1103
+4551,Tajikistan,Asia,2014,1105
+4552,Tajikistan,Asia,2015,1526
+4553,Tajikistan,Asia,2016,1594
+4554,Tajikistan,Asia,2017,1607
+4555,Tajikistan,Asia,2018,1518
+4556,Tajikistan,Asia,2019,1533
+4557,Tajikistan,Asia,2020,314
+4558,Tajikistan,Asia,2021,543
+4559,Tajikistan,Asia,2022,1439
+4560,Tanzania,Africa,2000,4286
+4561,Tanzania,Africa,2001,4972
+4562,Tanzania,Africa,2002,3530
+4563,Tanzania,Africa,2003,3506
+4564,Tanzania,Africa,2004,3357
+4565,Tanzania,Africa,2005,3621
+4566,Tanzania,Africa,2006,4015
+4567,Tanzania,Africa,2007,4612
+4568,Tanzania,Africa,2008,4765
+4569,Tanzania,Africa,2009,5000
+4570,Tanzania,Africa,2010,4986
+4571,Tanzania,Africa,2011,5808
+4572,Tanzania,Africa,2012,6272
+4573,Tanzania,Africa,2013,5758
+4574,Tanzania,Africa,2014,6542
+4575,Tanzania,Africa,2015,7883
+4576,Tanzania,Africa,2016,6055
+4577,Tanzania,Africa,2017,6497
+4578,Tanzania,Africa,2018,6841
+4579,Tanzania,Africa,2019,6851
+4580,Tanzania,Africa,2020,1149
+4581,Tanzania,Africa,2021,1597
+4582,Tanzania,Africa,2022,5799
+4583,Thailand,Asia,2000,86971
+4584,Thailand,Asia,2001,73745
+4585,Thailand,Asia,2002,66848
+4586,Thailand,Asia,2003,55884
+4587,Thailand,Asia,2004,66287
+4588,Thailand,Asia,2005,66833
+4589,Thailand,Asia,2006,69236
+4590,Thailand,Asia,2007,77009
+4591,Thailand,Asia,2008,76820
+4592,Thailand,Asia,2009,69204
+4593,Thailand,Asia,2010,74293
+4594,Thailand,Asia,2011,75934
+4595,Thailand,Asia,2012,83634
+4596,Thailand,Asia,2013,91664
+4597,Thailand,Asia,2014,97714
+4598,Thailand,Asia,2015,99050
+4599,Thailand,Asia,2016,103223
+4600,Thailand,Asia,2017,102509
+4601,Thailand,Asia,2018,106878
+4602,Thailand,Asia,2019,111067
+4603,Thailand,Asia,2020,13907
+4604,Thailand,Asia,2021,23877
+4605,Thailand,Asia,2022,62148
+4606,Togo,Africa,2000,1590
+4607,Togo,Africa,2001,2250
+4608,Togo,Africa,2002,1801
+4609,Togo,Africa,2003,1695
+4610,Togo,Africa,2004,1549
+4611,Togo,Africa,2005,1099
+4612,Togo,Africa,2006,943
+4613,Togo,Africa,2007,1136
+4614,Togo,Africa,2008,1181
+4615,Togo,Africa,2009,1039
+4616,Togo,Africa,2010,1142
+4617,Togo,Africa,2011,1363
+4618,Togo,Africa,2012,1300
+4619,Togo,Africa,2013,1588
+4620,Togo,Africa,2014,1805
+4621,Togo,Africa,2015,2170
+4622,Togo,Africa,2016,2280
+4623,Togo,Africa,2017,2292
+4624,Togo,Africa,2018,2296
+4625,Togo,Africa,2019,2533
+4626,Togo,Africa,2020,545
+4627,Togo,Africa,2021,697
+4628,Togo,Africa,2022,1498
+4629,Tonga,Oceania,2000,2719
+4630,Tonga,Oceania,2001,2746
+4631,Tonga,Oceania,2002,2112
+4632,Tonga,Oceania,2003,1713
+4633,Tonga,Oceania,2004,1915
+4634,Tonga,Oceania,2005,2288
+4635,Tonga,Oceania,2006,2127
+4636,Tonga,Oceania,2007,2322
+4637,Tonga,Oceania,2008,1459
+4638,Tonga,Oceania,2009,1353
+4639,Tonga,Oceania,2010,1316
+4640,Tonga,Oceania,2011,1220
+4641,Tonga,Oceania,2012,1142
+4642,Tonga,Oceania,2013,1452
+4643,Tonga,Oceania,2014,1755
+4644,Tonga,Oceania,2015,3046
+4645,Tonga,Oceania,2016,3830
+4646,Tonga,Oceania,2017,3287
+4647,Tonga,Oceania,2018,2692
+4648,Tonga,Oceania,2019,2764
+4649,Tonga,Oceania,2020,423
+4650,Tonga,Oceania,2021,94
+4651,Tonga,Oceania,2022,1210
+4652,Trinidad and Tobago,Caribbean,2000,137689
+4653,Trinidad and Tobago,Caribbean,2001,127102
+4654,Trinidad and Tobago,Caribbean,2002,118336
+4655,Trinidad and Tobago,Caribbean,2003,111820
+4656,Trinidad and Tobago,Caribbean,2004,121158
+4657,Trinidad and Tobago,Caribbean,2005,128392
+4658,Trinidad and Tobago,Caribbean,2006,133906
+4659,Trinidad and Tobago,Caribbean,2007,143009
+4660,Trinidad and Tobago,Caribbean,2008,147613
+4661,Trinidad and Tobago,Caribbean,2009,141406
+4662,Trinidad and Tobago,Caribbean,2010,136628
+4663,Trinidad and Tobago,Caribbean,2011,134318
+4664,Trinidad and Tobago,Caribbean,2012,140788
+4665,Trinidad and Tobago,Caribbean,2013,143634
+4666,Trinidad and Tobago,Caribbean,2014,152792
+4667,Trinidad and Tobago,Caribbean,2015,169214
+4668,Trinidad and Tobago,Caribbean,2016,167028
+4669,Trinidad and Tobago,Caribbean,2017,163701
+4670,Trinidad and Tobago,Caribbean,2018,168447
+4671,Trinidad and Tobago,Caribbean,2019,188290
+4672,Trinidad and Tobago,Caribbean,2020,23586
+4673,Trinidad and Tobago,Caribbean,2021,34219
+4674,Trinidad and Tobago,Caribbean,2022,121464
+4675,Tunisia,Africa,2000,9489
+4676,Tunisia,Africa,2001,5257
+4677,Tunisia,Africa,2002,1989
+4678,Tunisia,Africa,2003,2020
+4679,Tunisia,Africa,2004,2920
+4680,Tunisia,Africa,2005,3566
+4681,Tunisia,Africa,2006,3482
+4682,Tunisia,Africa,2007,4010
+4683,Tunisia,Africa,2008,4448
+4684,Tunisia,Africa,2009,4711
+4685,Tunisia,Africa,2010,5622
+4686,Tunisia,Africa,2011,5970
+4687,Tunisia,Africa,2012,7043
+4688,Tunisia,Africa,2013,8810
+4689,Tunisia,Africa,2014,9434
+4690,Tunisia,Africa,2015,9428
+4691,Tunisia,Africa,2016,10710
+4692,Tunisia,Africa,2017,9980
+4693,Tunisia,Africa,2018,10051
+4694,Tunisia,Africa,2019,10513
+4695,Tunisia,Africa,2020,2152
+4696,Tunisia,Africa,2021,3952
+4697,Tunisia,Africa,2022,8873
+4698,Turkey,Middle East,2000,106427
+4699,Turkey,Middle East,2001,82222
+4700,Turkey,Middle East,2002,78662
+4701,Turkey,Middle East,2003,75227
+4702,Turkey,Middle East,2004,76404
+4703,Turkey,Middle East,2005,84434
+4704,Turkey,Middle East,2006,90122
+4705,Turkey,Middle East,2007,95568
+4706,Turkey,Middle East,2008,107572
+4707,Turkey,Middle East,2009,94302
+4708,Turkey,Middle East,2010,115237
+4709,Turkey,Middle East,2011,131985
+4710,Turkey,Middle East,2012,145306
+4711,Turkey,Middle East,2013,168200
+4712,Turkey,Middle East,2014,175696
+4713,Turkey,Middle East,2015,192863
+4714,Turkey,Middle East,2016,202810
+4715,Turkey,Middle East,2017,184328
+4716,Turkey,Middle East,2018,165504
+4717,Turkey,Middle East,2019,170557
+4718,Turkey,Middle East,2020,46795
+4719,Turkey,Middle East,2021,71082
+4720,Turkey,Middle East,2022,120826
+4721,Turkmenistan,Asia,2000,194
+4722,Turkmenistan,Asia,2001,342
+4723,Turkmenistan,Asia,2002,185
+4724,Turkmenistan,Asia,2003,176
+4725,Turkmenistan,Asia,2004,334
+4726,Turkmenistan,Asia,2005,363
+4727,Turkmenistan,Asia,2006,378
+4728,Turkmenistan,Asia,2007,358
+4729,Turkmenistan,Asia,2008,300
+4730,Turkmenistan,Asia,2009,504
+4731,Turkmenistan,Asia,2010,596
+4732,Turkmenistan,Asia,2011,600
+4733,Turkmenistan,Asia,2012,704
+4734,Turkmenistan,Asia,2013,1044
+4735,Turkmenistan,Asia,2014,1251
+4736,Turkmenistan,Asia,2015,1239
+4737,Turkmenistan,Asia,2016,1199
+4738,Turkmenistan,Asia,2017,1340
+4739,Turkmenistan,Asia,2018,1052
+4740,Turkmenistan,Asia,2019,1017
+4741,Turkmenistan,Asia,2020,174
+4742,Turkmenistan,Asia,2021,101
+4743,Turkmenistan,Asia,2022,929
+4744,Turks and Caicos Islands,Caribbean,2000,16127
+4745,Turks and Caicos Islands,Caribbean,2001,14611
+4746,Turks and Caicos Islands,Caribbean,2002,9989
+4747,Turks and Caicos Islands,Caribbean,2003,9717
+4748,Turks and Caicos Islands,Caribbean,2004,11605
+4749,Turks and Caicos Islands,Caribbean,2005,12912
+4750,Turks and Caicos Islands,Caribbean,2006,16820
+4751,Turks and Caicos Islands,Caribbean,2007,20882
+4752,Turks and Caicos Islands,Caribbean,2008,19334
+4753,Turks and Caicos Islands,Caribbean,2009,14373
+4754,Turks and Caicos Islands,Caribbean,2010,11724
+4755,Turks and Caicos Islands,Caribbean,2011,11617
+4756,Turks and Caicos Islands,Caribbean,2012,11597
+4757,Turks and Caicos Islands,Caribbean,2013,8903
+4758,Turks and Caicos Islands,Caribbean,2014,9263
+4759,Turks and Caicos Islands,Caribbean,2015,9964
+4760,Turks and Caicos Islands,Caribbean,2016,10189
+4761,Turks and Caicos Islands,Caribbean,2017,10756
+4762,Turks and Caicos Islands,Caribbean,2018,14789
+4763,Turks and Caicos Islands,Caribbean,2019,20989
+4764,Turks and Caicos Islands,Caribbean,2020,6199
+4765,Turks and Caicos Islands,Caribbean,2021,13111
+4766,Turks and Caicos Islands,Caribbean,2022,19634
+4767,Tuvalu,Oceania,2000,57
+4768,Tuvalu,Oceania,2001,60
+4769,Tuvalu,Oceania,2002,41
+4770,Tuvalu,Oceania,2003,23
+4771,Tuvalu,Oceania,2004,31
+4772,Tuvalu,Oceania,2005,29
+4773,Tuvalu,Oceania,2006,12
+4774,Tuvalu,Oceania,2007,20
+4775,Tuvalu,Oceania,2008,18
+4776,Tuvalu,Oceania,2009,15
+4777,Tuvalu,Oceania,2010,57
+4778,Tuvalu,Oceania,2011,76
+4779,Tuvalu,Oceania,2012,14
+4780,Tuvalu,Oceania,2013,33
+4781,Tuvalu,Oceania,2014,53
+4782,Tuvalu,Oceania,2015,60
+4783,Tuvalu,Oceania,2016,67
+4784,Tuvalu,Oceania,2017,51
+4785,Tuvalu,Oceania,2018,57
+4786,Tuvalu,Oceania,2019,57
+4787,Tuvalu,Oceania,2020,7
+4788,Tuvalu,Oceania,2021,6
+4789,Tuvalu,Oceania,2022,63
+4790,Uganda,Africa,2000,3885
+4791,Uganda,Africa,2001,3632
+4792,Uganda,Africa,2002,3326
+4793,Uganda,Africa,2003,3215
+4794,Uganda,Africa,2004,3622
+4795,Uganda,Africa,2005,3764
+4796,Uganda,Africa,2006,4147
+4797,Uganda,Africa,2007,4862
+4798,Uganda,Africa,2008,5891
+4799,Uganda,Africa,2009,5404
+4800,Uganda,Africa,2010,5115
+4801,Uganda,Africa,2011,5780
+4802,Uganda,Africa,2012,6613
+4803,Uganda,Africa,2013,7083
+4804,Uganda,Africa,2014,7251
+4805,Uganda,Africa,2015,8393
+4806,Uganda,Africa,2016,8380
+4807,Uganda,Africa,2017,9772
+4808,Uganda,Africa,2018,11224
+4809,Uganda,Africa,2019,11563
+4810,Uganda,Africa,2020,1949
+4811,Uganda,Africa,2021,2241
+4812,Uganda,Africa,2022,6714
+4813,Ukraine,Eastern Europe,2000,14477
+4814,Ukraine,Eastern Europe,2001,14923
+4815,Ukraine,Eastern Europe,2002,12169
+4816,Ukraine,Eastern Europe,2003,15098
+4817,Ukraine,Eastern Europe,2004,18822
+4818,Ukraine,Eastern Europe,2005,24164
+4819,Ukraine,Eastern Europe,2006,30125
+4820,Ukraine,Eastern Europe,2007,36464
+4821,Ukraine,Eastern Europe,2008,43348
+4822,Ukraine,Eastern Europe,2009,37157
+4823,Ukraine,Eastern Europe,2010,42591
+4824,Ukraine,Eastern Europe,2011,48431
+4825,Ukraine,Eastern Europe,2012,51647
+4826,Ukraine,Eastern Europe,2013,62224
+4827,Ukraine,Eastern Europe,2014,70251
+4828,Ukraine,Eastern Europe,2015,85770
+4829,Ukraine,Eastern Europe,2016,87440
+4830,Ukraine,Eastern Europe,2017,93288
+4831,Ukraine,Eastern Europe,2018,91784
+4832,Ukraine,Eastern Europe,2019,91862
+4833,Ukraine,Eastern Europe,2020,27227
+4834,Ukraine,Eastern Europe,2021,39040
+4835,Ukraine,Eastern Europe,2022,56517
+4836,United Arab Emirates,Middle East,2000,40039
+4837,United Arab Emirates,Middle East,2001,37518
+4838,United Arab Emirates,Middle East,2002,19080
+4839,United Arab Emirates,Middle East,2003,18353
+4840,United Arab Emirates,Middle East,2004,22571
+4841,United Arab Emirates,Middle East,2005,26883
+4842,United Arab Emirates,Middle East,2006,32633
+4843,United Arab Emirates,Middle East,2007,40498
+4844,United Arab Emirates,Middle East,2008,48564
+4845,United Arab Emirates,Middle East,2009,51472
+4846,United Arab Emirates,Middle East,2010,55425
+4847,United Arab Emirates,Middle East,2011,64564
+4848,United Arab Emirates,Middle East,2012,72420
+4849,United Arab Emirates,Middle East,2013,86605
+4850,United Arab Emirates,Middle East,2014,106017
+4851,United Arab Emirates,Middle East,2015,124050
+4852,United Arab Emirates,Middle East,2016,106399
+4853,United Arab Emirates,Middle East,2017,88933
+4854,United Arab Emirates,Middle East,2018,112590
+4855,United Arab Emirates,Middle East,2019,127007
+4856,United Arab Emirates,Middle East,2020,23859
+4857,United Arab Emirates,Middle East,2021,58431
+4858,United Arab Emirates,Middle East,2022,94459
+4859,United Kingdom,Western Europe,2000,4703008
+4860,United Kingdom,Western Europe,2001,4097258
+4861,United Kingdom,Western Europe,2002,3816736
+4862,United Kingdom,Western Europe,2003,3936112
+4863,United Kingdom,Western Europe,2004,4302737
+4864,United Kingdom,Western Europe,2005,4344957
+4865,United Kingdom,Western Europe,2006,4176211
+4866,United Kingdom,Western Europe,2007,4497858
+4867,United Kingdom,Western Europe,2008,4564895
+4868,United Kingdom,Western Europe,2009,3899167
+4869,United Kingdom,Western Europe,2010,3850864
+4870,United Kingdom,Western Europe,2011,3905195
+4871,United Kingdom,Western Europe,2012,3805681
+4872,United Kingdom,Western Europe,2013,4017209
+4873,United Kingdom,Western Europe,2014,4165429
+4874,United Kingdom,Western Europe,2015,4915379
+4875,United Kingdom,Western Europe,2016,4587092
+4876,United Kingdom,Western Europe,2017,4482707
+4877,United Kingdom,Western Europe,2018,4659178
+4878,United Kingdom,Western Europe,2019,4779997
+4879,United Kingdom,Western Europe,2020,730032
+4880,United Kingdom,Western Europe,2021,460749
+4881,United Kingdom,Western Europe,2022,3466107
+4882,Uruguay,South America,2000,69607
+4883,Uruguay,South America,2001,60346
+4884,Uruguay,South America,2002,47316
+4885,Uruguay,South America,2003,34801
+4886,Uruguay,South America,2004,28197
+4887,Uruguay,South America,2005,29741
+4888,Uruguay,South America,2006,30329
+4889,Uruguay,South America,2007,32804
+4890,Uruguay,South America,2008,33550
+4891,Uruguay,South America,2009,36690
+4892,Uruguay,South America,2010,41980
+4893,Uruguay,South America,2011,47320
+4894,Uruguay,South America,2012,54734
+4895,Uruguay,South America,2013,68811
+4896,Uruguay,South America,2014,76304
+4897,Uruguay,South America,2015,78140
+4898,Uruguay,South America,2016,80265
+4899,Uruguay,South America,2017,75470
+4900,Uruguay,South America,2018,83074
+4901,Uruguay,South America,2019,80883
+4902,Uruguay,South America,2020,15393
+4903,Uruguay,South America,2021,33673
+4904,Uruguay,South America,2022,63262
+4905,Uzbekistan,Asia,2000,6809
+4906,Uzbekistan,Asia,2001,7233
+4907,Uzbekistan,Asia,2002,5534
+4908,Uzbekistan,Asia,2003,4907
+4909,Uzbekistan,Asia,2004,3885
+4910,Uzbekistan,Asia,2005,4465
+4911,Uzbekistan,Asia,2006,4488
+4912,Uzbekistan,Asia,2007,3757
+4913,Uzbekistan,Asia,2008,3664
+4914,Uzbekistan,Asia,2009,4187
+4915,Uzbekistan,Asia,2010,4958
+4916,Uzbekistan,Asia,2011,4897
+4917,Uzbekistan,Asia,2012,6260
+4918,Uzbekistan,Asia,2013,8216
+4919,Uzbekistan,Asia,2014,7896
+4920,Uzbekistan,Asia,2015,10349
+4921,Uzbekistan,Asia,2016,9484
+4922,Uzbekistan,Asia,2017,11850
+4923,Uzbekistan,Asia,2018,9339
+4924,Uzbekistan,Asia,2019,7412
+4925,Uzbekistan,Asia,2020,1243
+4926,Uzbekistan,Asia,2021,1507
+4927,Uzbekistan,Asia,2022,9166
+4928,Vanuatu,Oceania,2000,495
+4929,Vanuatu,Oceania,2001,414
+4930,Vanuatu,Oceania,2002,214
+4931,Vanuatu,Oceania,2003,184
+4932,Vanuatu,Oceania,2004,176
+4933,Vanuatu,Oceania,2005,184
+4934,Vanuatu,Oceania,2006,184
+4935,Vanuatu,Oceania,2007,226
+4936,Vanuatu,Oceania,2008,225
+4937,Vanuatu,Oceania,2009,189
+4938,Vanuatu,Oceania,2010,165
+4939,Vanuatu,Oceania,2011,163
+4940,Vanuatu,Oceania,2012,194
+4941,Vanuatu,Oceania,2013,217
+4942,Vanuatu,Oceania,2014,239
+4943,Vanuatu,Oceania,2015,275
+4944,Vanuatu,Oceania,2016,255
+4945,Vanuatu,Oceania,2017,168
+4946,Vanuatu,Oceania,2018,236
+4947,Vanuatu,Oceania,2019,249
+4948,Vanuatu,Oceania,2020,47
+4949,Vanuatu,Oceania,2021,24
+4950,Vanuatu,Oceania,2022,229
+4951,Venezuela,South America,2000,576663
+4952,Venezuela,South America,2001,555292
+4953,Venezuela,South America,2002,395913
+4954,Venezuela,South America,2003,284423
+4955,Venezuela,South America,2004,330285
+4956,Venezuela,South America,2005,340315
+4957,Venezuela,South America,2006,369037
+4958,Venezuela,South America,2007,458678
+4959,Venezuela,South America,2008,507153
+4960,Venezuela,South America,2009,507185
+4961,Venezuela,South America,2010,491604
+4962,Venezuela,South America,2011,572333
+4963,Venezuela,South America,2012,670961
+4964,Venezuela,South America,2013,815354
+4965,Venezuela,South America,2014,622683
+4966,Venezuela,South America,2015,597253
+4967,Venezuela,South America,2016,589848
+4968,Venezuela,South America,2017,500247
+4969,Venezuela,South America,2018,501572
+4970,Venezuela,South America,2019,400530
+4971,Venezuela,South America,2020,87237
+4972,Venezuela,South America,2021,221502
+4973,Venezuela,South America,2022,214599
+4974,Vietnam,Asia,2000,9061
+4975,Vietnam,Asia,2001,12928
+4976,Vietnam,Asia,2002,12360
+4977,Vietnam,Asia,2003,9463
+4978,Vietnam,Asia,2004,12401
+4979,Vietnam,Asia,2005,19191
+4980,Vietnam,Asia,2006,24068
+4981,Vietnam,Asia,2007,36894
+4982,Vietnam,Asia,2008,43733
+4983,Vietnam,Asia,2009,40423
+4984,Vietnam,Asia,2010,45914
+4985,Vietnam,Asia,2011,48551
+4986,Vietnam,Asia,2012,56052
+4987,Vietnam,Asia,2013,66629
+4988,Vietnam,Asia,2014,89239
+4989,Vietnam,Asia,2015,102279
+4990,Vietnam,Asia,2016,110894
+4991,Vietnam,Asia,2017,119660
+4992,Vietnam,Asia,2018,122512
+4993,Vietnam,Asia,2019,132796
+4994,Vietnam,Asia,2020,21222
+4995,Vietnam,Asia,2021,13186
+4996,Vietnam,Asia,2022,72722
+4997,Wallis And Futuna Islands,Oceania,2000,110
+4998,Wallis And Futuna Islands,Oceania,2001,101
+4999,Wallis And Futuna Islands,Oceania,2002,31
+5000,Wallis And Futuna Islands,Oceania,2003,26
+5001,Wallis And Futuna Islands,Oceania,2004,41
+5002,Wallis And Futuna Islands,Oceania,2005,79
+5003,Wallis And Futuna Islands,Oceania,2006,38
+5004,Wallis And Futuna Islands,Oceania,2007,43
+5005,Wallis And Futuna Islands,Oceania,2008,60
+5006,Wallis And Futuna Islands,Oceania,2009,40
+5007,Wallis And Futuna Islands,Oceania,2010,21
+5008,Wallis And Futuna Islands,Oceania,2011,12
+5009,Wallis And Futuna Islands,Oceania,2012,65
+5010,Wallis And Futuna Islands,Oceania,2013,76
+5011,Wallis And Futuna Islands,Oceania,2014,44
+5012,Wallis And Futuna Islands,Oceania,2015,46
+5013,Wallis And Futuna Islands,Oceania,2016,41
+5014,Wallis And Futuna Islands,Oceania,2017,34
+5015,Wallis And Futuna Islands,Oceania,2018,357
+5016,Wallis And Futuna Islands,Oceania,2019,62
+5017,Wallis And Futuna Islands,Oceania,2020,27
+5018,Wallis And Futuna Islands,Oceania,2021,9
+5019,Wallis And Futuna Islands,Oceania,2022,34
+5020,West Indies (French),Caribbean,2013,1
+5021,West Indies (French),Caribbean,2014,4
+5022,West Indies (French),Caribbean,2015,0
+5023,West Indies (French),Caribbean,2016,3
+5024,West Indies (French),Caribbean,2017,3
+5025,West Indies (French),Caribbean,2018,5
+5026,West Indies (French),Caribbean,2019,0
+5027,West Indies (French),Caribbean,2020,0
+5028,West Indies (French),Caribbean,2021,0
+5029,West Indies (French),Caribbean,2022,0
+5030,Western Sahara,Africa,2000,1
+5031,Western Sahara,Africa,2001,1
+5032,Western Sahara,Africa,2002,1
+5033,Western Sahara,Africa,2003,1
+5034,Western Sahara,Africa,2004,0
+5035,Western Sahara,Africa,2005,8
+5036,Western Sahara,Africa,2006,14
+5037,Western Sahara,Africa,2007,8
+5038,Western Sahara,Africa,2008,11
+5039,Western Sahara,Africa,2009,1
+5040,Western Sahara,Africa,2010,27
+5041,Western Sahara,Africa,2011,141
+5042,Western Sahara,Africa,2012,92
+5043,Western Sahara,Africa,2013,100
+5044,Western Sahara,Africa,2014,116
+5045,Western Sahara,Africa,2015,118
+5046,Western Sahara,Africa,2016,154
+5047,Western Sahara,Africa,2017,153
+5048,Western Sahara,Africa,2018,142
+5049,Western Sahara,Africa,2019,79
+5050,Western Sahara,Africa,2020,7
+5051,Western Sahara,Africa,2021,14
+5052,Western Sahara,Africa,2022,30
+5053,Western Samoa,Oceania,2000,1206
+5054,Western Samoa,Oceania,2001,1107
+5055,Western Samoa,Oceania,2002,1006
+5056,Western Samoa,Oceania,2003,1208
+5057,Western Samoa,Oceania,2004,1015
+5058,Western Samoa,Oceania,2005,1173
+5059,Western Samoa,Oceania,2006,1258
+5060,Western Samoa,Oceania,2007,1433
+5061,Western Samoa,Oceania,2008,1339
+5062,Western Samoa,Oceania,2009,1264
+5063,Western Samoa,Oceania,2010,1192
+5064,Western Samoa,Oceania,2019,2738
+5065,Western Samoa,Oceania,2020,466
+5066,Western Samoa,Oceania,2021,534
+5067,Western Samoa,Oceania,2022,1277
+5068,Yemen,Middle East,2000,1995
+5069,Yemen,Middle East,2001,1259
+5070,Yemen,Middle East,2002,445
+5071,Yemen,Middle East,2003,388
+5072,Yemen,Middle East,2004,562
+5073,Yemen,Middle East,2005,937
+5074,Yemen,Middle East,2006,1078
+5075,Yemen,Middle East,2007,867
+5076,Yemen,Middle East,2008,718
+5077,Yemen,Middle East,2009,936
+5078,Yemen,Middle East,2010,1072
+5079,Yemen,Middle East,2011,979
+5080,Yemen,Middle East,2012,1433
+5081,Yemen,Middle East,2013,2219
+5082,Yemen,Middle East,2014,3714
+5083,Yemen,Middle East,2015,2894
+5084,Yemen,Middle East,2016,3405
+5085,Yemen,Middle East,2017,1773
+5086,Yemen,Middle East,2018,722
+5087,Yemen,Middle East,2019,779
+5088,Yemen,Middle East,2020,248
+5089,Yemen,Middle East,2021,609
+5090,Yemen,Middle East,2022,1296
+5091,Yugoslavia,Western Europe,2000,8039
+5092,Yugoslavia,Western Europe,2001,10206
+5093,Yugoslavia,Western Europe,2002,10972
+5094,Yugoslavia,Western Europe,2003,5670
+5095,Yugoslavia,Western Europe,2004,3241
+5096,Yugoslavia,Western Europe,2005,3047
+5097,Yugoslavia,Western Europe,2006,2442
+5098,Yugoslavia,Western Europe,2007,2002
+5099,Yugoslavia,Western Europe,2008,1457
+5100,Yugoslavia,Western Europe,2009,723
+5101,Yugoslavia,Western Europe,2010,656
+5102,Yugoslavia,Western Europe,2011,294
+5103,Yugoslavia,Western Europe,2012,147
+5104,Yugoslavia,Western Europe,2013,160
+5105,Yugoslavia,Western Europe,2014,161
+5106,Yugoslavia,Western Europe,2015,83
+5107,Yugoslavia,Western Europe,2016,44
+5108,Yugoslavia,Western Europe,2017,61
+5109,Yugoslavia,Western Europe,2018,42
+5110,Yugoslavia,Western Europe,2019,21
+5111,Yugoslavia,Western Europe,2020,14
+5112,Yugoslavia,Western Europe,2021,9
+5113,Yugoslavia,Western Europe,2022,53
+5114,Zaire ( formerly Congo Democratic Republic of),Africa,2000,111
+5115,Zaire ( formerly Congo Democratic Republic of),Africa,2001,119
+5116,Zaire ( formerly Congo Democratic Republic of),Africa,2002,81
+5117,Zaire ( formerly Congo Democratic Republic of),Africa,2003,76
+5118,Zaire ( formerly Congo Democratic Republic of),Africa,2004,70
+5119,Zaire ( formerly Congo Democratic Republic of),Africa,2005,156
+5120,Zaire ( formerly Congo Democratic Republic of),Africa,2006,418
+5121,Zaire ( formerly Congo Democratic Republic of),Africa,2007,788
+5122,Zaire ( formerly Congo Democratic Republic of),Africa,2008,888
+5123,Zaire ( formerly Congo Democratic Republic of),Africa,2009,1058
+5124,Zaire ( formerly Congo Democratic Republic of),Africa,2010,1189
+5125,Zaire ( formerly Congo Democratic Republic of),Africa,2011,971
+5126,Zaire ( formerly Congo Democratic Republic of),Africa,2012,1358
+5127,Zaire ( formerly Congo Democratic Republic of),Africa,2013,3776
+5128,Zaire ( formerly Congo Democratic Republic of),Africa,2014,5604
+5129,Zaire ( formerly Congo Democratic Republic of),Africa,2015,5897
+5130,Zaire ( formerly Congo Democratic Republic of),Africa,2016,6782
+5131,Zaire ( formerly Congo Democratic Republic of),Africa,2017,6675
+5132,Zaire ( formerly Congo Democratic Republic of),Africa,2018,7673
+5133,Zaire ( formerly Congo Democratic Republic of),Africa,2019,7483
+5134,Zaire ( formerly Congo Democratic Republic of),Africa,2020,1075
+5135,Zaire ( formerly Congo Democratic Republic of),Africa,2021,2673
+5136,Zaire ( formerly Congo Democratic Republic of),Africa,2022,6380
+5137,Zambia,Africa,2000,3337
+5138,Zambia,Africa,2001,4413
+5139,Zambia,Africa,2002,3165
+5140,Zambia,Africa,2003,2782
+5141,Zambia,Africa,2004,2882
+5142,Zambia,Africa,2005,2893
+5143,Zambia,Africa,2006,3013
+5144,Zambia,Africa,2007,2795
+5145,Zambia,Africa,2008,2489
+5146,Zambia,Africa,2009,2310
+5147,Zambia,Africa,2010,2994
+5148,Zambia,Africa,2011,3130
+5149,Zambia,Africa,2012,3560
+5150,Zambia,Africa,2013,3755
+5151,Zambia,Africa,2014,3876
+5152,Zambia,Africa,2015,3990
+5153,Zambia,Africa,2016,4073
+5154,Zambia,Africa,2017,4498
+5155,Zambia,Africa,2018,4649
+5156,Zambia,Africa,2019,4363
+5157,Zambia,Africa,2020,819
+5158,Zambia,Africa,2021,1285
+5159,Zambia,Africa,2022,3986
+5160,Zimbabwe,Africa,2000,8080
+5161,Zimbabwe,Africa,2001,6832
+5162,Zimbabwe,Africa,2002,5457
+5163,Zimbabwe,Africa,2003,5223
+5164,Zimbabwe,Africa,2004,5138
+5165,Zimbabwe,Africa,2005,4796
+5166,Zimbabwe,Africa,2006,4535
+5167,Zimbabwe,Africa,2007,4521
+5168,Zimbabwe,Africa,2008,4260
+5169,Zimbabwe,Africa,2009,3854
+5170,Zimbabwe,Africa,2010,4158
+5171,Zimbabwe,Africa,2011,4543
+5172,Zimbabwe,Africa,2012,4989
+5173,Zimbabwe,Africa,2013,5489
+5174,Zimbabwe,Africa,2014,6831
+5175,Zimbabwe,Africa,2015,7262
+5176,Zimbabwe,Africa,2016,7559
+5177,Zimbabwe,Africa,2017,8044
+5178,Zimbabwe,Africa,2018,7969
+5179,Zimbabwe,Africa,2019,7555
+5180,Zimbabwe,Africa,2020,1502
+5181,Zimbabwe,Africa,2021,2340
+5182,Zimbabwe,Africa,2022,6580
